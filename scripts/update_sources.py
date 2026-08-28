@@ -15,7 +15,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUTPUT = ROOT / "data" / "latest.json"
+LATEST = ROOT / "data" / "latest.json"
+ARCHIVE = ROOT / "data" / "archive.json"
 START = datetime(2026, 8, 26, tzinfo=timezone.utc)
 USER_AGENT = "RasuwaFloodSourceIndex/1.0 (+https://rasuwaflood.org/)"
 QUERIES = (
@@ -86,11 +87,14 @@ def google_news() -> list[dict]:
 
 
 def previous_items() -> list[dict]:
-    try:
-        data = json.loads(OUTPUT.read_text())
-        return [item for item in data.get("items", []) if item.get("url")]
-    except (FileNotFoundError, json.JSONDecodeError):
-        return []
+    items: list[dict] = []
+    for path in (ARCHIVE, LATEST):
+        try:
+            data = json.loads(path.read_text())
+            items.extend(item for item in data.get("items", []) if item.get("url"))
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+    return items
 
 
 def main() -> int:
@@ -111,19 +115,20 @@ def main() -> int:
         item.setdefault("kind", "Source")
         unique[url] = item
 
-    ordered = sorted(unique.values(), key=lambda item: (item.get("timestamp", 0), item.get("date", "")), reverse=True)[:60]
+    ordered = sorted(unique.values(), key=lambda item: (item.get("timestamp", 0), item.get("date", "")), reverse=True)
     for item in ordered:
         item.pop("timestamp", None)
-    payload = {
+    shared = {
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-        "count": len(ordered),
         "collection_method": "Automated metadata discovery; inclusion is not verification.",
         "errors": errors,
-        "items": ordered,
     }
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
-    print(f"Wrote {len(ordered)} unique sources to {OUTPUT.relative_to(ROOT)}")
+    latest_payload = {**shared, "count": min(60, len(ordered)), "total_archived": len(ordered), "items": ordered[:60]}
+    archive_payload = {**shared, "count": len(ordered), "items": ordered}
+    LATEST.parent.mkdir(parents=True, exist_ok=True)
+    LATEST.write_text(json.dumps(latest_payload, ensure_ascii=False, indent=2) + "\n")
+    ARCHIVE.write_text(json.dumps(archive_payload, ensure_ascii=False, indent=2) + "\n")
+    print(f"Wrote {len(latest_payload['items'])} latest and {len(ordered)} archived sources")
     if errors:
         print("; ".join(errors), file=sys.stderr)
     return 0

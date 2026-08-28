@@ -12,7 +12,7 @@ GitHub Pages publishes directly from the root of `main`. The `CNAME` file assign
 
 ## Automated source discovery
 
-GitHub Actions runs `scripts/update_sources.py` every three hours and on demand. The collector reads news-search feeds, applies event-specific keyword checks, deduplicates URLs, and updates `data/latest.json`. It indexes titles, links and short feed descriptions only; it does not republish articles or treat automated discovery as verification.
+GitHub Actions runs `scripts/update_sources.py` every three hours and on demand. The collector reads news-search feeds, applies event-specific keyword checks, deduplicates URLs, and updates `data/latest.json`. Every unique item is also retained permanently in `data/archive.json`, which powers the website’s search and browsable archive. It indexes titles, links and short feed descriptions only; it does not republish articles or treat automated discovery as verification.
 
 ## Editorial note
 
