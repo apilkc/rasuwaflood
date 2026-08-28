@@ -103,6 +103,11 @@
     .latest-item .meta{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin-bottom:8px}
     .latest-item h3{margin:0 0 8px}.latest-item p{font-size:.88rem;color:#565c58;margin-bottom:10px}
     .latest-item a{font-size:.84rem;font-weight:650}
+    .pinned-links{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:25px 0 34px}
+    .pinned-link{display:block;padding:17px 18px;background:var(--soft);border:1px solid #cfd9d1;text-decoration:none}
+    .pinned-link small{display:block;color:var(--muted);text-transform:uppercase;letter-spacing:.09em;font-size:.65rem;margin-bottom:5px}
+    .pinned-link strong{display:block;line-height:1.3}
+    .creator-note{margin-top:18px;padding-top:18px;border-top:1px solid var(--line);color:var(--ink)}
 
 
     /* Refined visual hierarchy and restrained interaction */
@@ -154,7 +159,7 @@
 
     @media(max-width:800px){
       .navlinks a:not(.button){display:none}.hero{padding-top:66px}.status{grid-template-columns:1fr 1fr}.status div:nth-child(2){border-right:0}.status div:nth-child(3),.status div:nth-child(4){border-top:1px solid var(--line)}
-      .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
+      .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid,.pinned-links{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
     }
   </style>
 </head>
@@ -182,9 +187,9 @@
       <h1>The Rasuwa Flood</h1>
       <p class="lead">A concise, source-based record of the catastrophic flood that began high in the Lhende catchment and travelled through Rasuwagadhi, the Bhote Koshi and Trishuli river system.</p>
       <div class="hero-actions">
-        <a class="button primary" href="#event">Understand the event</a>
+        <a class="button primary" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer">Contribute or explore evidence ↗</a>
+        <a class="button" href="#event">Understand the event</a>
         <a class="button" href="https://nirajbhusal.github.io/rasuwa-flood-bulletin/#home" target="_blank" rel="noopener">Current situation bulletin ↗</a>
-        <a class="button" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener">VIVA-D: Explore & preserve evidence ↗</a>
       </div>
       <div class="status">
         <div><small>Event date</small>26 Aug 2026</div>
@@ -297,9 +302,9 @@
     <div class="wrap">
       <div class="viva">
         <div class="eyebrow" style="color:#c9d8d0">VIVA-D · Virtual Imagery and Video Archive for Disasters</div>
-        <h2>Preserve and explore ground evidence</h2>
-        <p>VIVA-D is the companion evidence archive for this disaster. It preserves original photographs, videos, social-media records, reports and geolocated material so that evidence remains available to affected communities, researchers, journalists and policymakers after the emergency period.</p>
-        <div class="hero-actions"><a class="button" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer">Open VIVA-D Archive ↗</a><a class="button" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer">Contribute evidence ↗</a></div>
+        <h2>Have evidence? Preserve it in VIVA-D.</h2>
+        <p>VIVA-D is the companion evidence archive for this disaster. Contribute original photographs, videos, social-media records, reports or geolocated material—or search the collection for evidence already preserved. The archive keeps vital records available to affected communities, researchers, journalists and policymakers after the emergency period.</p>
+        <div class="hero-actions"><a class="button" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer">Contribute evidence ↗</a><a class="button" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer">Search VIVA-D resources ↗</a></div>
       </div>
     </div>
   </section>
@@ -367,7 +372,15 @@
     <div class="wrap">
       <div class="eyebrow">Automated discovery</div>
       <h2>Latest reports, research & reporting</h2>
-      <p style="max-width:780px">This section is populated from <code>data/latest.json</code>, produced by the accompanying Python collector. It discovers relevant material published from 26 August 2026 onward and links to the original source. Discovery is automated; inclusion here should not be treated as independent verification.</p>
+      <p style="max-width:780px">This index is refreshed every three hours from news and humanitarian-report feeds. It discovers relevant material published from 26 August 2026 onward and links to the original source. Discovery is automated; inclusion here is not independent verification.</p>
+      <div class="pinned-links" aria-label="Important primary resources">
+        <a class="pinned-link" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener noreferrer"><small>Evidence archive</small><strong>VIVA-D: contribute or search evidence ↗</strong></a>
+        <a class="pinned-link" href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener noreferrer"><small>Technical assessment</small><strong>HiRISK Rapid Hazard Assessment ↗</strong></a>
+        <a class="pinned-link" href="https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border/" target="_blank" rel="noopener noreferrer"><small>Regional science</small><strong>ICIMOD knowledge hub ↗</strong></a>
+        <a class="pinned-link" href="https://mapping.emergency.copernicus.eu/news/flood-in-nepal-emsr927/" target="_blank" rel="noopener noreferrer"><small>Emergency mapping</small><strong>Copernicus EMSR927 ↗</strong></a>
+        <a class="pinned-link" href="https://unosat.org/products/4257" target="_blank" rel="noopener noreferrer"><small>Satellite analysis</small><strong>UNOSAT product 4257 ↗</strong></a>
+        <a class="pinned-link" href="https://nirajbhusal.github.io/rasuwa-flood-bulletin/#home" target="_blank" rel="noopener noreferrer"><small>Situation updates</small><strong>Rasuwa Flood Bulletin ↗</strong></a>
+      </div>
       <div id="latest-status" class="latest-status">Loading latest source index…</div>
       <div id="latest-grid" class="latest-grid"></div>
     </div>
@@ -398,7 +411,7 @@
 
 <footer>
   <div class="wrap footergrid">
-    <div><strong style="color:var(--ink)">RASUWA FLOOD</strong><br>A public, source-based record of the 26 August 2026 disaster. Built to complement, not duplicate, the live Rasuwa Flood Bulletin and the VIVA-D evidence archive.</div>
+    <div><strong style="color:var(--ink)">RASUWA FLOOD</strong><br>A public, source-based record of the 26 August 2026 disaster. Built to complement, not duplicate, the live Rasuwa Flood Bulletin and the VIVA-D evidence archive.<div class="creator-note"><strong>Created and maintained by APIL K.C.</strong> I created this website as a curated collection of public sources, reports, maps and documented evidence related to the Rasuwa flood.</div></div>
     <div>Information remains provisional while scientific and official assessments continue. Significant claims should always be checked against the linked original source.</div>
   </div>
 </footer>

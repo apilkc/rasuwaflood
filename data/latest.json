@@ -1,6 +1,42 @@
-{"generated_at":"28 August 2026","count":4,"items":[
-{"source":"HiRISK","date":"28 Aug 2026","title":"Rapid Hazard Assessment Report No. NP3","summary":"Preliminary reconstruction of the rock–ice avalanche, temporary blockage, flood runout and impacts.","url":"https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf"},
-{"source":"Associated Press","date":"28 Aug 2026","title":"Satellite images show bedrock and glacier collapse","summary":"Independent geomorphologists interpret before-and-after satellite imagery and downstream change.","url":"https://apnews.com/article/climate-change-nepal-tibet-glacier-collapse-floods-b3eda9410f9941f69add384944047bc3"},
-{"source":"Reuters","date":"28 Aug 2026","title":"Barrier lake and secondary flood risk","summary":"Reporting on renewed evacuation and rescue interruptions near the Nepal–China border.","url":"https://www.reuters.com/business/environment/nepal-lake-breaks-banks-water-level-rising-district-official-says-2026-08-28/"},
-{"source":"ICIMOD","date":"28 Aug 2026","title":"Kyirong–Rasuwa Flood 2026 knowledge hub","summary":"Regional scientific information, media advisories, interviews and risk discussion.","url":"https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border/"}
-]}
+{
+  "generated_at": "2026-08-28T19:27:46Z",
+  "count": 4,
+  "collection_method": "Automated metadata discovery; inclusion is not verification.",
+  "errors": [
+    "Google News RSS: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  ],
+  "items": [
+    {
+      "source": "HiRISK",
+      "date": "28 Aug 2026",
+      "title": "Rapid Hazard Assessment Report No. NP3",
+      "summary": "Preliminary reconstruction of the rock–ice avalanche, temporary blockage, flood runout and impacts.",
+      "url": "https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf",
+      "kind": "Source"
+    },
+    {
+      "source": "Associated Press",
+      "date": "28 Aug 2026",
+      "title": "Satellite images show bedrock and glacier collapse",
+      "summary": "Independent geomorphologists interpret before-and-after satellite imagery and downstream change.",
+      "url": "https://apnews.com/article/climate-change-nepal-tibet-glacier-collapse-floods-b3eda9410f9941f69add384944047bc3",
+      "kind": "Source"
+    },
+    {
+      "source": "Reuters",
+      "date": "28 Aug 2026",
+      "title": "Barrier lake and secondary flood risk",
+      "summary": "Reporting on renewed evacuation and rescue interruptions near the Nepal–China border.",
+      "url": "https://www.reuters.com/business/environment/nepal-lake-breaks-banks-water-level-rising-district-official-says-2026-08-28/",
+      "kind": "Source"
+    },
+    {
+      "source": "ICIMOD",
+      "date": "28 Aug 2026",
+      "title": "Kyirong–Rasuwa Flood 2026 knowledge hub",
+      "summary": "Regional scientific information, media advisories, interviews and risk discussion.",
+      "url": "https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border/",
+      "kind": "Source"
+    }
+  ]
+}
