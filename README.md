@@ -8,7 +8,7 @@ Run `python3 -m http.server 8000`, then open `http://localhost:8000`.
 
 ## Publishing
 
-Pushes to `main` deploy automatically with GitHub Actions. The `CNAME` file assigns the custom domain. DNS must point the apex domain to GitHub Pages before HTTPS can be enabled.
+GitHub Pages publishes directly from the root of `main`. The `CNAME` file assigns the custom domain. DNS must point the apex domain to GitHub Pages before HTTPS can be enabled.
 
 ## Editorial note
 
