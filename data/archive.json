@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:54:23Z",
+  "generated_at": "2026-08-29T23:17:36Z",
   "collection_method": "Automated metadata discovery; inclusion is not verification.",
   "errors": [],
   "count": 158,
@@ -53,11 +53,19 @@
       "kind": "News and reporting"
     },
     {
+      "source": "Khabarhub",
+      "date": "2026-08-29",
+      "title": "Rasuwa flood: 184 tourists rescued, 420 still out of contact - Khabarhub",
+      "summary": "Rasuwa flood: 184 tourists rescued, 420 still out of contact Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iaFBLbjFEVnFNb2l5WDUySEdYTDc1a1lWUU56d1FLR3JrZm1qRzREUk1YQ0xXVlFaeVdrMXgzLUNvTFBPUFZ2WVJJN1E0RDZaeDBXT18yMk8?oc=5",
+      "kind": "News and reporting"
+    },
+    {
       "source": "The Kathmandu Post",
       "date": "2026-08-29",
       "title": "Authorities begin burying 229 unidentified Bhotekoshi flood victims - The Kathmandu Post",
       "summary": "Authorities begin burying 229 unidentified Bhotekoshi flood victims The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlk4Um1WbzJCMmpmZFhIQnhoVVBWb2h4dE1tSzYzU1Y0VF9JM0U2aU92cVlieHB4SFFRV2JpYmFFbEI1YzBySmF3ZHdmZXM4Ym90NkVSLWNCUklHQ0l6b0VxQUlrR0I4SFJONDJDWENBa3NvYV8wR3VEMldmWWt1c0kzazlqVEhaMUNZVTljZnJpaWhJTlB2bkNvMGIxZjBOUmVIeHBTV0hLT1ZVbXFTNnVwQlFvSkloajBSZ2xTLUhLUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3IzdjBYY3RkcW1Ka0lGczdMZGZSZ0dJRU1LMUVubTRnWGNuWXpiX0pWZE5CeGZsem5tbFZsX2xEcHJ2REJOZ3pMaWdkYTM1QXNaM3NjLV9YcFMyRW1lX1gyR29kc3gxdC1Bb0Z1T01kWTcwd3YwRkp0T0lSSFFsSXEzcXBMMG1ma1ROTFpxNkxPNHlSSDdZNUFQQU54ZHFTTnpTYVd2MzNhUEc1TDZQQVBNVQ?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -298,14 +306,6 @@
       "title": "Update: 121 foreign tourists rescued following Bhote Koshi flood - NepalNews",
       "summary": "Update: 121 foreign tourists rescued following Bhote Koshi flood NepalNews",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHRtZWlKVk9OZnl1VENrVFF1T1ZaLXpOWGdHU2VBQVowM3hKUlBIblFiWExyMDJ3TkZnRHZ3OVlFLV9PblN3SEFBM25najdsZC1VajZpYWlqOGh0Z2pXWTFZRkpaT0ttcDZKUWVsdEc3bUZpTTZJUkZRcHNXdzNXcGVuM2tRcEtZQl90UU5YdlJjLWJaRlY5WnBMdTBCWUhoeVB4eDQ0dnRtazZianJEZw?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Annapurna Express",
-      "date": "2026-08-28",
-      "title": "644 foreign nationals among 2,381 missing in Rasuwa flood - The Annapurna Express",
-      "summary": "644 foreign nationals among 2,381 missing in Rasuwa flood The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0R4Wl9ldU8zd1JZc2YwSjIwUUVSMEpnQzdfZmNpV0RudEpvb1dzUXZTd3JlNGs3TXNRRlZseHk1dzczZl9WZDJoa3Y0WllWUXhCMVZudw?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -597,14 +597,6 @@
       "kind": "News and reporting"
     },
     {
-      "source": "Ratopati",
-      "date": "2026-08-27",
-      "title": "359 Dead in Bhote Koshi Flood - Ratopati",
-      "summary": "359 Dead in Bhote Koshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFdKYUh0eG1EMFcydV83WXV3SF81bkVTMU5yUXE5elhvR1hfT0psSlR1eTltLWlZMWY2TEp3NWQyOWJNM1cwUmNhYWVpUURPb001YklVaEZBMHhJRUs0UG9sc3ZXTG5XbXFIc0RMektOUXFPQklHMTZpRUNJOWRjR3Z3?oc=5",
-      "kind": "News and reporting"
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-08-27",
       "title": "The Second Day of the Bhotekoshi Flood: The Disaster in 10 Photos - Ekantipur",
@@ -658,6 +650,14 @@
       "title": "Over 1,500 Mansarovar pilgrims stranded in Tibet after Bhote Koshi flood - The Tourism Times",
       "summary": "Over 1,500 Mansarovar pilgrims stranded in Tibet after Bhote Koshi flood The Tourism Times",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0xVS1paYkUwbjYyck1xVndEWU8wV0VsRVVVcDlzWGt3RVh6WkZBdEVOT1RNQ3FqeEdXZTA1V1NoMDc1bWkxb1RNRk5tV2FKcGV4VGxBSklxZUJIbjYxQ1B6YXpkbWg0dldxMHNsZGdjeHJaWFg0WDZneFVmWWNIczNlbzZYVGJsc0ppajRmcGI5eWtwWXRPV2VpTnNFbml1bHQxLXFOYnotLWd0dlhER1lwNWhDVjc2RVVN?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-08-27",
+      "title": "Bhotekoshi flood: 336 people, including 45 foreigners, airlifted to safety - Khabarhub",
+      "summary": "Bhotekoshi flood: 336 people, including 45 foreigners, airlifted to safety Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTmVPc3ptdG9SUzRFVTRFVXpYUEhBYlBJWG4ya0pGRnl0M2JCNzJLcTZ1ODhZOHNnSkRrX3hOSk16QThwUTNiZjkyUHNBTElVWERWNk9GcG4?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -777,7 +777,7 @@
       "date": "2026-08-26",
       "title": "384 tourists including 291 foreigners missing after Rasuwa flood - myRepublica",
       "summary": "384 tourists including 291 foreigners missing after Rasuwa flood myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1DQlFfWHlIekhRcUxTNGtRbkxXVzFqSDJSV0o0OElZbEkyVnRTbTZqYjdqOV9ueFB1QTBIdHE5TDVMbW1NVE51QXRmZXRfYlVZZHA1SmpsU1BsOFNTenV4c0NuUV9PaW9vd2ZoRG01d3BHU1JQYVZmcjdUYmFvZkJrU2J1VDdSTVZKUVNwaTltWnRRVXJOMU9QUmJCSzhpb2MzYjdzcGhrSi1VdlVBLUdMb29JSTJSeDNTblFuaGQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUNLWlpuR294ZHJ5TjNPTE5IWmJpNEh6bjRqekZyRXQ0dkMxalNrU08wSmhJZFZ6NmFnNWRPZXhRU2RHWjhkbEZlSTJkT1dkLWc0bDRTUTZVTmFOWVRrclVVeW9XQkp6c1JuSzVQTU1pYjhGc0htVDFTQUtvLTkwZEdzbmppMXpXbVhWTkU4ckJZNUtpV1VhRG5nZUp1QlZrUWZ3empoaEpKcjJtQmNLMDM1OVlxbkRiQXJz?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -877,19 +877,19 @@
       "kind": "News and reporting"
     },
     {
+      "source": "The Kathmandu Post",
+      "date": "2026-08-29",
+      "title": "Authorities begin burying 229 unidentified Bhotekoshi flood victims - The Kathmandu Post",
+      "summary": "Authorities begin burying 229 unidentified Bhotekoshi flood victims The Kathmandu Post",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlk4Um1WbzJCMmpmZFhIQnhoVVBWb2h4dE1tSzYzU1Y0VF9JM0U2aU92cVlieHB4SFFRV2JpYmFFbEI1YzBySmF3ZHdmZXM4Ym90NkVSLWNCUklHQ0l6b0VxQUlrR0I4SFJONDJDWENBa3NvYV8wR3VEMldmWWt1c0kzazlqVEhaMUNZVTljZnJpaWhJTlB2bkNvMGIxZjBOUmVIeHBTV0hLT1ZVbXFTNnVwQlFvSkloajBSZ2xTLUhLUQ?oc=5",
+      "kind": "News and reporting"
+    },
+    {
       "source": "radionepalonline.com",
       "date": "2026-08-29",
       "title": "675 People Confirmed Dead So Far in Bhotekoshi Flood, 2426 People Remain Unknown - radionepalonline.com",
       "summary": "675 People Confirmed Dead So Far in Bhotekoshi Flood, 2426 People Remain Unknown radionepalonline.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iY1pQZXhQM3RqTFZLdTVObGRyQ2RVdDZqTWN4TDljVTRLNDRKSDN0cWNhenAzeGkzX1FiOU5QM0Vad1JrT3ZqTTZvcjVxY1FQZHpUMXVEZzNBTjhsV2lPSkhYaTc?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-08-29",
-      "title": "Rasuwa flood: 184 tourists rescued, 420 still out of contact - Khabarhub",
-      "summary": "Rasuwa flood: 184 tourists rescued, 420 still out of contact Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iaFBLbjFEVnFNb2l5WDUySEdYTDc1a1lWUU56d1FLR3JrZm1qRzREUk1YQ0xXVlFaeVdrMXgzLUNvTFBPUFZ2WVJJN1E0RDZaeDBXT18yMk8?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -909,19 +909,19 @@
       "kind": "News and reporting"
     },
     {
-      "source": "The Kathmandu Post",
-      "date": "2026-08-29",
-      "title": "Authorities begin burying 229 unidentified Bhotekoshi flood victims - The Kathmandu Post",
-      "summary": "Authorities begin burying 229 unidentified Bhotekoshi flood victims The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3IzdjBYY3RkcW1Ka0lGczdMZGZSZ0dJRU1LMUVubTRnWGNuWXpiX0pWZE5CeGZsem5tbFZsX2xEcHJ2REJOZ3pMaWdkYTM1QXNaM3NjLV9YcFMyRW1lX1gyR29kc3gxdC1Bb0Z1T01kWTcwd3YwRkp0T0lSSFFsSXEzcXBMMG1ma1ROTFpxNkxPNHlSSDdZNUFQQU54ZHFTTnpTYVd2MzNhUEc1TDZQQVBNVQ?oc=5",
-      "kind": "News and reporting"
-    },
-    {
       "source": "myRepublica",
       "date": "2026-08-29",
       "title": "Death toll from Bhotekoshi flood climbs to 584; at least 2400 still missing - myRepublica",
       "summary": "Death toll from Bhotekoshi flood climbs to 584; at least 2400 still missing myRepublica",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa1hWSGJrVVl3dGZFTWhXRFYzdnZwblhuZldMR3ozek1RYnNyVEMzSkd5OUk3NmFNTm11RHFxMTJVR0VfS2RjNFdqV1lqZXdIS2I5aHlzeVhzMUNYT1R1NDZlMEhXOVBoeEJHYkhhRklMU3hOLUoxZ0hDV2RHS0RrNUFKOEk0RTFpTnpnVlJkRkl2Ty11U0MtX3VzU3FNUkxPc29qVk9TSEpqNWhnNFlqT3VNZWpVeFNiNVhKWHc4LUlQMHFuUi10Qg?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "The Annapurna Express",
+      "date": "2026-08-28",
+      "title": "644 foreign nationals among 2,381 missing in Rasuwa flood - The Annapurna Express",
+      "summary": "644 foreign nationals among 2,381 missing in Rasuwa flood The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0R4Wl9ldU8zd1JZc2YwSjIwUUVSMEpnQzdfZmNpV0RudEpvb1dzUXZTd3JlNGs3TXNRRlZseHk1dzczZl9WZDJoa3Y0WllWUXhCMVZudw?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -991,17 +991,17 @@
     {
       "source": "Ratopati",
       "date": "2026-08-27",
-      "title": "Postmortem Conducted on Vivek Shrestha Found Dead in Bhote Koshi Flood - Ratopati",
-      "summary": "Postmortem Conducted on Vivek Shrestha Found Dead in Bhote Koshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkRJNGZOelUyb2kyZTQ0VmpZM3RtSzhSWi0yMVhid1JrbzBMMU0ybHdHbU9KS2dyQUZhQnptdlBGTEZDM2RRNTY0LW1wY0ZQWVBaYmhIaFlSZkFmMXN0eldvVFpjMk0xa0dIVXNoeTBMbWZVZjRCY2kxQW9fZnRoMW1PSVRIQ21ub3hNQkdQN0d2RFN3SDVxYVdhVWFzak0?oc=5",
+      "title": "359 Dead in Bhote Koshi Flood - Ratopati",
+      "summary": "359 Dead in Bhote Koshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVFdKYUh0eG1EMFcydV83WXV3SF81bkVTMU5yUXE5elhvR1hfT0psSlR1eTltLWlZMWY2TEp3NWQyOWJNM1cwUmNhYWVpUURPb001YklVaEZBMHhJRUs0UG9sc3ZXTG5XbXFIc0RMektOUXFPQklHMTZpRUNJOWRjR3Z3?oc=5",
       "kind": "News and reporting"
     },
     {
-      "source": "Khabarhub",
+      "source": "Ratopati",
       "date": "2026-08-27",
-      "title": "Bhotekoshi flood: 336 people, including 45 foreigners, airlifted to safety - Khabarhub",
-      "summary": "Bhotekoshi flood: 336 people, including 45 foreigners, airlifted to safety Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTmVPc3ptdG9SUzRFVTRFVXpYUEhBYlBJWG4ya0pGRnl0M2JCNzJLcTZ1ODhZOHNnSkRrX3hOSk16QThwUTNiZjkyUHNBTElVWERWNk9GcG4?oc=5",
+      "title": "Postmortem Conducted on Vivek Shrestha Found Dead in Bhote Koshi Flood - Ratopati",
+      "summary": "Postmortem Conducted on Vivek Shrestha Found Dead in Bhote Koshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkRJNGZOelUyb2kyZTQ0VmpZM3RtSzhSWi0yMVhid1JrbzBMMU0ybHdHbU9KS2dyQUZhQnptdlBGTEZDM2RRNTY0LW1wY0ZQWVBaYmhIaFlSZkFmMXN0eldvVFpjMk0xa0dIVXNoeTBMbWZVZjRCY2kxQW9fZnRoMW1PSVRIQ21ub3hNQkdQN0d2RFN3SDVxYVdhVWFzak0?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -1221,6 +1221,14 @@
       "kind": "News and reporting"
     },
     {
+      "source": "myRepublica",
+      "date": "2026-08-26",
+      "title": "384 tourists including 291 foreigners missing after Rasuwa flood - myRepublica",
+      "summary": "384 tourists including 291 foreigners missing after Rasuwa flood myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVm1DQlFfWHlIekhRcUxTNGtRbkxXVzFqSDJSV0o0OElZbEkyVnRTbTZqYjdqOV9ueFB1QTBIdHE5TDVMbW1NVE51QXRmZXRfYlVZZHA1SmpsU1BsOFNTenV4c0NuUV9PaW9vd2ZoRG01d3BHU1JQYVZmcjdUYmFvZkJrU2J1VDdSTVZKUVNwaTltWnRRVXJOMU9QUmJCSzhpb2MzYjdzcGhrSi1VdlVBLUdMb29JSTJSeDNTblFuaGQ?oc=5",
+      "kind": "News and reporting"
+    },
+    {
       "source": "The Kathmandu Post",
       "date": "2026-08-26",
       "title": "What we know about the Bhotekoshi flood so far - The Kathmandu Post",
@@ -1250,14 +1258,6 @@
       "title": "341 foreign nationals among 403 missing in Devastating Rasuwa Flood (Country-wise breakdown) - myRepublica",
       "summary": "341 foreign nationals among 403 missing in Devastating Rasuwa Flood (Country-wise breakdown) myRepublica",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONTRrYnJkQk45RWljZUNsV1ZnYU5UcVplS2FKNU5DeHBfSmdHUVhuc0M5QUtFX1NUekdwVmwzMS13YkFtY2FxTmprb0JYTG84M0FaQ3hVS0V0dmVzeENSQzhLRnZuRUNVZ0JXRU10Z3JuUDlEUTN1NTUxSERYSkU5S3pyOXJKVXppVmxiZzZZTkplM0FUTFlrMnpyTXRPM2V3ZHNLYTFIbnJRbG94YXhseC1nY3FWWWJVTUF4aWVHNVh3Ml9IQjRMRUZn?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-08-26",
-      "title": "384 tourists including 291 foreigners missing after Rasuwa flood - myRepublica",
-      "summary": "384 tourists including 291 foreigners missing after Rasuwa flood myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUNLWlpuR294ZHJ5TjNPTE5IWmJpNEh6bjRqekZyRXQ0dkMxalNrU08wSmhJZFZ6NmFnNWRPZXhRU2RHWjhkbEZlSTJkT1dkLWc0bDRTUTZVTmFOWVRrclVVeW9XQkp6c1JuSzVQTU1pYjhGc0htVDFTQUtvLTkwZEdzbmppMXpXbVhWTkU4ckJZNUtpV1VhRG5nZUp1QlZrUWZ3empoaEpKcjJtQmNLMDM1OVlxbkRiQXJz?oc=5",
       "kind": "News and reporting"
     },
     {

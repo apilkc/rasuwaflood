@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T20:54:23Z",
+  "generated_at": "2026-08-29T23:17:36Z",
   "collection_method": "Automated metadata discovery; inclusion is not verification.",
   "errors": [],
   "count": 60,
@@ -54,11 +54,19 @@
       "kind": "News and reporting"
     },
     {
+      "source": "Khabarhub",
+      "date": "2026-08-29",
+      "title": "Rasuwa flood: 184 tourists rescued, 420 still out of contact - Khabarhub",
+      "summary": "Rasuwa flood: 184 tourists rescued, 420 still out of contact Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iaFBLbjFEVnFNb2l5WDUySEdYTDc1a1lWUU56d1FLR3JrZm1qRzREUk1YQ0xXVlFaeVdrMXgzLUNvTFBPUFZ2WVJJN1E0RDZaeDBXT18yMk8?oc=5",
+      "kind": "News and reporting"
+    },
+    {
       "source": "The Kathmandu Post",
       "date": "2026-08-29",
       "title": "Authorities begin burying 229 unidentified Bhotekoshi flood victims - The Kathmandu Post",
       "summary": "Authorities begin burying 229 unidentified Bhotekoshi flood victims The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlk4Um1WbzJCMmpmZFhIQnhoVVBWb2h4dE1tSzYzU1Y0VF9JM0U2aU92cVlieHB4SFFRV2JpYmFFbEI1YzBySmF3ZHdmZXM4Ym90NkVSLWNCUklHQ0l6b0VxQUlrR0I4SFJONDJDWENBa3NvYV8wR3VEMldmWWt1c0kzazlqVEhaMUNZVTljZnJpaWhJTlB2bkNvMGIxZjBOUmVIeHBTV0hLT1ZVbXFTNnVwQlFvSkloajBSZ2xTLUhLUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3IzdjBYY3RkcW1Ka0lGczdMZGZSZ0dJRU1LMUVubTRnWGNuWXpiX0pWZE5CeGZsem5tbFZsX2xEcHJ2REJOZ3pMaWdkYTM1QXNaM3NjLV9YcFMyRW1lX1gyR29kc3gxdC1Bb0Z1T01kWTcwd3YwRkp0T0lSSFFsSXEzcXBMMG1ma1ROTFpxNkxPNHlSSDdZNUFQQU54ZHFTTnpTYVd2MzNhUEc1TDZQQVBNVQ?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -299,14 +307,6 @@
       "title": "Update: 121 foreign tourists rescued following Bhote Koshi flood - NepalNews",
       "summary": "Update: 121 foreign tourists rescued following Bhote Koshi flood NepalNews",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHRtZWlKVk9OZnl1VENrVFF1T1ZaLXpOWGdHU2VBQVowM3hKUlBIblFiWExyMDJ3TkZnRHZ3OVlFLV9PblN3SEFBM25najdsZC1VajZpYWlqOGh0Z2pXWTFZRkpaT0ttcDZKUWVsdEc3bUZpTTZJUkZRcHNXdzNXcGVuM2tRcEtZQl90UU5YdlJjLWJaRlY5WnBMdTBCWUhoeVB4eDQ0dnRtazZianJEZw?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Annapurna Express",
-      "date": "2026-08-28",
-      "title": "644 foreign nationals among 2,381 missing in Rasuwa flood - The Annapurna Express",
-      "summary": "644 foreign nationals among 2,381 missing in Rasuwa flood The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0R4Wl9ldU8zd1JZc2YwSjIwUUVSMEpnQzdfZmNpV0RudEpvb1dzUXZTd3JlNGs3TXNRRlZseHk1dzczZl9WZDJoa3Y0WllWUXhCMVZudw?oc=5",
       "kind": "News and reporting"
     },
     {
