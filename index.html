@@ -122,7 +122,7 @@
     .archive-browser{margin-top:32px;border:1px solid var(--line);background:var(--paper)}.archive-browser summary{cursor:pointer;padding:18px 20px;font-weight:750;color:var(--accent)}.archive-content{padding:0 20px 20px}.archive-list{border-top:1px solid var(--line)}.archive-item{display:grid;grid-template-columns:130px 1fr;gap:20px;padding:14px 0;border-bottom:1px solid var(--line)}.archive-item small{color:var(--muted)}.archive-item a{font-weight:700}
     .image-link{position:relative;display:block}.source-badge{position:absolute;left:12px;bottom:12px;z-index:2;padding:7px 10px;background:rgba(29,33,31,.9);color:#fff;font-size:.68rem;font-weight:750;letter-spacing:.08em;text-transform:uppercase}
     .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
-    .map-shell{display:grid;grid-template-columns:minmax(0,1fr) 290px;border:1px solid var(--line);background:var(--paper);margin-top:28px;min-height:600px}.map-canvas{height:600px;z-index:1}.map-guide{padding:27px;border-left:1px solid var(--line);display:flex;flex-direction:column;justify-content:space-between}.map-guide h3{font-family:Georgia,"Times New Roman",serif;font-size:1.6rem;margin:0 0 14px}.map-guide ul{padding-left:18px;color:var(--muted);font-size:.88rem}.map-key{display:grid;gap:9px;margin:24px 0}.map-key span{display:flex;align-items:center;gap:9px;font-size:.8rem}.map-swatch{width:28px;height:6px;display:inline-block}.map-swatch.source{background:#b66b25}.map-swatch.corridor{background:#337ab7}.map-swatch.place{height:12px;width:12px;border-radius:50%;background:#355747}.map-disclaimer{font-size:.75rem;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}.leaflet-popup-content{font:14px/1.45 Inter,system-ui,sans-serif}.leaflet-popup-content strong{display:block;margin-bottom:3px}
+    .map-shell{display:grid;grid-template-columns:minmax(0,1fr) 290px;border:1px solid var(--line);background:var(--paper);margin-top:28px;min-height:600px}.map-stage{position:relative;min-width:0}.map-canvas{height:600px;z-index:1}.map-viewport{position:absolute;top:12px;left:52px;z-index:500;display:flex;align-items:center;gap:0;background:rgba(251,250,247,.9);border:1px solid rgba(53,87,71,.28);box-shadow:0 4px 18px rgba(29,33,31,.11);backdrop-filter:blur(9px);font:700 .68rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--ink)}.map-viewport span{padding:8px 9px;border-right:1px solid var(--line);white-space:nowrap}.map-viewport em{font-style:normal;font-weight:500;color:var(--muted);margin-right:3px}.map-viewport button{align-self:stretch;border:0;background:var(--accent);color:#fff;padding:0 10px;font:700 .67rem/1 ui-sans-serif,sans-serif;cursor:pointer}.map-viewport button:hover{background:#233b31}.map-guide{padding:27px;border-left:1px solid var(--line);display:flex;flex-direction:column;justify-content:space-between}.map-guide h3{font-family:Georgia,"Times New Roman",serif;font-size:1.6rem;margin:0 0 14px}.map-guide ul{padding-left:18px;color:var(--muted);font-size:.88rem}.map-key{display:grid;gap:9px;margin:24px 0}.map-key span{display:flex;align-items:center;gap:9px;font-size:.8rem}.map-swatch{width:28px;height:6px;display:inline-block}.map-swatch.source{background:#b66b25}.map-swatch.corridor{background:#337ab7}.map-swatch.place{height:12px;width:12px;border-radius:50%;background:#355747}.map-disclaimer{font-size:.75rem;color:var(--muted);border-top:1px solid var(--line);padding-top:16px}.leaflet-popup-content{font:14px/1.45 Inter,system-ui,sans-serif}.leaflet-popup-content strong{display:block;margin-bottom:3px}
     .gallery-shell{position:relative;margin-top:28px;background:#17251f;color:#fff;overflow:hidden}.gallery-track{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;scroll-behavior:smooth}.gallery-track::-webkit-scrollbar{display:none}.gallery-slide{position:relative;min-width:100%;height:min(72vh,720px);scroll-snap-align:start;background:#17251f}.gallery-slide img{display:block;width:100%;height:100%;object-fit:cover}.gallery-caption{position:absolute;left:0;right:0;bottom:0;padding:90px 90px 28px 28px;background:linear-gradient(transparent,rgba(10,18,14,.92));color:#fff}.gallery-caption small{display:block;text-transform:uppercase;letter-spacing:.11em;color:#d7e2dc;margin-bottom:7px}.gallery-caption strong{display:block;font:600 clamp(1.3rem,3vw,2.3rem)/1.15 Georgia,"Times New Roman",serif;max-width:760px}.gallery-caption p{max-width:720px;margin:8px 0 0;color:#e0e5e2;font-size:.88rem}.gallery-caption a{color:#fff}.gallery-controls{position:absolute;right:20px;bottom:24px;z-index:3;display:flex;gap:8px}.gallery-controls button{width:46px;height:46px;border:1px solid rgba(255,255,255,.55);background:rgba(23,37,31,.8);color:#fff;font-size:1.35rem;cursor:pointer}.gallery-count{position:absolute;right:22px;top:20px;z-index:3;padding:7px 10px;background:rgba(23,37,31,.78);font-size:.75rem;letter-spacing:.08em}.gallery-note{margin-top:12px;color:var(--muted);font-size:.78rem}
 
 
@@ -178,7 +178,7 @@
       .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid,.pinned-links{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.important-link-grid{grid-template-columns:repeat(2,1fr)}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
     }
     @media(max-width:980px){.navlinks>a:not(.button){display:none}.navlinks{margin-left:auto}.hero>.wrap::before{display:none}.map-shell{grid-template-columns:1fr}.map-guide{border-left:0;border-top:1px solid var(--line)}}
-    @media(max-width:700px){.latest-link{display:none!important}.gallery-slide{height:68vh}.gallery-caption{padding:90px 20px 22px}.gallery-controls{right:14px;bottom:auto;top:14px}.gallery-count{left:14px;right:auto;top:14px}.map-canvas{height:520px}}
+    @media(max-width:700px){.latest-link{display:none!important}.gallery-slide{height:68vh}.gallery-caption{padding:90px 20px 22px}.gallery-controls{right:14px;bottom:auto;top:14px}.gallery-count{left:14px;right:auto;top:14px}.map-canvas{height:520px}.map-viewport{left:10px;right:10px;top:10px;flex-wrap:wrap}.map-viewport span{flex:1;padding:7px 8px}.map-viewport .map-3d{display:none}.map-viewport button{min-height:31px}}
     @media(max-width:560px){.brand{font-size:1.35rem}.viva-link{font-size:0;padding:9px 10px}.viva-link::after{content:"VIVA-D ↗";font-size:.78rem}.site-search{grid-template-columns:1fr}.search-result,.archive-item{grid-template-columns:1fr;gap:5px}.important-link-grid{grid-template-columns:1fr}}
   </style>
 </head>
@@ -224,7 +224,17 @@
       <h2>Follow the flood corridor downstream</h2>
       <p style="max-width:820px">Toggle the source area, documented places and river corridor. Select a marker to open its location and the supporting source. The map follows the Bhote Koshi–Trishuli system from the upper Lhende catchment toward Chitwan.</p>
       <div class="map-shell">
-        <div id="disaster-map" class="map-canvas" role="application" aria-label="Interactive map of the Rasuwa flood corridor"></div>
+        <div class="map-stage">
+          <div id="disaster-map" class="map-canvas" role="application" aria-label="Interactive map of the Rasuwa flood corridor"></div>
+          <div class="map-viewport" aria-label="Current map viewport">
+            <span><em>lng</em> <b id="map-lng">85.050</b></span>
+            <span><em>lat</em> <b id="map-lat">27.980</b></span>
+            <span><em>zoom</em> <b id="map-zoom">8.0</b></span>
+            <span class="map-3d"><em>bearing</em> <b>0.0°</b></span>
+            <span class="map-3d"><em>pitch</em> <b>0.0°</b></span>
+            <button id="map-reset" type="button">Full corridor</button>
+          </div>
+        </div>
         <aside class="map-guide">
           <div>
             <h3>Read the corridor</h3>
@@ -500,10 +510,20 @@ if(window.L&&document.getElementById('disaster-map')){
   ];
   places.forEach(([name,lat,lng,note,url])=>L.circleMarker([lat,lng],{radius:7,color:'#fff',weight:2,fillColor:'#355747',fillOpacity:1}).bindPopup(`<strong>${name}</strong>${note}<br><a href="${url}" target="_blank" rel="noopener noreferrer">Open supporting source ↗</a>`).addTo(placesLayer));
   const route=[[28.288708,85.528159],[28.273,85.379],[28.164,85.341],[28.095,85.285],[27.966,85.197],[27.921,85.164],[27.82,85.07],[27.748,84.999],[27.856,84.559],[27.696,84.420]];
+  const corridorBounds=L.latLngBounds(route);
   const corridorLayer=L.layerGroup([L.polyline(route,{color:'#337ab7',weight:22,opacity:.18,lineCap:'round'}),L.polyline(route,{color:'#245f91',weight:4,opacity:.9,dashArray:'10 7'})]);
   corridorLayer.addTo(map);sourceLayer.addTo(map);placesLayer.addTo(map);
   L.control.layers(null,{'Illustrative river corridor':corridorLayer,'Technical source area':sourceLayer,'Documented locations':placesLayer},{collapsed:false}).addTo(map);
-  map.fitBounds(L.latLngBounds(route),{padding:[24,24]});
+  map.fitBounds(corridorBounds,{padding:[24,24]});
+  const updateViewport=()=>{
+    const center=map.getCenter();
+    document.getElementById('map-lng').textContent=center.lng.toFixed(3);
+    document.getElementById('map-lat').textContent=center.lat.toFixed(3);
+    document.getElementById('map-zoom').textContent=map.getZoom().toFixed(1);
+  };
+  map.on('move zoom',updateViewport);
+  document.getElementById('map-reset')?.addEventListener('click',()=>map.fitBounds(corridorBounds,{padding:[24,24]}));
+  updateViewport();
   const refreshMap=()=>map.invalidateSize({pan:false});
   map.whenReady(()=>requestAnimationFrame(refreshMap));
   window.addEventListener('load',refreshMap,{once:true});
