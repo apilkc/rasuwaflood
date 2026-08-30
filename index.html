@@ -40,7 +40,9 @@
     nav{height:68px;display:flex;align-items:center;justify-content:space-between;gap:22px}
     .brand{font-family:Georgia,"Times New Roman",serif;font-size:clamp(1.35rem,2.5vw,1.875rem);font-weight:800;letter-spacing:-.045em;line-height:.9;text-decoration:none;white-space:nowrap}
     .navlinks{display:flex;gap:21px;align-items:center;font-size:.9rem;color:#464b47}
-    .latest-link{background:#e4ebe6!important;border-color:#b8c8bd!important;color:var(--accent)!important;box-shadow:inset 0 -3px 0 var(--accent)}
+    .latest-link{background:#e4ebe6!important;border-color:#b8c8bd!important;color:var(--accent)!important;box-shadow:inset 0 -3px 0 var(--accent);animation:latest-pop 5s cubic-bezier(.2,.7,.3,1) infinite;transform-origin:center}
+    .latest-link:hover,.latest-link:focus-visible{animation-play-state:paused;transform:translateY(-2px)}
+    @keyframes latest-pop{0%,72%,100%{transform:translateY(0) scale(1);box-shadow:inset 0 -3px 0 var(--accent),0 0 0 0 rgba(53,87,71,0)}80%{transform:translateY(-3px) scale(1.045);box-shadow:inset 0 -3px 0 var(--accent),0 7px 18px rgba(53,87,71,.2)}88%{transform:translateY(0) scale(1)}}
     .button{display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border:1px solid #bfc5c0;border-radius:4px;text-decoration:none;background:var(--paper);font-size:.9rem}
     .button.primary{background:var(--accent);border-color:var(--accent);color:white}
     main{overflow:hidden}
@@ -97,6 +99,7 @@
     .source span{display:block;color:var(--muted);font-size:.84rem}
     footer{padding:42px 0 65px;color:var(--muted);font-size:.84rem}
     .footergrid{display:grid;grid-template-columns:1.2fr .8fr;gap:40px}
+    .important-links{grid-column:1/-1;border-top:1px solid var(--line);padding-top:26px}.important-links h2{font:700 .75rem/1.2 Inter,ui-sans-serif,sans-serif;text-transform:uppercase;letter-spacing:.12em;color:var(--ink);margin:0 0 15px}.important-link-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:9px}.important-link{display:flex;flex-direction:column;justify-content:space-between;min-height:112px;padding:15px;border:1px solid var(--line);background:var(--paper);text-decoration:none}.important-link strong{color:var(--ink);font-size:.86rem}.important-link span{font-size:.72rem;margin-top:12px}.important-link.fund{background:#e4ebe6;border-color:#b8c8bd}
     .visual-grid{display:grid;grid-template-columns:1.35fr .65fr;gap:16px;margin-top:28px}
     figure{margin:0;background:var(--paper);border:1px solid var(--line)}
     figure img{display:block;width:100%;height:100%;min-height:270px;object-fit:cover;aspect-ratio:16/10}
@@ -172,11 +175,11 @@
 
     @media(max-width:800px){
       .navlinks a:not(.button){display:none}.hero{padding-top:66px}.status{grid-template-columns:1fr 1fr}.status div:nth-child(2){border-right:0}.status div:nth-child(3),.status div:nth-child(4){border-top:1px solid var(--line)}
-      .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid,.pinned-links{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
+      .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid,.pinned-links{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.important-link-grid{grid-template-columns:repeat(2,1fr)}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
     }
     @media(max-width:980px){.navlinks>a:not(.button){display:none}.navlinks{margin-left:auto}.hero>.wrap::before{display:none}.map-shell{grid-template-columns:1fr}.map-guide{border-left:0;border-top:1px solid var(--line)}}
     @media(max-width:700px){.latest-link{display:none!important}.gallery-slide{height:68vh}.gallery-caption{padding:90px 20px 22px}.gallery-controls{right:14px;bottom:auto;top:14px}.gallery-count{left:14px;right:auto;top:14px}.map-canvas{height:520px}}
-    @media(max-width:560px){.brand{font-size:1.35rem}.viva-link{font-size:0;padding:9px 10px}.viva-link::after{content:"VIVA-D ↗";font-size:.78rem}.site-search{grid-template-columns:1fr}.search-result,.archive-item{grid-template-columns:1fr;gap:5px}}
+    @media(max-width:560px){.brand{font-size:1.35rem}.viva-link{font-size:0;padding:9px 10px}.viva-link::after{content:"VIVA-D ↗";font-size:.78rem}.site-search{grid-template-columns:1fr}.search-result,.archive-item{grid-template-columns:1fr;gap:5px}.important-link-grid{grid-template-columns:1fr}}
   </style>
 </head>
 <body>
@@ -189,7 +192,6 @@
         <a href="#event">What happened</a>
         <a href="#resources">Reports & maps</a>
         <a href="#search">Search</a>
-        <a href="#sources">Sources</a>
         <a class="button latest-link" href="#latest">Latest sources</a>
         <a class="button primary viva-link" href="https://archive.rasuwaflood.org/" target="_blank" rel="noopener">VIVA-D: contribute or explore ↗</a>
       </div>
@@ -463,6 +465,16 @@
   <div class="wrap footergrid">
     <div><strong style="color:var(--ink)">RASUWA FLOOD</strong><br>A public, source-based record of the 26 August 2026 disaster. Built to complement, not duplicate, the live Rasuwa Flood Bulletin and the VIVA-D evidence archive.<div class="creator-note"><strong>Created and maintained by <a href="https://taubmancollege.umich.edu/student/apil-kc/" target="_blank" rel="noopener noreferrer">APIL K.C. ↗</a></strong> I created this website as a curated collection of public sources, reports, maps and documented evidence related to the Rasuwa flood.</div></div>
     <div>Information remains provisional while scientific and official assessments continue. Significant claims should always be checked against the linked original source.</div>
+    <div class="important-links">
+      <h2>Important official links</h2>
+      <div class="important-link-grid">
+        <a class="important-link" href="https://ndrrma.gov.np/"><strong>NDRRMA ↗</strong><span>National disaster authority</span></a>
+        <a class="important-link" href="https://moha.gov.np/"><strong>Ministry of Home Affairs ↗</strong><span>Government notices and response</span></a>
+        <a class="important-link" href="https://bipadportal.gov.np/"><strong>BIPAD Portal ↗</strong><span>Disaster data and incidents</span></a>
+        <a class="important-link" href="https://www.dhm.gov.np/"><strong>Hydrology &amp; Meteorology ↗</strong><span>River and weather information</span></a>
+        <a class="important-link fund" href="https://www.opmcm.gov.np/content/586/heartfelt-appeal/"><strong>Official relief fund ↗</strong><span>Government appeal and verified funding channels</span></a>
+      </div>
+    </div>
   </div>
 </footer>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="anonymous"></script>
@@ -472,8 +484,8 @@ document.querySelectorAll('a[href^="http"]').forEach(a=>{a.target='_blank';a.rel
 
 // Interactive geographic orientation. The corridor is illustrative, not an inundation boundary.
 if(window.L&&document.getElementById('disaster-map')){
-  const map=L.map('disaster-map',{scrollWheelZoom:false}).setView([27.98,85.05],8);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'}).addTo(map);
+  const map=L.map('disaster-map',{scrollWheelZoom:false,zoomControl:true,maxBounds:[[27.42,84.10],[28.46,85.72]],maxBoundsViscosity:.85,worldCopyJump:false}).setView([27.98,85.05],8);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19,noWrap:true,bounds:[[26.2,80],[30.5,89]],attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
   const sourceLayer=L.layerGroup();
   L.circle([28.288708,85.528159],{radius:1300,color:'#b66b25',fillColor:'#b66b25',fillOpacity:.28,weight:3}).bindPopup('<strong>Rock–ice avalanche source area</strong>Approx. 28.288708°N, 85.528159°E, from the HiRISK rapid assessment.<br><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf">Open assessment ↗</a>').addTo(sourceLayer);
   const placesLayer=L.layerGroup();
@@ -492,6 +504,10 @@ if(window.L&&document.getElementById('disaster-map')){
   corridorLayer.addTo(map);sourceLayer.addTo(map);placesLayer.addTo(map);
   L.control.layers(null,{'Illustrative river corridor':corridorLayer,'Technical source area':sourceLayer,'Documented locations':placesLayer},{collapsed:false}).addTo(map);
   map.fitBounds(L.latLngBounds(route),{padding:[24,24]});
+  const refreshMap=()=>map.invalidateSize({pan:false});
+  map.whenReady(()=>requestAnimationFrame(refreshMap));
+  window.addEventListener('load',refreshMap,{once:true});
+  if(window.ResizeObserver)new ResizeObserver(refreshMap).observe(document.getElementById('disaster-map'));
 }
 
 // Source-linked swipe gallery. Auto-advance pauses on hover, focus and reduced-motion preference.
@@ -500,7 +516,18 @@ if(galleryTrack){
   const onlineKhabar='https://www.onlinekhabar.com/2026/08/2004301/the-silence-after-the-bhotekoshi-flood-see-in-55-photos';
   const photos=[
     {src:'assets/reuters-rasuwa-2026.jpeg',source:'Reuters · 27 Aug 2026',title:'Flood destruction after the August 2026 Rasuwa flood',story:'Aerial documentation published in Reuters coverage of the disaster.',url:'https://www.reuters.com/world/nepal-floods-live-nearly-1500-missing-including-tourists-death-toll-rises-2026-08-27/'},
-    ...['20-1024x684','6','7','2','4','9','15','18','24','35','39','59','1','17','21','23','25','27','30'].map((id,index)=>({src:`https://www.onlinekhabar.com/wp-content/uploads/2026/08/Rasuwa-flood-2026-${id}.jpg`,source:`OnlineKhabar · Field record ${String(index+1).padStart(2,'0')}`,title:'Damage along the Rasuwagadhi–Trishuli flood corridor',story:'From OnlineKhabar’s 55-image aerial and field essay by Kamal Prasाईं and Dinesh Gautam.',url:onlineKhabar}))
+    {src:'https://www.care.org/wp-content/uploads/2026/08/lhende-khola-glacier-flood-river-damage-rasuwa.webp',source:'CSRC / CARE · 28 Aug 2026',title:'The debris-filled Lhende Khola riverbed',story:'CSRC and CARE documented the flood corridor and emergency conditions in Rasuwa.',url:'https://www.care.org/news-and-stories/nepal-flash-floods-2026-care-emergency-response/'},
+    {src:'https://www.care.org/wp-content/uploads/2026/08/nepal-floods-rasuwa-damaged-street-settlement.webp',source:'CSRC / CARE · 28 Aug 2026',title:'Mud and debris through a Rasuwa settlement',story:'Vehicles and buildings remain amid debris documented by CSRC and CARE.',url:'https://www.care.org/news-and-stories/nepal-flash-floods-2026-care-emergency-response/'},
+    {src:'https://www.care.org/wp-content/uploads/2026/08/nepal-floods-displaced-children-temporary-shelter.webp',source:'CSRC / CARE · 28 Aug 2026',title:'Displaced families in temporary shelter',story:'Humanitarian documentation of families displaced by the flood.',url:'https://www.care.org/news-and-stories/nepal-flash-floods-2026-care-emergency-response/'},
+    {src:'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RasuwaBhotekoshiTrishuliFloodNPL4-1787735973.jpg',source:'Nepal Photo Library / Kathmandu Post · 26 Aug 2026',title:'Flood damage in the Bhote Koshi corridor',story:'One of the first published visual records from Timure, Syabrubesi and downstream settlements.',url:'https://kathmandupost.com/visual-stories/2026/08/26/in-photos-bhotekoshi-flood-leaves-a-trail-of-destruction'},
+    {src:'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/RasuwaBhotekoshiTrishuliFloodNPL6-1787736088.jpg',source:'Nepal Photo Library / Kathmandu Post · 26 Aug 2026',title:'Settlements and infrastructure after the surge',story:'Nepal Photo Library documentation published by the Kathmandu Post.',url:'https://kathmandupost.com/visual-stories/2026/08/26/in-photos-bhotekoshi-flood-leaves-a-trail-of-destruction'},
+    {src:'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/TrishuliBadhiPhotoDhungebazarNPL5-1787736054.jpg',source:'Nepal Photo Library / Kathmandu Post · 26 Aug 2026',title:'Damage along the Trishuli River',story:'A downstream view from the Kathmandu Post visual report.',url:'https://kathmandupost.com/visual-stories/2026/08/26/in-photos-bhotekoshi-flood-leaves-a-trail-of-destruction'},
+    {src:'https://eu-space.europa.eu/sites/default/files/2026-08/20260827_Nepal.png.webp',source:'European Union / Copernicus Sentinel-2 · 27 Aug 2026',title:'Betrawati before and after the flood',story:'Copernicus Sentinel-2 imagery shows widening and sediment deposition around Betrawati and Gerkhu.',url:'https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/aftermath-nepal-flash-flood'},
+    {src:'https://cdn.who.int/media/images/default-source/south-east-asia-%28searo%29/countries/nepal/picture14816d792-145c-4489-bb5f-a7243df57e03.tmb-1024v.jpg?sfvrsn=45daab5c_1',source:'WHO Nepal · Aug 2026',title:'A damaged building in the flood-affected corridor',story:'WHO Nepal’s emergency page documents health impacts and the government-led response.',url:'https://www.who.int/nepal/emergencies/2026-rasuwa-flash-floods'},
+    {src:'https://nepalviews.cdnsolution.net/en/media/news/syafrubesi-%281%29_5Y0YW8x48I.webp',source:'Nepal News Bank / Nepal Views · 30 Aug 2026',title:'Daily life disrupted in Syafrubesi',story:'Photograph by Tarzan Limbu documenting conditions several days after the flood.',url:'https://english.nepalviews.com/2026/08/30/syafrubesi-rasuwa-life-remains-disrupted-after-devastating-floods-photos'},
+    {src:'https://nepalviews.cdnsolution.net/en/media/news/syafrubesi-%282%29_9r39Mj0Kkx.webp',source:'Nepal News Bank / Nepal Views · 30 Aug 2026',title:'Damaged access through Syafrubesi',story:'Photograph by Tarzan Limbu showing continuing disruption to movement and infrastructure.',url:'https://english.nepalviews.com/2026/08/30/syafrubesi-rasuwa-life-remains-disrupted-after-devastating-floods-photos'},
+    {src:'https://nepalviews.cdnsolution.net/en/media/news/syafrubesi-%283%29_sktBaGzi3K.webp',source:'Nepal News Bank / Nepal Views · 30 Aug 2026',title:'The visible aftermath in Syafrubesi',story:'Photograph by Tarzan Limbu, published by Nepal Views.',url:'https://english.nepalviews.com/2026/08/30/syafrubesi-rasuwa-life-remains-disrupted-after-devastating-floods-photos'},
+    ...['20-1024x684','6','7','2','4','9','15','18'].map((id,index)=>({src:`https://www.onlinekhabar.com/wp-content/uploads/2026/08/Rasuwa-flood-2026-${id}.jpg`,source:`OnlineKhabar · Field record ${String(index+1).padStart(2,'0')}`,title:'Damage along the Rasuwagadhi–Trishuli flood corridor',story:'From OnlineKhabar’s 55-image aerial and field essay by Kamal Prasाईं and Dinesh Gautam.',url:onlineKhabar}))
   ];
   galleryTrack.innerHTML=photos.map((photo,index)=>`<figure class="gallery-slide"><img src="${photo.src}" alt="${photo.title}, photograph ${index+1} of ${photos.length}" loading="lazy"><figcaption class="gallery-caption"><small>${photo.source}</small><strong>${photo.title}</strong><p>${photo.story} <a href="${photo.url}" target="_blank" rel="noopener noreferrer">Open original source ↗</a></p></figcaption></figure>`).join('');
   const count=document.getElementById('gallery-count');
