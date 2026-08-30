@@ -13,7 +13,7 @@
   <meta property="og:url" content="https://rasuwaflood.org/" />
   <meta property="og:image" content="https://rasuwaflood.org/assets/reuters-rasuwa-2026.jpeg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhSzRZ7ApNmHQJ0j7E9JqjiF2y0=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="assets/vendor/leaflet.css" />
   <title>Rasuwa Flood | 26 August 2026</title>
   <style>
     :root{
@@ -477,7 +477,7 @@
     </div>
   </div>
 </footer>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="anonymous"></script>
+<script src="assets/vendor/leaflet.js"></script>
 <script>
 // Ensure every off-site link opens in a separate tab when deployed on GitHub Pages.
 document.querySelectorAll('a[href^="http"]').forEach(a=>{a.target='_blank';a.rel='noopener noreferrer';});
@@ -485,7 +485,7 @@ document.querySelectorAll('a[href^="http"]').forEach(a=>{a.target='_blank';a.rel
 // Interactive geographic orientation. The corridor is illustrative, not an inundation boundary.
 if(window.L&&document.getElementById('disaster-map')){
   const map=L.map('disaster-map',{scrollWheelZoom:false,zoomControl:true,maxBounds:[[27.42,84.10],[28.46,85.72]],maxBoundsViscosity:.85,worldCopyJump:false}).setView([27.98,85.05],8);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{subdomains:'abcd',maxZoom:19,noWrap:true,bounds:[[26.2,80],[30.5,89]],attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,noWrap:true,bounds:[[26.2,80],[30.5,89]],attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'}).addTo(map);
   const sourceLayer=L.layerGroup();
   L.circle([28.288708,85.528159],{radius:1300,color:'#b66b25',fillColor:'#b66b25',fillOpacity:.28,weight:3}).bindPopup('<strong>Rock–ice avalanche source area</strong>Approx. 28.288708°N, 85.528159°E, from the HiRISK rapid assessment.<br><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf">Open assessment ↗</a>').addTo(sourceLayer);
   const placesLayer=L.layerGroup();
