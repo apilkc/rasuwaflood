@@ -512,7 +512,7 @@ if(window.L&&document.getElementById('disaster-map')){
   const narayaniStart=route.findIndex(([lat,lng])=>lat===27.7086&&lng===84.4315);
   const corridorRoute=window.RASUWA_CORRIDOR||[...route.slice(0,34),...lowerTrishuli,...route.slice(narayaniStart)];
   const corridorBounds=L.latLngBounds(corridorRoute);
-  const corridorLayer=L.layerGroup([L.polyline(corridorRoute,{color:'#337ab7',weight:22,opacity:.18,lineCap:'round',smoothFactor:.35}),L.polyline(corridorRoute,{color:'#245f91',weight:4,opacity:.9,dashArray:'10 7',smoothFactor:.35})]);
+  const corridorLayer=L.layerGroup([L.polyline(corridorRoute,{color:'#337ab7',weight:34,opacity:.2,lineCap:'round',smoothFactor:.35}),L.polyline(corridorRoute,{color:'#245f91',weight:4,opacity:.9,dashArray:'10 7',smoothFactor:.35})]);
   corridorLayer.addTo(map);evidenceLayer.addTo(map);
   L.control.layers({'Street':streetMap,'Satellite':satelliteMap},{'Corridor':corridorLayer,'Evidence':evidenceLayer},{collapsed:false,position:'bottomright'}).addTo(map);
   map.fitBounds(corridorBounds,{padding:[24,24]});
