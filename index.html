@@ -105,7 +105,7 @@
     figure{margin:0;background:var(--paper);border:1px solid var(--line)}
     figure img{display:block;width:100%;height:100%;min-height:270px;object-fit:cover;aspect-ratio:16/10}
     figcaption{padding:12px 14px;font-size:.78rem;line-height:1.45;color:var(--muted)}
-    .viva{background:#233b31;color:#f7f5ef;padding:42px;border:1px solid #233b31}
+    .viva{background:#233b31;color:#f7f5ef;padding:52px;border:1px solid #233b31;box-shadow:0 18px 48px rgba(29,33,31,.16)}
     .viva h2{color:white;margin-bottom:14px}.viva p{max-width:760px;color:#e0e6e2}.viva .button{background:#f8f7f2;border-color:#f8f7f2;color:#233b31}
     .latest-status{font-size:.8rem;color:var(--muted);margin:-12px 0 22px}
     .latest-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
@@ -165,6 +165,7 @@
     .viva:hover{transform:translateY(-2px);box-shadow:0 16px 38px rgba(29,33,31,.12)}
     .viva::after{content:"";position:absolute;left:0;bottom:0;width:0;height:3px;background:#d9e4dd;transition:width .35s ease}
     .viva:hover::after{width:100%}
+    #viva .wrap{position:relative}#viva .wrap::before{content:"VISIT VIVA-D ↗";position:absolute;right:24px;top:-18px;z-index:2;padding:9px 13px;background:#b66b25;color:#fff;font-size:.7rem;font-weight:850;letter-spacing:.1em;box-shadow:0 8px 22px rgba(122,91,53,.24);animation:viva-pulse 4.5s ease-in-out infinite}#viva .button:first-child{background:#fff;color:#233b31;animation:viva-cta 4.5s ease-in-out infinite}@keyframes viva-pulse{0%,72%,100%{transform:translateY(0)}82%{transform:translateY(-5px)}}@keyframes viva-cta{0%,72%,100%{box-shadow:0 0 0 0 rgba(255,255,255,.35)}82%{box-shadow:0 0 0 8px rgba(255,255,255,0)}}
 
     .reveal{opacity:0;transform:translateY(12px);transition:opacity .55s ease,transform .55s ease}
     .reveal.is-visible{opacity:1;transform:none}
@@ -274,6 +275,7 @@
         <p>The flood wave struck the Rasuwagadhi border area at about <strong>08:44 NPT</strong>. HiRISK estimates upper-reach flow velocities above <strong>30 m/s</strong>, with the wave travelling more than <strong>130 km</strong> to Mugling by around 13:00. Large new sediment deposits were observed along roughly 100 km of the corridor to Ghalchhi.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup></p>
 
         <div class="note"><strong>Why descriptions differ:</strong> early emergency products described the event as a possible glacial lake outburst flood. Later satellite analysis showed a much larger rock-and-bedrock failure carrying glacier ice into the valley. This page follows the newer technical interpretation while retaining links to the early products as part of the event record.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup><sup><a href="https://mapping.emergency.copernicus.eu/news/flood-in-nepal-emsr927/" target="_blank" rel="noopener" aria-label="Copernicus EMSR927">3</a></sup></div>
+        <div class="note"><strong>Climate context:</strong> the source glacier retreated about <strong>450 m from 1990–2020</strong>. Glacier retreat and warming permafrost can destabilise high-mountain slopes, but current assessments do not attribute this individual collapse to climate change with certainty.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup><sup><a href="https://apnews.com/article/climate-change-nepal-tibet-glacier-collapse-floods-b3eda9410f9941f69add384944047bc3" target="_blank" rel="noopener" aria-label="Associated Press analysis">5</a></sup></div>
 
         <div class="process" aria-label="Simplified process sequence">
           <div class="step"><b>1 · Slope failure</b><span>Rock and glacier ice detach at high elevation.</span></div>
@@ -299,7 +301,7 @@
     </div>
   </section>
 
-  <section>
+  <section id="evidence">
     <div class="wrap">
       <div class="eyebrow">What the evidence shows</div>
       <h2>From mountain failure to regional disruption</h2>
@@ -340,7 +342,7 @@
     </div>
   </section>
 
-  <section>
+  <section id="climate-context">
     <div class="wrap grid2">
       <div>
         <div class="eyebrow">Climate context</div>
@@ -495,8 +497,18 @@ const searchSection=document.getElementById('search');
 const latestSection=document.getElementById('latest');
 const resourcesSection=document.getElementById('resources');
 const sourceRecord=document.getElementById('sources');
+const heroSection=document.querySelector('.hero');
+const eventSection=document.getElementById('event');
+const evidenceSection=document.getElementById('evidence');
+const climateSection=document.getElementById('climate-context');
+const vivaSection=document.getElementById('viva');
 const selectedReporting=resourcesSection?.nextElementSibling;
+if(heroSection&&eventSection) heroSection.after(eventSection);
+if(eventSection&&evidenceSection) eventSection.after(evidenceSection);
+if(evidenceSection&&mapSection) evidenceSection.after(mapSection);
 if(mapSection&&visualsSection) mapSection.after(visualsSection);
+if(visualsSection&&vivaSection) visualsSection.after(vivaSection);
+climateSection?.remove();
 if(searchSection&&latestSection) latestSection.before(searchSection);
 if(selectedReporting&&latestSection){
   const list=selectedReporting.querySelector('.resource-list');
