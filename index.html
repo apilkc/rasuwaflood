@@ -261,7 +261,7 @@
         <input id="site-search-input" type="search" placeholder="Try “satellite”, “Timure”, “bridge” or “HiRISK”" autocomplete="off">
         <button class="button primary" type="submit">Search sources</button>
       </form>
-      <div id="search-status" class="latest-status" aria-live="polite" style="margin:14px 0 0">Enter two or more characters to search.</div>
+      <div id="search-status" class="latest-status" aria-live="polite" style="margin:14px 0 0" hidden></div>
       <div id="search-results" class="search-results"></div>
     </div>
   </section>
@@ -520,8 +520,6 @@ if(searchSection&&latestSection){
   searchSection.remove();
 }
 if(selectedReporting&&latestSection){
-  const list=selectedReporting.querySelector('.resource-list');
-  if(list){const box=document.createElement('div');box.className='curated-reporting';box.innerHTML='<div class="eyebrow">Selected reporting</div><h3>Curated national and international coverage</h3>';box.append(list);latestSection.querySelector('.latest-status')?.before(box);}
   selectedReporting.remove();
 }
 if(resourcesSection&&latestSection){
@@ -645,11 +643,11 @@ if(!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
   });
   function search(){
     const query=searchInput.value.trim().toLowerCase();
-    if(query.length<2){searchStatus.textContent='Enter two or more characters to search.';searchResults.innerHTML='';return;}
+    if(query.length<2){searchStatus.hidden=true;searchStatus.textContent='';searchResults.innerHTML='';return;}
     const terms=query.split(/\s+/).filter(Boolean);
     const archived=archiveItems.map(x=>({kind:x.source||'Archived source',title:x.title||'Untitled',summary:x.summary||'',url:x.url||'#'}));
     const matches=[...staticDocs,...archived].filter(x=>terms.every(term=>`${x.title} ${x.summary} ${x.kind}`.toLowerCase().includes(term))).slice(0,30);
-    searchStatus.textContent=`${matches.length}${matches.length===30?' or more':''} result${matches.length===1?'':'s'} for “${searchInput.value.trim()}”`;
+    searchStatus.hidden=false;searchStatus.textContent=`${matches.length}${matches.length===30?' or more':''} result${matches.length===1?'':'s'} for “${searchInput.value.trim()}”`;
     searchResults.innerHTML=matches.map(x=>`<div class="search-result"><small>${escapeHtml(x.kind)}</small><div><a href="${safeHref(x.url)}">${escapeHtml(x.title)}</a><p>${escapeHtml(x.summary.slice(0,220))}</p></div></div>`).join('');
   }
   searchForm?.addEventListener('submit',event=>{event.preventDefault();search();});
