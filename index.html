@@ -119,7 +119,8 @@
     .pinned-link strong{display:block;line-height:1.3}
     .creator-note{margin-top:18px;padding-top:18px;border-top:1px solid var(--line);color:var(--ink)}
     .site-search{display:grid;grid-template-columns:1fr auto;gap:10px;max-width:850px;margin-top:24px}.site-search input{width:100%;padding:15px 17px;border:1px solid #aeb6b0;background:var(--paper);color:var(--ink);font:inherit;font-size:1rem}.site-search input:focus{outline:3px solid rgba(53,87,71,.22);border-color:var(--accent)}
-    .latest-search{margin:26px 0 34px;padding-bottom:28px;border-bottom:1px solid var(--line)}
+    .latest-search{margin:18px 0 14px;padding:0;border:0}.latest-search+.latest-status{margin:10px 0 18px}#viva{padding-bottom:28px;border-bottom:0}#latest{padding-top:34px}
+    .event-read-more{display:none;margin-top:22px}
     .search-results{margin-top:24px;border-top:1px solid var(--line)}.search-result{display:grid;grid-template-columns:150px 1fr;gap:22px;padding:17px 0;border-bottom:1px solid var(--line)}.search-result small{color:var(--muted);text-transform:uppercase;letter-spacing:.08em;font-size:.67rem}.search-result a{font-weight:750}.search-result p{margin:5px 0 0;color:var(--muted);font-size:.88rem}
     .archive-browser{margin-top:32px;border:1px solid var(--line);background:var(--paper)}.archive-browser summary{cursor:pointer;padding:18px 20px;font-weight:750;color:var(--accent)}.archive-content{padding:0 20px 20px}.archive-list{border-top:1px solid var(--line)}.archive-item{display:grid;grid-template-columns:130px 1fr;gap:20px;padding:14px 0;border-bottom:1px solid var(--line)}.archive-item small{color:var(--muted)}.archive-item a{font-weight:700}
     .archive-page-link{display:flex;justify-content:space-between;align-items:center;margin-top:30px;padding:18px 20px;border:1px solid var(--line);background:var(--paper);color:var(--accent);font-weight:750;text-decoration:none}.archive-page-link:hover{background:var(--soft)}
@@ -183,8 +184,8 @@
       .navlinks a:not(.button){display:none}.hero{padding-top:66px}.status{grid-template-columns:1fr 1fr}.status div:nth-child(2){border-right:0}.status div:nth-child(3),.status div:nth-child(4){border-top:1px solid var(--line)}
       .grid2{grid-template-columns:1fr;gap:35px}.visual-grid,.latest-grid,.pinned-links,.curated-reporting .resource-list{grid-template-columns:1fr}.process{grid-template-columns:1fr}.step{border-right:0;border-bottom:1px solid var(--line)}.step:last-child{border-bottom:0}.cards{grid-template-columns:1fr}.resource{grid-template-columns:1fr;gap:7px}.resource .arrow{display:none}.sources{columns:1}.footergrid{grid-template-columns:1fr}.important-link-grid{grid-template-columns:repeat(2,1fr)}.facts{grid-template-columns:1fr}.fact:nth-child(odd){border-right:0}.fact:nth-child(even){padding-left:0}
     }
-    @media(max-width:980px){.navlinks>a:not(.button){display:none}.navlinks{margin-left:auto}.hero>.wrap::before{display:none}.map-guide{grid-template-columns:1fr 1fr}.map-disclaimer{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:18px 0 0}}
-    @media(max-width:700px){.latest-link{display:none!important}.gallery-slide{height:68vh}.gallery-caption{padding:90px 20px 22px}.gallery-controls{right:14px;bottom:auto;top:14px}.gallery-count{left:14px;right:auto;top:14px}.map-canvas{height:520px;min-height:520px}.map-viewport{left:10px;right:10px;top:10px;flex-wrap:wrap}.map-viewport span{flex:1;padding:7px 8px}.map-viewport .map-3d{display:none}.map-viewport button{min-height:31px}.map-guide{grid-template-columns:1fr;padding:22px}.map-disclaimer{grid-column:auto}}
+    @media(max-width:980px){.navlinks>a:not(.button){display:none}.navlinks{margin-left:auto}.hero>.wrap::before{display:none}.map-guide{grid-template-columns:1fr 1fr}.map-disclaimer{grid-column:1/-1;border-left:0;border-top:1px solid var(--line);padding:18px 0 0}#event .grid2>div>p:nth-of-type(n+2),#event .note,#event .process,#event .technical-panel{display:none}.event-read-more{display:inline-flex}#event{padding-bottom:48px}}
+    @media(max-width:700px){.latest-link{display:none!important}.gallery-slide{height:68vh}.gallery-caption{padding:90px 20px 22px}.gallery-controls{right:14px;bottom:auto;top:14px}.gallery-count{left:14px;right:auto;top:14px}.map-canvas{height:520px;min-height:520px}.map-viewport{left:10px;right:10px;top:10px;flex-wrap:wrap}.map-viewport span{flex:1;padding:7px 8px}.map-viewport .map-3d{display:none}.map-viewport button{min-height:31px}.map-guide{grid-template-columns:1fr;padding:22px}.map-disclaimer{grid-column:auto}#event .grid2>div>p:nth-of-type(n+2),#event .note,#event .process,#event .technical-panel{display:none}.event-read-more{display:inline-flex}#event{padding-bottom:48px}#viva{padding-bottom:16px}#latest{padding-top:24px}.latest-search{margin-bottom:8px}.latest-search+.latest-status{margin-top:8px}}
     @media(max-width:560px){.brand{font-size:1.35rem}.viva-link{font-size:0;padding:9px 10px}.viva-link::after{content:"VIVA-D ↗";font-size:.78rem}.site-search{grid-template-columns:1fr}.search-result,.archive-item{grid-template-columns:1fr;gap:5px}.important-link-grid{grid-template-columns:1fr}}
   </style>
 </head>
@@ -272,6 +273,7 @@
         <div class="eyebrow">What happened</div>
         <h2>A cascading high-mountain disaster</h2>
         <p>On the morning of 26 August 2026, a large mass of glacier ice and underlying bedrock detached high on the Lirung massif in the upper Lhende catchment near the Nepal–China border. HiRISK's rapid hazard assessment places the source near <strong>28.288708°N, 85.528159°E</strong>, at about <strong>5,000–5,200 m elevation</strong>, and identifies the event as a <strong>rock–ice avalanche and flood</strong>.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup></p>
+        <a class="button primary event-read-more" href="event.html" target="_blank" rel="noopener">Read the full event account ↗</a>
         <p>Satellite imagery reviewed by HiRISK indicates that the detachment extended roughly <strong>1–1.3 km across</strong>. The failed mass travelled to the valley floor below 3,000 m, mobilised additional material, and temporarily blocked the Lhende Khola. Failure of that blockage then generated a powerful flood downstream.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup></p>
         <p>The flood wave struck the Rasuwagadhi border area at about <strong>08:44 NPT</strong>. HiRISK estimates upper-reach flow velocities above <strong>30 m/s</strong>, with the wave travelling more than <strong>130 km</strong> to Mugling by around 13:00. Large new sediment deposits were observed along roughly 100 km of the corridor to Ghalchhi.<sup><a href="https://hirisk.org/wp-content/uploads/2026/08/RHA_NP3_RasuwaFlood-1.pdf" target="_blank" rel="noopener" aria-label="HiRISK assessment">1</a></sup></p>
 
@@ -504,10 +506,10 @@ const evidenceSection=document.getElementById('evidence');
 const climateSection=document.getElementById('climate-context');
 const vivaSection=document.getElementById('viva');
 const selectedReporting=resourcesSection?.nextElementSibling;
-if(heroSection&&eventSection) heroSection.after(eventSection);
+if(heroSection&&mapSection) heroSection.after(mapSection);
+if(mapSection&&eventSection) mapSection.after(eventSection);
 if(eventSection&&evidenceSection) eventSection.after(evidenceSection);
-if(evidenceSection&&mapSection) evidenceSection.after(mapSection);
-if(mapSection&&visualsSection) mapSection.after(visualsSection);
+if(evidenceSection&&visualsSection) evidenceSection.after(visualsSection);
 if(visualsSection&&vivaSection) visualsSection.after(vivaSection);
 climateSection?.remove();
 if(searchSection&&latestSection){
@@ -557,7 +559,11 @@ if(window.L&&document.getElementById('disaster-map')){
   const narayaniStart=route.findIndex(([lat,lng])=>lat===27.7086&&lng===84.4315);
   const corridorRoute=window.RASUWA_CORRIDOR||[...route.slice(0,34),...lowerTrishuli,...route.slice(narayaniStart)];
   const corridorBounds=L.latLngBounds(corridorRoute);
-  const corridorLayer=L.layerGroup([L.polyline(corridorRoute,{color:'#337ab7',weight:34,opacity:.2,lineCap:'round',smoothFactor:.35}),L.polyline(corridorRoute,{color:'#245f91',weight:4,opacity:.9,dashArray:'10 7',smoothFactor:.35})]);
+  const corridorLayer=L.layerGroup([
+    L.polyline(corridorRoute,{color:'#4d96c4',weight:30,opacity:.18,lineCap:'round',lineJoin:'round',smoothFactor:.02}),
+    L.polyline(corridorRoute,{color:'#d9eef8',weight:8,opacity:.75,lineCap:'round',lineJoin:'round',smoothFactor:.02}),
+    L.polyline(corridorRoute,{color:'#245f91',weight:3.5,opacity:.96,lineCap:'round',lineJoin:'round',smoothFactor:.02})
+  ]);
   corridorLayer.addTo(map);evidenceLayer.addTo(map);
   L.control.layers({'Street':streetMap,'Satellite':satelliteMap},{'Corridor':corridorLayer,'Evidence':evidenceLayer},{collapsed:false,position:'bottomright'}).addTo(map);
   map.fitBounds(corridorBounds,{padding:[24,24]});
