@@ -1,16 +1,72 @@
 {
-  "generated_at": "2026-09-02T04:30:26Z",
+  "generated_at": "2026-09-02T11:15:09Z",
   "collection_method": "Automated metadata discovery; inclusion is not verification.",
   "errors": [],
   "count": 60,
-  "total_archived": 278,
+  "total_archived": 296,
   "items": [
     {
-      "source": "The Rising Nepal",
+      "source": "NepalNews",
       "date": "2026-09-02",
-      "title": "Rasuwa flood damage unimaginable: CM Thapa - The Rising Nepal",
-      "summary": "Rasuwa flood damage unimaginable: CM Thapa The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zWFlPcDB2bnNMdUUyWnU1UEVtQW5fZlRXUWJkc2dDc195UnV6U0FmU3J2eDg5QmhENXU2U1dBeXFFenVYYXJLRmtIS0Fkc3lC?oc=5",
+      "title": "Bhote Koshi flood: Can Nepal get compensation from the UN-backed Loss and Damage Fund? - NepalNews",
+      "summary": "Bhote Koshi flood: Can Nepal get compensation from the UN-backed Loss and Damage Fund? NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazVTbHVjSUhpRmsxSGRKWUJ2UWlKTDUwekVmOWxPU2NjckMxdG5HRHhlMU9KTlFQRTNpYlV0QnBsRFpGQ0Q5UkVGakNEQUJiM1VXeUt6Wk1ISHBSdjNzRkNWQXBTMmhtdWs0ZDJocGFTS3ZOVmZsTXNRc1NhNkRmZGMxZ1dJd1E1T3FmeW9Wa1pJMmVQc3V3Z3k4Rk1KaTJmb1Rqd0dwYWJyOXltVzV1QmNQSUpvU1hvb2NKc21MNENFVUdRTG5B?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "The Statesman",
+      "date": "2026-09-02",
+      "title": "‘Climate change is the world’s shared responsibility’: Nepal PM calls Rasuwa flood a warning for the Himalayas - The Statesman",
+      "summary": "‘Climate change is the world’s shared responsibility’: Nepal PM calls Rasuwa flood a warning for the Himalayas The Statesman",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOEtCRFdsOTR1UnNEZ3VuRUltRWg5Q2tjQTlIZ0U1YzNLcWZ0b0NrM0pwcWRRek9HWnRSNG16LWU5SVB3WVN1dmJOZ2IyZ3l6UjAtVkgwV3Q2NFd0TF9ZUW9HejI1U0hrWnM3LS1TT0MtMVBYOEtJM3lJV3RkRmRpejJoSHFCWS1MdUc5bGlwcTFoUENBZllka052a1FWZ2JodmlQbkdnUUNtSEV4RVp3T1RORWNJcnNlcWJfWGZkTlFtME4zTGUwZWpoODRVTU1tR3Z1RFZNYUh2WXdkeXRjOU84YTVwRVVzdzdNcFZB0gHzAUFVX3lxTE44akRUbUttaWNOSVNjYnVqUlIzSW9QYS0yZmVCX3lIX0NfU1NIdHFZNHBpRkV3U196WlNWYy1kVDBvZXBhZXE3SW9iMDY3elB1NVRvUFR2cFZjQ2oxOUZYYmFNMHROYlpUbTEyNWl5enZzdWNZMEZrVUVRSm9zYlZXRXJDSkVpeXJTWm9rYUpQeWdQMW5WeGIyQUlWbVJ6TzFRck51aU4zc19KTFdwSWU4aFNfX01ZWDZJSk85ZDVOdlk1NUlYNGpaajBIbnFYQjViNXZIMTM5dHFEbU5LTDg1MXoyTF82a05DbE5hSkNOTDM5VQ?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-02",
+      "title": "Bhotekoshi flood: US donates 40 tons of emergency relief supplies - Khabarhub",
+      "summary": "Bhotekoshi flood: US donates 40 tons of emergency relief supplies Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJSldQSjVfVU03SHB3ZzdBOW5nVFpyMl9MeWZqc0Y2UUpidTNUWGNiU3RqeFdzczJEYmo0S2ZOWW9zclY5UldOV3QwV1ZvZG94UVFvTDNNME0?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "The Himalayan Times",
+      "date": "2026-09-02",
+      "title": "Bhotekoshi flood death toll reaches 1,114 - The Himalayan Times",
+      "summary": "Bhotekoshi flood death toll reaches 1,114 The Himalayan Times",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DeGZwQWRWeDVKOWdDQXZMYlo3MzR1aFFfWGFEYTMwVUZQd3pGQV82MFR0ME0zdlIyVW5aVHFOME5sQXpjNWl3Y1BWeG1BeVpPWnlWMUp3SXFFVGRH0gFcQVVfeXFMT0N4ZnBBZFZ4NUo5Z0NBdkxiWjczNHVoUV9YYURhMzBVRlB3ekZBXzYwVHQwTTN2UjJVblpUcU4wTmxBemM1aXdjUFZ4bUF5Wk9aeVYxSndJcUVUZEc?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "NepalNews",
+      "date": "2026-09-02",
+      "title": "Bhote Koshi flood: Support pours in from Banke - NepalNews",
+      "summary": "Bhote Koshi flood: Support pours in from Banke NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2k0dWdDWVAzZElsclQ3WDRQSUpyT01hWDBmaWtJVWpQUTc2V2I1aWFfaXZDeXloTkRZRjZOdm1QbjZvUDEyX29WQzhiVDBNYnI5Mjh3WU52b2tORGJMd2NMRG9hX3lQOFNzSXo2bjYxenhUX2drME55cEZLcm9nSG1sbXRWRGNRQ04xNHB3?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Inquirer.net",
+      "date": "2026-09-02",
+      "title": "Nepal seeks urgent climate finance after Bhotekoshi flood - Inquirer.net",
+      "summary": "Nepal seeks urgent climate finance after Bhotekoshi flood Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2pDdnQwSWNpS3FqMjNXWXpkd2JnRXZZWUpkc1ZKNDd4NHdaZFZYbTRkcklMaWgyNHNlSGluQkZKZEVfNnNTQ3V5OWZaS0plOWJsZVpEcFhnRXI4bElhNnJha0dTZlhYOHdCZS1HMHJ0dXRxVDBjZmVqSGVyOHdwNlVWMUt6OTRvQ3gwR0NaMENxYjV0bk50ZlhkNVhRRFXSAaQBQVVfeXFMT3dwYUF4MVZtdVBfMkpmVFNrZnpqNEN2N3VZWkVyRjNzMm5FTjRyaVppdW9RbjhvTE5VRlVpMk11b2lqUkt3X01CZTNSckpNWE5mdVZoaVVoWUVzc2ZLSk84X2lDSHY1Uzk3Z241SENyWmE1dzN4UWdTVW8tdXVsdHFVSHdnVlpKc3hBSm1aTDlIN0hBeVVtUWNTMjV2MUo4TGdnX2o?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "ReliefWeb",
+      "date": "2026-09-02",
+      "title": "Nepal: Rasuwa Flood Flash Update #5 (As of 1 September 2026) - ReliefWeb",
+      "summary": "Nepal: Rasuwa Flood Flash Update #5 (As of 1 September 2026) ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEJydTBYTEEzdWkxa2J0azRpZTJNYjBYRkdIVnRuU01sZldheUoyM09MZkxKWXhNcWItd2RpVDE2WUhLMHZha0tKenhuNG05MDAxaHNSNnFFSGloSEVwek1JRXM5MWtrSnBTandvSWd3UlNjUnV3LTJ3Y2x5blFXVzJXX2VyUV9DNTNiMlRn?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "myRepublica",
+      "date": "2026-09-02",
+      "title": "HoR meeting to discuss Bhotekoshi flood - myRepublica",
+      "summary": "HoR meeting to discuss Bhotekoshi flood myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWGN4ZzBHc0M5QXhOYXlnZ0MwYkJZMnllWjg2UEEyVHNTYWlVM2cwUENuTzFFY3Zjb0ZjRHA4RU1WeFZrdXM0VC1fNmRPUjFnd0lrd0xPOGstcXZwV3Y0RFRtS0xVQWJmUHdvWDh0RG5IZ19ZdG81alpWcEFYSkx5VU9OSER5R3p0Y1JORF9SUTFQbnBUNDhqRFp3?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -24,14 +80,6 @@
     {
       "source": "The Rising Nepal",
       "date": "2026-09-02",
-      "title": "Bhotekoshi flood was caused by climate change: PM - The Rising Nepal",
-      "summary": "Bhotekoshi flood was caused by climate change: PM The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4dlFSOUhRWXRxYUJsSUFIQ3BETUNkSVBnZ00zQUxtd3RJUW5rSzVnWW5weVNjby1vSDhKNXhYU2wwUG1rSWlmaW5RQ1Ayel9n?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Rising Nepal",
-      "date": "2026-09-02",
       "title": "Bhotekoshi flood survivors fear loss of culture - The Rising Nepal",
       "summary": "Bhotekoshi flood survivors fear loss of culture The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lVUNfOW01SlJPbHNIUnAyUl9mb21iWFdXeXhMNURUQXluMGpKSlpIYU01VTdUSEJjTGNzeWROWEU3ai1hdGdNMEw5WnVfWXhf?oc=5",
@@ -40,9 +88,17 @@
     {
       "source": "NepalNews",
       "date": "2026-09-01",
-      "title": "Lamichhane, Chinese envoy discuss support for Bhote Koshi flood recovery - NepalNews",
-      "summary": "Lamichhane, Chinese envoy discuss support for Bhote Koshi flood recovery NepalNews",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYXpnem55Y1hWcXN6RTMtQmEwaEpTVXJBUzBCMFlFbU00WjVtZk9CUlg1MklzeHVtMm1yN1VaSFI2Ym1CWElIWDJ2VjZUTld6dGZpTng0YzBlVF9NNk1ya1hpVnlEYVlWQml5RkZNWjVpR0JYbFZLdk5kUWhrYU9rdmc2OHU3b2ZYMnN5LVdTVG9DLTljTzZ0QnhKTGFnMkFDTnFQd0RpYzJUN041eGg3VC1XTjY?oc=5",
+      "title": "Bhote Koshi flood, day seven: What we know so far as the death toll tops 1,050 - NepalNews",
+      "summary": "Bhote Koshi flood, day seven: What we know so far as the death toll tops 1,050 NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NINW1UQU9maEFqZVhYQUlQOGRKQmtHSXhENTZueFN0Z1lGSVA2ZTlibTJYX2RYUmwwTEY2OEpRQzJTcDFxa1FhSmFDTmZJWFBvSUw3U1czcUNTZ0p1WDZ4LXZ6QWswVVlqekRnQXJqNFI3R2prVUI2YWEwdmVmamxDSzVWV0tfaFZqZXdySHhPTFR4bFhtcUtCckJ3dHl6OGhIbDNJZEVnTEY3Y0hhbWgwZXZqbVJGbGFR?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "The Farsight Nepal",
+      "date": "2026-09-01",
+      "title": "Rasuwa flood leaves insurers facing NRs 25.87 billion in claims - The Farsight Nepal",
+      "summary": "Rasuwa flood leaves insurers facing NRs 25.87 billion in claims The Farsight Nepal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ09xa29Bd3NMZWZTcnYwdll5U082cS1ubXotSlNISjdWQzNlU3JoNGs3TlJtZHloMVNpVWpOYWR2Tm0zaFRlMUxiYXVlMW5VZEpMejRRY0FhTVBycnZLcHJTRm1Pb0VGeEV1UFoxMnBTOXRUejhmb0pMQXlqdzdBOTQ2MTdrcVlnWmI3aTNvME8talBJMk5qbE53?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -88,25 +144,9 @@
     {
       "source": "Khabarhub",
       "date": "2026-09-01",
-      "title": "Rasuwa flood: Over 12,000 people rescued, 987 bodies recovered - Khabarhub",
-      "summary": "Rasuwa flood: Over 12,000 people rescued, 987 bodies recovered Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZTBpdUdtWmUzQ0lKODFWS1pOblNzdkd0MXdJMUFpUkg3cXVsdHBHS1Vyb2dRUnlTYnVQYUZoMVRJbnZ3SmYtcUxYbjRiek9lT2htaEg1ZW8?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-01",
       "title": "Dhanauji Rural Municipality provides Rs. 2.2 million assistance to Bhotekoshi flood victims - Khabarhub",
       "summary": "Dhanauji Rural Municipality provides Rs. 2.2 million assistance to Bhotekoshi flood victims Khabarhub",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xLWtiaVdiS0tkUWtSWUtPNC1QYURBenNJQzEtUlVxNUtMZ245N2VoWmR2UjdjZ2MxTDR0ckpDUV9NekFxYS1TT2h0a3dtRmFXTEk2ak9aQVA?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Rising Nepal",
-      "date": "2026-09-01",
-      "title": "Nepal demands urgent climate funds after Bhotekoshi flood - The Rising Nepal",
-      "summary": "Nepal demands urgent climate funds after Bhotekoshi flood The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sTkktd1dCcmR1aUxTN1o3eTdYTDVXWGhjRERDTWxLZ3ZVOFdSUHRsanBqQnBIb0l2bDN5UC16U2dvM29RcnBoMWpBR1lydHB3?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -134,59 +174,11 @@
       "kind": "News and reporting"
     },
     {
-      "source": "The Rising Nepal",
-      "date": "2026-09-01",
-      "title": "All-party meeting at 2:00pm to discuss Bhotekoshi flood - The Rising Nepal",
-      "summary": "All-party meeting at 2:00pm to discuss Bhotekoshi flood The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnY3ZPU0MxTFMxeXlvRDE2NGtpTC15Y2M0anVpVmhiSXJLUTFKbl93aEl6dkNiLVBCS1dUV29GQ21oYkNUMVlxU0NMaEIxWG8t?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-01",
-      "title": "All-party meeting taking place to discuss Bhotekoshi flood - Khabarhub",
-      "summary": "All-party meeting taking place to discuss Bhotekoshi flood Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tTVFlVlBFS2RDd0hwb0dRV01fNGZJdnBqRUo2aTBfdkdXQXc5QjdTdEVuTzFXNHk3ZXE4ZXlfd0E4TWo1dDZORlNYZ251aC1laVZERFhzRXc?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-01",
-      "title": "Bhotekoshi flood: 939 bodies recovered, 3,925 still missing - Khabarhub",
-      "summary": "Bhotekoshi flood: 939 bodies recovered, 3,925 still missing Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TWnllOGxfOXQtNkxpQUpNMGNuTmVMaXVMUERhZFd1SEcxNG1Ed0hqMVVpc2VLbzEzM29jdEZGYVZCbS1BMkl3bTdlMXl3VGxmQU9ZbUx2Y24?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Rising Nepal",
+      "source": "ReliefWeb",
       "date": "2026-08-31",
-      "title": "Bhotekoshi flood victims recount harrowing tales of survival - The Rising Nepal",
-      "summary": "Bhotekoshi flood victims recount harrowing tales of survival The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15MzFzV1RheFRCYmcyTTZhOWJldW5abGg3WXcxLXp5a2hOSG9ucjQ0QVhMRktyUWR6TU9Fc28tTG5Sd1djYWw2QjBNRS1CUUVN?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Rising Nepal",
-      "date": "2026-08-31",
-      "title": "Bhotekoshi flood: DNA testing process begins to identify bodies - The Rising Nepal",
-      "summary": "Bhotekoshi flood: DNA testing process begins to identify bodies The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSS0F2WlpfNjZHUUdyRm9iTlM0X1RreTVGLW9PZFYyTEFISl9lcDhxVFVDWkQ0aS1hUW1ENXZSUU1GX2pZZ0V0YXVLVHB2T285?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-08-31",
-      "title": "I Survived the Bhotekoshi Flood by Chance: Pushkar Dhakal - Ekantipur",
-      "summary": "I Survived the Bhotekoshi Flood by Chance: Pushkar Dhakal Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2kzR08wWWZpbnFWekRKZHl5RXM5MmpkNVI1QTBadDI1RHVEWjZDcV83OUdiVVZEVTRGV2tZS3JqWERiSnpNSmx3Rng3dkZ3a1NEeWFiZmE0S0Y4Q2I1TWZnNHMybzR1RnlRYWF5aTFJY1N3Uk1VdVQxWXRKMzgtWmp6TlJBY0hIOWY1SVRSZGpMelJpdkdqT2Jvak9iOGtCY0FrMkxlWTRYeUYz?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "The Kathmandu Post",
-      "date": "2026-08-31",
-      "title": "RSP chair Lamichhane briefs President Paudel on Bhotekoshi flood response - The Kathmandu Post",
-      "summary": "RSP chair Lamichhane briefs President Paudel on Bhotekoshi flood response The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeUUtN3dTR2VxVjF6YVpUWlZnVFJBNG5QUTFFdTN1WFgwMmg2bnFyOHRiczNrWlhRdUd3S2ZfMDkzclA0MWZWV3dOOVRZaXZRSVE3elQyejdTQTVCWnA1QnN0SVRmc093MnMzbEJxbE9hc0F6SVFGY2ZfSVBsTzNpV1pER2s0c2NZX0R4bVhxZWVTbkxNRzVXc3VLY2lnVUt1Z3hic2ZLLTI1V2ZvXzBpWDNYQVZDUGlJTWx3?oc=5",
+      "title": "Nepal: Rasuwa Flood Flash Update #4 (As of 31 August 2026) - ReliefWeb",
+      "summary": "Nepal: Rasuwa Flood Flash Update #4 (As of 31 August 2026) ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnlFZzRHTmlPNktmbnhJRWo2QUpyTjd4NEt1YjNkTnhjSzNWeHhvRmlDRUxLOUhJYmNaNWxmWUhXdFhuOGZCaW9SSWZhREVpZW1xMWFzTmRTS1htbmh6ZjNQTFQ0T1VJQUhzSjdZbW9lNVMxcWdIaDdKel9OcnJuZ0xWYmNtUGNjSGtR?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -198,11 +190,11 @@
       "kind": "News and reporting"
     },
     {
-      "source": "The Kathmandu Post",
+      "source": "NepalNews",
       "date": "2026-08-31",
-      "title": "Bhotekoshi flood survivors face new battle against illness - The Kathmandu Post",
-      "summary": "Bhotekoshi flood survivors face new battle against illness The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUg2NmRHQk1pMnk4OVRSMEhSZ3phRHhkYTBFaEdnZ2d6REZyYm52NFdxTnctVUgzLWVKWmhTdElZd0dZeEc0dVpIaDVTT0N1MUhhR3lDR0JjRlE1Z1hmak1SRnNybjdlVXBBU3F0Q1VfOWJpZE5XNG9VZXVJRW54SVl5b2FONHNqaDlxRXJZSlhGN2tVZl93eHRlRGlaTjdZQ0Nab0hoZw?oc=5",
+      "title": "Rasuwa flood death toll reaches 939, nearly 4,000 remain out of contact - NepalNews",
+      "summary": "Rasuwa flood death toll reaches 939, nearly 4,000 remain out of contact NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVJ5SUlzR0xIamk1dHFzRUthSi1rSDZ1eEVVMmhXNjhfRmRJSjhwWGdWaWJtZzdRVFdoRlFETTRaYnV1WjdwRUZXYW56S3ZzN2hWb0xTelF2bzBOX1FFV29YTWM2Ui1HQVVEZUowTEVoSXdvVlRsbnNtTWNkZGlzcEtPSlBHMFRYbmxZc0JRcXkyVDBrbkZFMmxBTWR6NWR5eEZvZFJaeTJXdVd0YUE?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -214,10 +206,10 @@
       "kind": "News and reporting"
     },
     {
-      "source": "english.ratopati.com",
+      "source": "Ratopati",
       "date": "2026-08-31",
-      "title": "Government Collecting Data on Foreign Nationals Affected by Rasuwa Flood - english.ratopati.com",
-      "summary": "Government Collecting Data on Foreign Nationals Affected by Rasuwa Flood english.ratopati.com",
+      "title": "Government Collecting Data on Foreign Nationals Affected by Rasuwa Flood - Ratopati",
+      "summary": "Government Collecting Data on Foreign Nationals Affected by Rasuwa Flood Ratopati",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY0pIVzNySnJoVnd4WVJzNE51ZDlVWU93YU5ZeEFNbkhEblJkT0lueF8zSTY2TEtTYk1JaERaTl9VWTctRTBtZk5pLTNKWENaMDlSWFpMdEFtVmZ6eVEza0p1Y19QMXVfZkU0ODVOSmFIZm1TV0UtUGtuTlRMUzE3RGlyUGF1a3VaVkZJb0Z4UmFyN0YtN1ZaZDJuVnR4cUNSTXp4YnBOS0VYN0JqZ0k1Mm8wTzNYU0NyUUJnODJvLXpZazlydFNPMVpnamRsMFRFZmxFM1hR?oc=5",
       "kind": "News and reporting"
     },
@@ -230,11 +222,19 @@
       "kind": "News and reporting"
     },
     {
-      "source": "Ministry of Foreign Affairs Nepal",
+      "source": "Khabarhub",
       "date": "2026-08-31",
-      "title": "Press Briefing by the Spokesperson on Bhote Koshi Flood - Ministry of Foreign Affairs Nepal",
-      "summary": "Press Briefing by the Spokesperson on Bhote Koshi Flood Ministry of Foreign Affairs Nepal",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVBrX0pCOFNtekFvbmQ5ZDdqSEdBMTlWb1RLX1cwbmUzVUhSc0R0LWZJTEdRZGZYaTZpY2VtR0tYNFNRWXU0WkVkWFZMc2Ryc1lVelFBYmI5Y0pWZEMtdExSOElDcUtna25VenlzbTItQTBJRUNJRE45Nk9IdXcyYmQ2bw?oc=5",
+      "title": "Bhotekoshi flood: 33 injured discharged from National Trauma Center - Khabarhub",
+      "summary": "Bhotekoshi flood: 33 injured discharged from National Trauma Center Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zVUlDbGRVRHZyYWNuSm9hU2dsRmRSV0dDcHlaVzcwMzhQdWYyclBEQ21CYXpoWTVWV2JjSmVIemtSYi1Ya0N0alh3Y1hTdi1ETnlFaVYzbUg?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-08-31",
+      "title": "Sikkim Sends Relief to Bhote Koshi Flood Victims - Ekantipur",
+      "summary": "Sikkim Sends Relief to Bhote Koshi Flood Victims Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclhBUEZGbWk5d0hTUkEtX2U2YXVsRkFTbWEwalVjemFkQUhNM2JDcFJOVXNKQ2tzOVVvcVlhWHBHRm9OMW93MS1RcnI0Wnk4T3B1V0tNYjlRS1RSSHhJMGtjYThuQmRiNTZtRWQ2OTFPV2FwWF83cmhwQTVNdlRjNmtISVZteFRCdEJQeUtVaVd1Yjlmc2lqMkttU0I1Rmtu?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -254,11 +254,11 @@
       "kind": "News and reporting"
     },
     {
-      "source": "The Rising Nepal",
+      "source": "Ekantipur",
       "date": "2026-08-31",
-      "title": "Bhotekoshi Flood: 94 bodies brought at TU Teaching Hospital - The Rising Nepal",
-      "summary": "Bhotekoshi Flood: 94 bodies brought at TU Teaching Hospital The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oakdwME1NTHFHcnNEY0ZQYW40V2o4RHI5dDhPN0ZlZHRjVUp0Ql9vVmFwWV9peWdKRjN5QWFfY256MmQzeEJtN2g5NVFNM0o0?oc=5",
+      "title": "Bhote Koshi Flood: Two Families Claim the Same Body, Decision to Be Made Through DNA Testing - Ekantipur",
+      "summary": "Bhote Koshi Flood: Two Families Claim the Same Body, Decision to Be Made Through DNA Testing Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR1ZWUFlVa1ZMbnNPYXlmUjdPZVV0Q2NBcnNVYXF6ZGxsT0JvcGV2RmRPSzYyTldLdWlWN01FaDlBaUdwMTRYVFBObU1iYThzbmJVa3IyMnVEUVdqVko5dGNTSE1nS001Y2FWQlV2YnZ4OW5uTXBnX3pVZU5fY3NCdkJmSF8wXzFlU3lBZlg5Y21EeXBPM19LZ0VnenQxeEJ4bVB3RFpJRGw3UTdjYmtNWE9kZDlMeVpGU0w1NkFZRldTOXF6RXY0aw?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -270,10 +270,10 @@
       "kind": "News and reporting"
     },
     {
-      "source": "english.ratopati.com",
+      "source": "Ratopati",
       "date": "2026-08-31",
-      "title": "Nepali Youth in Dallas Establish Rs 3 Crore Fund for Rasuwa Flood Victims - english.ratopati.com",
-      "summary": "Nepali Youth in Dallas Establish Rs 3 Crore Fund for Rasuwa Flood Victims english.ratopati.com",
+      "title": "Nepali Youth in Dallas Establish Rs 3 Crore Fund for Rasuwa Flood Victims - Ratopati",
+      "summary": "Nepali Youth in Dallas Establish Rs 3 Crore Fund for Rasuwa Flood Victims Ratopati",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNakZabUI3VkZMSVdCZVFocXlfTjNnM3JnRUFzOTViYURNTks4WDNCbDBfbVVndkp5b3NvTk1XSHF3MGZqUkdWRXhXdlVnal95XzFacTJzbW9uRVZFUjJfV2JsRzNHRG8zRTYtWDlRX0tGaGNHdFNfby1pRHNlV2VoTkZZZDlmRFdSb0tNLVcwRlc0aUNVanVmSU1aS2FaWTFzMUM3cjF6S1F0eThhUloxaGJ0VVpBMDFIMlVfSTVSSG13Q1VNd2lqU3NIdEJJOF9qNUdDcGZBc1VUVkQt?oc=5",
       "kind": "News and reporting"
     },
@@ -291,6 +291,14 @@
       "title": "Bhotekoshi flood highlights Himalayan glacier threat - The Rising Nepal",
       "summary": "Bhotekoshi flood highlights Himalayan glacier threat The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWWRPRGE2VmNVSHNfdEdteXgybjVjMjZXTktpZGUtZ3dVOGdQNVEtbW56WTh5UWZPTXJNYmg1Y2RfN3duRlpiZjBucGVtUm9Q?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-08-31",
+      "title": "Bhotekoshi Flood: Citizen Investment Trust Provides Rs10 Million in Assistance - Ekantipur",
+      "summary": "Bhotekoshi Flood: Citizen Investment Trust Provides Rs10 Million in Assistance Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQXVDNFZqemdMSGhvY1B0VmgxVEJxTGVSdlUyU2ZTN3hUeF83anRlWTNiSUJsWGdMY195RE42dnVBZFZLMW1WOFlwT2FjS0xjQkxycUduTmU0UkFGM0pNVGVFNzV3cmVKeUczTTlfNXY2bElvbUhNdFFKQV9TV18zUlRodkhzWjdfZzJ5eXhSaTctZDZSalVaYTMwSFBjd1piemJKU1M3c3U3N3RqZ180X05XWjlOUTNzUHduRUlhY3YyVEZsMnc?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -312,6 +320,14 @@
     {
       "source": "Khabarhub",
       "date": "2026-08-31",
+      "title": "Rasuwa flood: Death toll reaches 903 - Khabarhub",
+      "summary": "Rasuwa flood: Death toll reaches 903 Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiTk9QYlUyc0pVZlRNOVkwRkx6QVFvUkNSLXhINzFSRTVLZzM2eFdfLU9Zc3JGaDNoZlUxR2Myd0ZWVnpTRW5qaERudktOODZlZHNLTWhseXc?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-08-31",
       "title": "Bhotekoshi flood: 3,029 rescued, over 1,500 reported missing - Khabarhub",
       "summary": "Bhotekoshi flood: 3,029 rescued, over 1,500 reported missing Khabarhub",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56VE9LYTlwTC1TSjgxM082VFdsZXZaX0cxd3ZsVVBfbE5rUXR0REtpOVhvbUd1aFR4X1ZacG9lREtzMjA1LVc4T2xDWndkRnNvZDVqQ09kblA?oc=5",
@@ -323,6 +339,14 @@
       "title": "Rasuwa flood: NTB to set up information desk to provide updates on tourists - Khabarhub",
       "summary": "Rasuwa flood: NTB to set up information desk to provide updates on tourists Khabarhub",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ed3hncFpIblp5RHJJcXRYbGJuTjVoR1VvN1VmUWMtMUlWMzF6UXI1TDc4ZDdqQmlGeVpvOHRIOFJKZjNYMkhmMUtKZzB6SW5rN1YwdGpEM1Q?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-08-30",
+      "title": "Impact of the Bhotekoshi Flood—Alternative Routes for the Supply of Petroleum Products Being Sought - Ekantipur",
+      "summary": "Impact of the Bhotekoshi Flood—Alternative Routes for the Supply of Petroleum Products Being Sought Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZUMyRk96UmZGTGdqSWVCckhveVV0WDZveWlwLUdONlBPc2NqZnhxNmc0ZDBRODlHNGs4QlJZQzh4VTE5ZkZGWFRhNEd5UnBCbDBoRlFDbmJMbnN3N2doUDdKTVB0OTZSb2xlY0NtRUxrajRnMkFTdlZxVjNrb25NdnlEc2xiQ0NzbXYxakZPN0JMaG5xeWx3TFZQa2dEQmZneFhCOUN4a2hlS0hCVmNjMTZqLV9fbzdvQTZZeGk2ZUM2Y3lTRUtiOFF6TjZndw?oc=5",
       "kind": "News and reporting"
     },
     {
@@ -342,14 +366,6 @@
       "kind": "News and reporting"
     },
     {
-      "source": "NepalNews",
-      "date": "2026-08-30",
-      "title": "Bhote Koshi flood death toll reaches 788; 2,502 missing - NepalNews",
-      "summary": "Bhote Koshi flood death toll reaches 788; 2,502 missing NepalNews",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGhpVjZ2ME1aVE1zdjF0YS1TcjByUDdqcFFGeTlFTXFPSDFSVERCLW53eHFQRTU2UjJOQlN1VFV4bzYxVzA2eFRpS1JZdXluMDM5d3NFSWFfeXM5MW9RaGl4bVlpaHc3Vm1CN0RwUXVGb2dfUGpvM2dUNnF0eXZCMFJmVHR4ZTR0ZFdtQkRtTERLYUJIbXlDUg?oc=5",
-      "kind": "News and reporting"
-    },
-    {
       "source": "Deshsanchar",
       "date": "2026-08-30",
       "title": "Rabi Lamichhane urges RSP to intensify Bhotekoshi flood relief efforts - Deshsanchar",
@@ -366,18 +382,10 @@
       "kind": "News and reporting"
     },
     {
-      "source": "The Rising Nepal",
+      "source": "gulftoday.ae",
       "date": "2026-08-30",
-      "title": "Three of 13 Baitadi locals missing after Bhotekoshi flood rescued safely - The Rising Nepal",
-      "summary": "Three of 13 Baitadi locals missing after Bhotekoshi flood rescued safely The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93MmZuX3JBcnlvWW0yZFVCTmJ0WmpqUzdTb0NvdklSMzBfWEdYNGxraWZUemY4WFJ5ZjhBZ0pOSkF3U2RaVkxDSW5hbFhyaWxm?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Gulf Today",
-      "date": "2026-08-30",
-      "title": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises - Gulf Today",
-      "summary": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises Gulf Today",
+      "title": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises - gulftoday.ae",
+      "summary": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises gulftoday.ae",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORURQLUJIa2Z6WThDVThMS0VGalJlNk9idmY1WU1LU3pSYmUyejdSZ01ab1hFcE5udDc0dm95ekttVlBOMGRoeUFhZ1Fhcm5jLUVjcWJwNVdJRW5BVkplRjFLVzNpaHFDZkdJWEpmbWdNTXN5bDl2eV9FZDFDNlVacU84ZUFCcXdKYnZ5VVVHa1dXZzdMNTVyUU42ckk3aW9qWmVFTzdseGF4MFBvZ0xpWjJDbw?oc=5",
       "kind": "News and reporting"
     },
@@ -398,10 +406,18 @@
       "kind": "News and reporting"
     },
     {
-      "source": "english.ratopati.com",
+      "source": "NepalNews",
       "date": "2026-08-30",
-      "title": "70 of 267 Missing in Rasuwa Flood Contacted, 197 Still Unaccounted For - english.ratopati.com",
-      "summary": "70 of 267 Missing in Rasuwa Flood Contacted, 197 Still Unaccounted For english.ratopati.com",
+      "title": "The Bhote Koshi flood and Nepal’s crisis of empathy - NepalNews",
+      "summary": "The Bhote Koshi flood and Nepal’s crisis of empathy NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDNPc2sxNWpHTVNHNGdfa0pfT1ZMdnZ5T0hTZmJ5TVlYMTQ0ZFRWZElZSTBxMldmU3FPVTBzeEdraEItVjVwXzgwdGNOUDdpWXVSTzM3Z3BqR2NaZmMxQ1BpU3RfeDROMGlZdGNjYjdqOXRfRllveWc5VFhNbmJXZkg2dXNNUEgwamRKd0NCVnZQdVVJRmc?oc=5",
+      "kind": "News and reporting"
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-08-30",
+      "title": "70 of 267 Missing in Rasuwa Flood Contacted, 197 Still Unaccounted For - Ratopati",
+      "summary": "70 of 267 Missing in Rasuwa Flood Contacted, 197 Still Unaccounted For Ratopati",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZkUzN21ubVkzcGdTZnR4UnRremZacGtRVmV5c3hZVlRqZTg4T0NUQzltc1hFcWJndUtjdXpxLU9XY2ZQR0tENm1obTdIV3YxRGROZjA2Wm40QnZpbWp4Wi0xTC0yWVJLTUN2TE8tX25xM0xIQ25VdlYyNWlZRl9UZGE1d05PLVY0MWlVV1J1WDhfc294REhET2hhX01VT0VaaVlialJvWm5US2VzZ2NQSUJlMVBoM2JGWnc?oc=5",
       "kind": "News and reporting"
     },
@@ -467,22 +483,6 @@
       "title": "Rasuwa flood: 261 foreign tourists rescued, 320 still missing - Khabarhub",
       "summary": "Rasuwa flood: 261 foreign tourists rescued, 320 still missing Khabarhub",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RZ2VDMzNZUUM4S2JIUVNST0dMenY1Q0w3MDJRR0tadEM1aGJLTmZ1WWk5aU1jTlVZUFFpSHBVU2p6VzlCakhyMHhXeTExa3psSl9jTXZhd3A?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-08-29",
-      "title": "Seven-year-old girl rescued alive four days after Bhotekoshi flood in Rasuwa - Khabarhub",
-      "summary": "Seven-year-old girl rescued alive four days after Bhotekoshi flood in Rasuwa Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWHRHbU85a2FKMGUtaWN5VlpMdklHbEVJWTdxR1hSTnZyZGdMM3cwakpqdDhDLWU3MDFIdmh3R3MyVE41bGRRZGU3bV85WE42bzRRcWk0WlM?oc=5",
-      "kind": "News and reporting"
-    },
-    {
-      "source": "NepalNews",
-      "date": "2026-08-29",
-      "title": "When the mountains let go: Lessons for Nepal from Peru after the Bhote Koshi flood - NepalNews",
-      "summary": "When the mountains let go: Lessons for Nepal from Peru after the Bhote Koshi flood NepalNews",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeElQcmxHVW83eVdVS3BCMWtDMEdjOU1yWnRqc0JJZXZjU0pjeHdWcTdsUFNzZkh0WWxlQnc2cngzX2RwWjR6YkNnalN6dmJ2SXdQNWlnNlJxSk5YNWxpM20tV2dWN0dYM2J5aExVMW1zbVE1em1JcWVrWmVyUDBWWkF2YjNJWWZYTzhfelRxYXhtSGpDdHFqd205bDFySDdWeEZvOGFnaDB4SW1oUV9lT09mWEgwajNvdm5FSnZVTQ?oc=5",
       "kind": "News and reporting"
     }
   ]
