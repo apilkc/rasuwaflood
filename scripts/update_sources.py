@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import email.utils
+import csv
+import hashlib
 import html
 import json
 import re
@@ -17,6 +19,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 LATEST = ROOT / "data" / "latest.json"
 ARCHIVE = ROOT / "data" / "archive.json"
+ARCHIVE_CSV = ROOT / "data" / "archive-metadata.csv"
+ARCHIVE_XLSX = ROOT / "downloads" / "rasuwa-flood-source-metadata.xlsx"
 START = datetime(2026, 8, 26, tzinfo=timezone.utc)
 USER_AGENT = "RasuwaFloodSourceIndex/1.0 (+https://rasuwaflood.org/)"
 QUERIES = (
@@ -27,6 +31,7 @@ QUERIES = (
 REQUIRED = re.compile(r"\b(rasuwa|rasuwagadhi|bhote\s*koshi|bhotekoshi|kyirong|lhende)\b", re.I)
 HAZARD = re.compile(r"\b(flood|avalanche|landslide|glacier|disaster|mudflow|rockflow)\b", re.I)
 TAG = re.compile(r"<[^>]+>")
+ARCHIVE_COLUMNS = ("record_id", "date", "first_seen_at", "source", "title", "retained_excerpt", "url", "archive_lookup_url", "content_retention", "rights_note")
 
 
 def fetch(url: str) -> bytes:
@@ -97,9 +102,78 @@ def previous_items() -> list[dict]:
     return items
 
 
+def write_workbook(items: list[dict], generated_at: str) -> None:
+    """Write a human-readable XLSX mirror of the public metadata archive."""
+    from openpyxl import Workbook
+    from openpyxl.styles import Alignment, Font, PatternFill
+    from openpyxl.utils import get_column_letter
+
+    workbook = Workbook()
+    readme = workbook.active
+    readme.title = "Read Me"
+    archive = workbook.create_sheet("Archive Metadata")
+    dark, green, pale, sand = "233B31", "355747", "E9EEE9", "F3EBDD"
+
+    readme.merge_cells("A1:J2")
+    readme["A1"] = "Rasuwa Flood — Source Metadata Archive"
+    readme["A1"].fill = PatternFill("solid", fgColor=dark)
+    readme["A1"].font = Font(bold=True, color="FFFFFF", size=22)
+    readme["A1"].alignment = Alignment(vertical="center")
+    facts = [
+        ("Archive generated", generated_at),
+        ("Retained records", len(items)),
+        ("Update frequency", "Every three hours"),
+        ("Public website", "https://rasuwaflood.org/archive.html"),
+        ("Retention policy", "Metadata and source-provided excerpts are retained. Full copyrighted article text is not republished without permission or an open licence."),
+    ]
+    for row, (label, value) in enumerate(facts, start=4):
+        readme.cell(row, 1, label).font = Font(bold=True, color=green)
+        readme.cell(row, 1).fill = PatternFill("solid", fgColor=pale)
+        readme.cell(row, 2, value).alignment = Alignment(wrap_text=True, vertical="top")
+    readme.column_dimensions["A"].width = 24
+    readme.column_dimensions["B"].width = 90
+    readme.merge_cells("A10:J11")
+    readme["A10"] = "Fields include publication date, first-indexed timestamp, publisher, headline, retained excerpt, original URL, archived-copy lookup, retention status and rights note."
+    readme["A10"].fill = PatternFill("solid", fgColor=sand)
+    readme["A10"].font = Font(italic=True, color="5F4B32")
+    readme["A10"].alignment = Alignment(wrap_text=True, vertical="center")
+    readme.sheet_view.showGridLines = False
+
+    headers = ("Record ID", "Published date", "First indexed (UTC)", "Publisher", "Headline", "Retained text / excerpt", "Original URL", "Archived-copy lookup", "Content retention", "Rights note")
+    archive.merge_cells("A1:J2")
+    archive["A1"] = "Rasuwa Flood source metadata"
+    archive["A1"].fill = PatternFill("solid", fgColor=dark)
+    archive["A1"].font = Font(bold=True, color="FFFFFF", size=20)
+    archive.merge_cells("A3:J3")
+    archive["A3"] = f"Generated {generated_at} · {len(items)} records · original URLs remain the authoritative source"
+    archive["A3"].fill = PatternFill("solid", fgColor=pale)
+    archive["A3"].font = Font(italic=True, color=green)
+    for column, header in enumerate(headers, start=1):
+        cell = archive.cell(5, column, header)
+        cell.fill = PatternFill("solid", fgColor=green)
+        cell.font = Font(bold=True, color="FFFFFF")
+        cell.alignment = Alignment(wrap_text=True, vertical="center")
+    for row_number, item in enumerate(items, start=6):
+        for column, key in enumerate(ARCHIVE_COLUMNS, start=1):
+            value = item.get(key, "")
+            cell = archive.cell(row_number, column, value)
+            cell.alignment = Alignment(wrap_text=column in (4, 5, 6, 9, 10), vertical="top")
+        archive.row_dimensions[row_number].height = 48
+    widths = (19, 15, 22, 24, 44, 56, 38, 38, 32, 42)
+    for column, width in enumerate(widths, start=1):
+        archive.column_dimensions[get_column_letter(column)].width = width
+    archive.freeze_panes = "C6"
+    archive.auto_filter.ref = f"A5:J{len(items) + 5}"
+    archive.sheet_view.showGridLines = False
+    archive.row_dimensions[5].height = 34
+    ARCHIVE_XLSX.parent.mkdir(parents=True, exist_ok=True)
+    workbook.save(ARCHIVE_XLSX)
+
+
 def main() -> int:
     items = previous_items()
     errors: list[str] = []
+    generated_at = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
     try:
         items.extend(google_news())
     except Exception as exc:  # keep the last good index if a feed is temporarily unavailable
@@ -113,14 +187,22 @@ def main() -> int:
         item["url"] = url
         item.setdefault("timestamp", 0)
         item.setdefault("kind", "Source")
+        item.setdefault("record_id", hashlib.sha256(url.encode("utf-8")).hexdigest()[:16])
+        item.setdefault("first_seen_at", generated_at)
+        item["retained_excerpt"] = clean(str(item.get("summary", "")), 500)
+        item["archive_lookup_url"] = f"https://web.archive.org/web/*/{url}"
+        item["content_retention"] = "Metadata and source-provided excerpt retained"
+        item["rights_note"] = "Full text is not republished unless reuse permission or an open licence is documented."
+        if url in unique:
+            item["first_seen_at"] = unique[url].get("first_seen_at", item["first_seen_at"])
         unique[url] = item
 
     ordered = sorted(unique.values(), key=lambda item: (item.get("timestamp", 0), item.get("date", "")), reverse=True)
     for item in ordered:
         item.pop("timestamp", None)
     shared = {
-        "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
-        "collection_method": "Automated metadata discovery; inclusion is not verification.",
+        "generated_at": generated_at,
+        "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
         "errors": errors,
     }
     latest_payload = {**shared, "count": min(60, len(ordered)), "total_archived": len(ordered), "items": ordered[:60]}
@@ -128,6 +210,14 @@ def main() -> int:
     LATEST.parent.mkdir(parents=True, exist_ok=True)
     LATEST.write_text(json.dumps(latest_payload, ensure_ascii=False, indent=2) + "\n")
     ARCHIVE.write_text(json.dumps(archive_payload, ensure_ascii=False, indent=2) + "\n")
+    with ARCHIVE_CSV.open("w", encoding="utf-8", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=ARCHIVE_COLUMNS, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(ordered)
+    try:
+        write_workbook(ordered, generated_at)
+    except ImportError:
+        print("openpyxl unavailable; skipped XLSX refresh", file=sys.stderr)
     print(f"Wrote {len(latest_payload['items'])} latest and {len(ordered)} archived sources")
     if errors:
         print("; ".join(errors), file=sys.stderr)
