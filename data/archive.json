@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T20:44:14Z",
+  "generated_at": "2026-09-04T23:02:25Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 421,
+  "count": 423,
   "items": [
     {
       "source": "The Rising Nepal",
@@ -173,6 +173,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "The Annapurna Express",
+      "date": "2026-09-04",
+      "title": "India sends sixth, seventh consignments of relief supplies for Bhotekoshi flood survivors - The Annapurna Express",
+      "summary": "India sends sixth, seventh consignments of relief supplies for Bhotekoshi flood survivors The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tcG54NDZtTktIb2ZZczBVblc0Wnk0dkNfbGJEMFN1aDI3aEZYd29lbEljeF9jdVdRdkwzd1hFcXduNkNUdG12am9BbnduOHYxMGdOLUtDWQ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "48d3e154be99628d",
+      "first_seen_at": "2026-09-04T23:02:25Z",
+      "retained_excerpt": "India sends sixth, seventh consignments of relief supplies for Bhotekoshi flood survivors The Annapurna Express",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tcG54NDZtTktIb2ZZczBVblc0Wnk0dkNfbGJEMFN1aDI3aEZYd29lbEljeF9jdVdRdkwzd1hFcXduNkNUdG12am9BbnduOHYxMGdOLUtDWQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "ReliefWeb",
       "date": "2026-09-04",
       "title": "WFP Nepal Situation Report on the Rasuwa Flood Response, 04 September 2026 - ReliefWeb",
@@ -243,20 +257,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "radionepalonline.com",
-      "date": "2026-09-04",
-      "title": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution - radionepalonline.com",
-      "summary": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution radionepalonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51d0RwbmpDNjdKaEp2b1pTbFF1ajNhMzMta3ZNSHJ5TnMzQk9wQnZjWUFLcTk0QmtOV1J4djBOOHItc19fcldXV1BDSHprWkZmNUtGM1UwY2ZOWGdPVnh3M3pQTmM?oc=5",
-      "kind": "News and reporting",
-      "record_id": "86d22dfe0810a933",
-      "first_seen_at": "2026-09-04T20:44:14Z",
-      "retained_excerpt": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution radionepalonline.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE51d0RwbmpDNjdKaEp2b1pTbFF1ajNhMzMta3ZNSHJ5TnMzQk9wQnZjWUFLcTk0QmtOV1J4djBOOHItc19fcldXV1BDSHprWkZmNUtGM1UwY2ZOWGdPVnh3M3pQTmM?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Khabarhub",
       "date": "2026-09-03",
       "title": "Rasuwa flood: Death toll reaches 1,114 - Khabarhub",
@@ -323,6 +323,20 @@
       "first_seen_at": "2026-09-03T21:00:27Z",
       "retained_excerpt": "FM Khanal briefs diplomatic community on Bhotekoshi flood, thanks int’l community for support myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxPUnVtSkkwWElzdTNMbEdsUmtOejZRRDNMUi0ydHZxeXNxTlJWaUNxQTlLT01IcXVKZkhFZVlBNmlfc1JXSmZlcEtoLVdvdGxxUUdTRFJKQmt4NURvTi1XWTdjNzd3eTJqZFpPUXFTVG53eG56aGxWbGVZQkxBUXJPSXlTZ3RBRDQtd2NxalRlTThreDBzNHJnVnVlTXo3UlhSRFV6aEJ2N2NrRDEzTmc1eHlFYU5oMEZDalR1dDAzRHk0WlhSaWdXcV9B?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "radionepalonline.com",
+      "date": "2026-09-03",
+      "title": "Bhotekoshi flood issue raised in LDC ministerial-level meeting – Public Service Broadcasting, Radio Nepal - radionepalonline.com",
+      "summary": "Bhotekoshi flood issue raised in LDC ministerial-level meeting – Public Service Broadcasting, Radio Nepal radionepalonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wenlNWkw2a2dMcHE4N2ZFRWZUYnNfbndNWmRETXl2M0t5QUtSMHZaSXRJNF9vZU90UUc2b3BXQTB3RTh4WVd4R3YzMUhKbGJvZlViUm9ZZU5obi1XRk16OGRpSW8?oc=5",
+      "kind": "News and reporting",
+      "record_id": "28aac561e68ce574",
+      "first_seen_at": "2026-09-04T23:02:25Z",
+      "retained_excerpt": "Bhotekoshi flood issue raised in LDC ministerial-level meeting – Public Service Broadcasting, Radio Nepal radionepalonline.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wenlNWkw2a2dMcHE4N2ZFRWZUYnNfbndNWmRETXl2M0t5QUtSMHZaSXRJNF9vZU90UUc2b3BXQTB3RTh4WVd4R3YzMUhKbGJvZlViUm9ZZU5obi1XRk16OGRpSW8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -449,6 +463,20 @@
       "first_seen_at": "2026-09-03T11:11:13Z",
       "retained_excerpt": "How to identify bodies from the Rasuwa flood: Nepal Police’s DNA sample submission process for local and foreign families The Statesman",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi_wFBVV95cUxONmMyZjZQT19renpQS29JaTRYbS1ieFpDN3R0QklUdUJqMmt4bE9vVFVCbm5SOVlmSWNMVXlILWlYV21ieWZWel90UDQzcmZ2T3RxczU2WnZBazNleGp6cDFoUHJrY3ZjTXlIOFhDbVJMUHVHOF9ZZGZIMUw2c1owZUxCRk8wOXlsMDRpYWFia3FNV0pGNU5fVkdKeXFpdzk2VVk1YWM1Vy1sSUdCM1ZyRXc0S0k3R2hFWmdMN1hhM3JHNUdDLWtBTF9oVkFLQWJFTkNQRXFxSGRWc3ZlZ3pEMVZJUGRBQS1oNEpDVnM3dUh2Si1TTDhIY0FmeHJJTlHSAYQCQVVfeXFMTWkyQW5KaHAyZUdwWTlHbjdjS2JnRlpmMFFObDhlZE1SS1Q3TVJZSkFWUmE2ellHSWlQQS1YcWJIRUFKUHVVa3FLa1hLanlRS1Y3NXNnZE93MHJfajZ0TkhMUldEUXlxUVZLaDZHYjZrNGw3YlkwYWs1eGNzUmhKU29CZExKYWhoY1p0V0xHRVR1X1dJX0s3ZHdsYnpMMGJNOVcxSGZLc2t6M19KMmhFdGlTb2haMEFudkZCWWdBUTJicmh0b0t3N29aZ3BaUk1uaGlldlV2ZEZnS0hndVJNXzZOUnB0OVlrZWsxaktlUFRLZ3VHN2h1RmhPcWJNa2dJTURYZjA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "NepalNews",
+      "date": "2026-09-03",
+      "title": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing - NepalNews",
+      "summary": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing NepalNews",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3RuYkxxVzhmUzRfSWZpcWxLYnJUS0FkUXN1WjRvc1dxdFJJaVVVaFVQNU1CMFNwdGtFTUkyZ3Znenkxak1kN0VLWVRacGFfbE5JTEM1UG1WM2ExRE1hYUVNTnNKak9TVGJTWHBrUFdFR3JtTVJzRVhoVWgzc2ZfaWhGbmNidHd1emU1d2V5UFVpTUNCTjkyWWZMWWZ3UzVlazRoRWszWWNyVDVRdEE?oc=5",
+      "kind": "News and reporting",
+      "record_id": "a82013ca21037b39",
+      "first_seen_at": "2026-09-03T04:20:55Z",
+      "retained_excerpt": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing NepalNews",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3RuYkxxVzhmUzRfSWZpcWxLYnJUS0FkUXN1WjRvc1dxdFJJaVVVaFVQNU1CMFNwdGtFTUkyZ3Znenkxak1kN0VLWVRacGFfbE5JTEM1UG1WM2ExRE1hYUVNTnNKak9TVGJTWHBrUFdFR3JtTVJzRVhoVWgzc2ZfaWhGbmNidHd1emU1d2V5UFVpTUNCTjkyWWZMWWZ3UzVlazRoRWszWWNyVDVRdEE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -761,15 +789,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "english.ratopati.com",
+      "source": "Ratopati",
       "date": "2026-09-02",
-      "title": "Study Reveals Causes of Devastating Flood in Rasuwa - english.ratopati.com",
-      "summary": "Study Reveals Causes of Devastating Flood in Rasuwa english.ratopati.com",
+      "title": "Study Reveals Causes of Devastating Flood in Rasuwa - Ratopati",
+      "summary": "Study Reveals Causes of Devastating Flood in Rasuwa Ratopati",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYW9WaFBmRk1qdXlBMFoweHQzQVZ3V2xhY0JQbm1sSGx2SndabjJrdFJOMGZ6QzZtSVdFcUNRM3NQRGtUb3NqQWV0TFFqS0JUNXhmWUFTU0EtRzR4b01xdVh4MDZHZEthYjU2LTc0TjJzdnZRbUxlY3NFZUNob3lWME93Mk5MTDJPM1Y3UXRPU3VlaS1CUmZ0bGtTbFZlX1paR1BOanZZX0s2U1ZhODByVDBlTE91aHc?oc=5",
       "kind": "News and reporting",
       "record_id": "6d74e9d04195fbea",
       "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Study Reveals Causes of Devastating Flood in Rasuwa english.ratopati.com",
+      "retained_excerpt": "Study Reveals Causes of Devastating Flood in Rasuwa Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitwFBVV95cUxNYW9WaFBmRk1qdXlBMFoweHQzQVZ3V2xhY0JQbm1sSGx2SndabjJrdFJOMGZ6QzZtSVdFcUNRM3NQRGtUb3NqQWV0TFFqS0JUNXhmWUFTU0EtRzR4b01xdVh4MDZHZEthYjU2LTc0TjJzdnZRbUxlY3NFZUNob3lWME93Mk5MTDJPM1Y3UXRPU3VlaS1CUmZ0bGtTbFZlX1paR1BOanZZX0s2U1ZhODByVDBlTE91aHc?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -973,20 +1001,6 @@
     {
       "source": "The Rising Nepal",
       "date": "2026-09-01",
-      "title": "Nepal demands urgent climate funds after Bhotekoshi flood - The Rising Nepal",
-      "summary": "Nepal demands urgent climate funds after Bhotekoshi flood The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sTkktd1dCcmR1aUxTN1o3eTdYTDVXWGhjRERDTWxLZ3ZVOFdSUHRsanBqQnBIb0l2bDN5UC16U2dvM29RcnBoMWpBR1lydHB3?oc=5",
-      "kind": "News and reporting",
-      "record_id": "8a2301952fd337c9",
-      "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Nepal demands urgent climate funds after Bhotekoshi flood The Rising Nepal",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sTkktd1dCcmR1aUxTN1o3eTdYTDVXWGhjRERDTWxLZ3ZVOFdSUHRsanBqQnBIb0l2bDN5UC16U2dvM29RcnBoMWpBR1lydHB3?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Rising Nepal",
-      "date": "2026-09-01",
       "title": "Dhanauji Rural Municipality pledges Rs 2.2 million aid to Bhotekoshi flood survivors - The Rising Nepal",
       "summary": "Dhanauji Rural Municipality pledges Rs 2.2 million aid to Bhotekoshi flood survivors The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmblBmZXNVQjZ0Rl9CYVc1eTNic0REQ2NXM29DR0I0QlUyN3ZHSm0zdXNYaXhKdnRXV1VlaEI0eVVnNnE3SEJZcnJGWFhlSXU1?oc=5",
@@ -1139,15 +1153,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Gulf Today",
+      "source": "gulftoday.ae",
       "date": "2026-08-30",
-      "title": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises - Gulf Today",
-      "summary": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises Gulf Today",
+      "title": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises - gulftoday.ae",
+      "summary": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises gulftoday.ae",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORURQLUJIa2Z6WThDVThMS0VGalJlNk9idmY1WU1LU3pSYmUyejdSZ01ab1hFcE5udDc0dm95ekttVlBOMGRoeUFhZ1Fhcm5jLUVjcWJwNVdJRW5BVkplRjFLVzNpaHFDZkdJWEpmbWdNTXN5bDl2eV9FZDFDNlVacU84ZUFCcXdKYnZ5VVVHa1dXZzdMNTVyUU42ckk3aW9qWmVFTzdseGF4MFBvZ0xpWjJDbw?oc=5",
       "kind": "News and reporting",
       "record_id": "a503fa1c30051bb9",
       "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises Gulf Today",
+      "retained_excerpt": "Nepal issues fresh flood warning as Bhote Koshi river's water level rises gulftoday.ae",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiswFBVV95cUxORURQLUJIa2Z6WThDVThMS0VGalJlNk9idmY1WU1LU3pSYmUyejdSZ01ab1hFcE5udDc0dm95ekttVlBOMGRoeUFhZ1Fhcm5jLUVjcWJwNVdJRW5BVkplRjFLVzNpaHFDZkdJWEpmbWdNTXN5bDl2eV9FZDFDNlVacU84ZUFCcXdKYnZ5VVVHa1dXZzdMNTVyUU42ckk3aW9qWmVFTzdseGF4MFBvZ0xpWjJDbw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1391,15 +1405,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "english.ratopati.com",
+      "source": "Ratopati",
       "date": "2026-08-27",
-      "title": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River - english.ratopati.com",
-      "summary": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River english.ratopati.com",
+      "title": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River - Ratopati",
+      "summary": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River Ratopati",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkdDWTRtTE9IWF90OXJSZ1Y3RHp4TWhiOWk2Y2JCZmtWRzMwRU9Wa3JXSkF1OUUzcjhEWnN2ZWRpWjVWQmE1TVpuZEs3Y1FoblJNTjdwSjZDZHhBbXVyQWkxWXVpTUhUUndoaXJHbHJjWGZDendRdEM3LVg2bFhGTDVua3lBRFRSZ1B3M2lQQ0dYNUhLM0t5cDNFMVpmWnZBTm1LaWduLVR5eW00eFhKcVN3aWh0QzRqTXgxTklraDE1Q1o3cGp0N1Z3?oc=5",
       "kind": "News and reporting",
       "record_id": "b0e07106bc601c2c",
       "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River english.ratopati.com",
+      "retained_excerpt": "Two Earthquakes Near Rasuwagadhi Border Trigger Avalanche, Causing Flash Flood in Bhote Koshi River Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxPbkdDWTRtTE9IWF90OXJSZ1Y3RHp4TWhiOWk2Y2JCZmtWRzMwRU9Wa3JXSkF1OUUzcjhEWnN2ZWRpWjVWQmE1TVpuZEs3Y1FoblJNTjdwSjZDZHhBbXVyQWkxWXVpTUhUUndoaXJHbHJjWGZDendRdEM3LVg2bFhGTDVua3lBRFRSZ1B3M2lQQ0dYNUhLM0t5cDNFMVpmWnZBTm1LaWduLVR5eW00eFhKcVN3aWh0QzRqTXgxTklraDE1Q1o3cGp0N1Z3?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1429,20 +1443,6 @@
       "first_seen_at": "2026-09-02T14:22:45Z",
       "retained_excerpt": "Ice avalanche, debris lake may have triggered Bhotekoshi flood in Nepal: Report malaysiasun.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmlKUHFCY21XeDVYd2pzYjhYYWppb2pvaWtNNjRaZU9vbmdfc3gxMWtqOTF0ZUY4UUZhTmlJMXZGeDNUaUctREJlN0N5dGR2LTRuSlJBYzhXMndlWTg0WHRacWNHRG8zSzA1WGwxZTZQMk5lek9jWFRGMmpGb2VDUmJ3bnNQQ2o0QXVOeS1ENTc1dGdKYS1raG00cnI1UENEUmR6NW1CX3pXLVNuVmJBbTItQlpDZmluX0FGQg?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Kathmandu Post",
-      "date": "2026-08-26",
-      "title": "Scientists suspect ice avalanche triggered Bhotekoshi flood - The Kathmandu Post",
-      "summary": "Scientists suspect ice avalanche triggered Bhotekoshi flood The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXRqclNtY1ZodkZDTVNjRkxHTWJZNllvRWtiV0o1clFIVUtaYlNmbGJVSnBlWlpGV2FpOHZYQTRSSUVhNmhrLVRadlRFbDBEZVg5YkFiN1RSVjkxcXQ3WVRNZlRnWWFlTjF5ZGZJTW9PSm40dzZ1VjFmLVBuOWFzR016eDZrQlE1NUo3OUoyY3lYd2p1UGNIeEFBSXNhcUhHV3hhZDN3d0w?oc=5",
-      "kind": "News and reporting",
-      "record_id": "2aa7dbd2d902a8d2",
-      "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Scientists suspect ice avalanche triggered Bhotekoshi flood The Kathmandu Post",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXRqclNtY1ZodkZDTVNjRkxHTWJZNllvRWtiV0o1clFIVUtaYlNmbGJVSnBlWlpGV2FpOHZYQTRSSUVhNmhrLVRadlRFbDBEZVg5YkFiN1RSVjkxcXQ3WVRNZlRnWWFlTjF5ZGZJTW9PSm40dzZ1VjFmLVBuOWFzR016eDZrQlE1NUo3OUoyY3lYd2p1UGNIeEFBSXNhcUhHV3hhZDN3d0w?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1583,6 +1583,20 @@
       "first_seen_at": "2026-09-04T11:15:05Z",
       "retained_excerpt": "Scientists suspect ice avalanche triggered Bhotekoshi flood The Kathmandu Post",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMipANBVV95cUxNX2xHUE14QlRHVnRzVXZGdXFFSjB4M2gxdVNIUEY0Vy1pdnlSUjZDVUFOR01JRU5BV3VsdVgwTUZlVlNfWUk3OHJ0LTZYclJqQmduWHZHanZ6MmZHc3pGVU4zZ1lLNmpTUGV0SVZaaE9wR3pIZ2U3NDhUeGhnU2FHOTlFY256eUczaTNsWWNnSlVrSmRVd2JkVXVxVGw0aEtJcVR2SzJmRmRWdlFPYnpPVTBHRXBzWHd1YnF1NmxEbjZOdTVvMERac25XbkFWV2FNeGRUckl2SjhxdTRELUxOV1ZIcGFXVm1WQU5UbHdMYVlyM3BySEZfaHE3a0VGY0xmTGk2dTIzOVlycmhXOU1jQ2FlWmFfYmNHNnRvVEZjNV9ubC0tT1k3UndiRlJyZzdlVmNzMWM1eWc1M0tmQnpfQlk2cXpFWXY2WWF6M1FkMVJGS2tnTFdDSXBtbWFSS0R4QUExWVRoblJRRjBHS0pZa2s2VW1NUTl6cG5ZUmRnNmVMX3FETDJkY3gzaFRJNk1Ocnp2Um1SbFYwUFdqSEhpaGhlWEY?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "radionepalonline.com",
+      "date": "2026-09-04",
+      "title": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution - radionepalonline.com",
+      "summary": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution radionepalonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51d0RwbmpDNjdKaEp2b1pTbFF1ajNhMzMta3ZNSHJ5TnMzQk9wQnZjWUFLcTk0QmtOV1J4djBOOHItc19fcldXV1BDSHprWkZmNUtGM1UwY2ZOWGdPVnh3M3pQTmM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "86d22dfe0810a933",
+      "first_seen_at": "2026-09-04T20:44:14Z",
+      "retained_excerpt": "Heavy rain forecast in Bhotekoshi flood-affected area, authorities urge caution radionepalonline.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE51d0RwbmpDNjdKaEp2b1pTbFF1ajNhMzMta3ZNSHJ5TnMzQk9wQnZjWUFLcTk0QmtOV1J4djBOOHItc19fcldXV1BDSHprWkZmNUtGM1UwY2ZOWGdPVnh3M3pQTmM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1807,20 +1821,6 @@
       "first_seen_at": "2026-09-03T11:11:13Z",
       "retained_excerpt": "Bhote Koshi flood: Death toll rises to 1,252; search operations continue english.nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVp6bjU0UmMxbk9aM3Q3MU5uSFRMQXVPM3ZiVy1NdENpV29RTVYzaWtQb0dQcXE4U2pDZzJEeFRwOXJnU2Zlc2RWNUx4Y21vTldaYU52d3M5TXkxZUVNSEhRNnhMNjVIal9BNzhJdjNGYXpCYWl1LXp1TGpnT1dsT21FZ3BsclNMTGxnbTNVMjRKS01aWS1tdk51LXdpb1JRSGVlWTc0QlJKLXdybkE?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "english.nepalnews.com",
-      "date": "2026-09-03",
-      "title": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing - english.nepalnews.com",
-      "summary": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing english.nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3RuYkxxVzhmUzRfSWZpcWxLYnJUS0FkUXN1WjRvc1dxdFJJaVVVaFVQNU1CMFNwdGtFTUkyZ3Znenkxak1kN0VLWVRacGFfbE5JTEM1UG1WM2ExRE1hYUVNTnNKak9TVGJTWHBrUFdFR3JtTVJzRVhoVWgzc2ZfaWhGbmNidHd1emU1d2V5UFVpTUNCTjkyWWZMWWZ3UzVlazRoRWszWWNyVDVRdEE?oc=5",
-      "kind": "News and reporting",
-      "record_id": "a82013ca21037b39",
-      "first_seen_at": "2026-09-03T04:20:55Z",
-      "retained_excerpt": "Bhote Koshi flood: Death toll reaches 1,204 as over 4,200 remain missing english.nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3RuYkxxVzhmUzRfSWZpcWxLYnJUS0FkUXN1WjRvc1dxdFJJaVVVaFVQNU1CMFNwdGtFTUkyZ3Znenkxak1kN0VLWVRacGFfbE5JTEM1UG1WM2ExRE1hYUVNTnNKak9TVGJTWHBrUFdFR3JtTVJzRVhoVWgzc2ZfaWhGbmNidHd1emU1d2V5UFVpTUNCTjkyWWZMWWZ3UzVlazRoRWszWWNyVDVRdEE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2157,6 +2157,20 @@
       "first_seen_at": "2026-09-02T14:22:45Z",
       "retained_excerpt": "Nepal seeks urgent climate finance after Bhotekoshi flood Inquirer.net",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2pDdnQwSWNpS3FqMjNXWXpkd2JnRXZZWUpkc1ZKNDd4NHdaZFZYbTRkcklMaWgyNHNlSGluQkZKZEVfNnNTQ3V5OWZaS0plOWJsZVpEcFhnRXI4bElhNnJha0dTZlhYOHdCZS1HMHJ0dXRxVDBjZmVqSGVyOHdwNlVWMUt6OTRvQ3gwR0NaMENxYjV0bk50ZlhkNVhRRFXSAaQBQVVfeXFMT3dwYUF4MVZtdVBfMkpmVFNrZnpqNEN2N3VZWkVyRjNzMm5FTjRyaVppdW9RbjhvTE5VRlVpMk11b2lqUkt3X01CZTNSckpNWE5mdVZoaVVoWUVzc2ZLSk84X2lDSHY1Uzk3Z241SENyWmE1dzN4UWdTVW8tdXVsdHFVSHdnVlpKc3hBSm1aTDlIN0hBeVVtUWNTMjV2MUo4TGdnX2o?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Rising Nepal",
+      "date": "2026-09-01",
+      "title": "Nepal demands urgent climate funds after Bhotekoshi flood - The Rising Nepal",
+      "summary": "Nepal demands urgent climate funds after Bhotekoshi flood The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sTkktd1dCcmR1aUxTN1o3eTdYTDVXWGhjRERDTWxLZ3ZVOFdSUHRsanBqQnBIb0l2bDN5UC16U2dvM29RcnBoMWpBR1lydHB3?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8a2301952fd337c9",
+      "first_seen_at": "2026-09-02T14:22:45Z",
+      "retained_excerpt": "Nepal demands urgent climate funds after Bhotekoshi flood The Rising Nepal",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sTkktd1dCcmR1aUxTN1o3eTdYTDVXWGhjRERDTWxLZ3ZVOFdSUHRsanBqQnBIb0l2bDN5UC16U2dvM29RcnBoMWpBR1lydHB3?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -5391,6 +5405,20 @@
       "first_seen_at": "2026-09-02T14:22:45Z",
       "retained_excerpt": "All-party meeting taking place today to discuss Rasuwa flood response Khabarhub",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KWXd1T20tcGpaRUM1NjJWVFJMcUlqLVhDbzIwa0dMMjVEc3VoTXMxTTBfZkFQNmJPaVByRUdDdFoya3BUUFJxOTlPN3RCbkMzbnRWeEdWZFo?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Kathmandu Post",
+      "date": "2026-08-26",
+      "title": "Scientists suspect ice avalanche triggered Bhotekoshi flood - The Kathmandu Post",
+      "summary": "Scientists suspect ice avalanche triggered Bhotekoshi flood The Kathmandu Post",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXRqclNtY1ZodkZDTVNjRkxHTWJZNllvRWtiV0o1clFIVUtaYlNmbGJVSnBlWlpGV2FpOHZYQTRSSUVhNmhrLVRadlRFbDBEZVg5YkFiN1RSVjkxcXQ3WVRNZlRnWWFlTjF5ZGZJTW9PSm40dzZ1VjFmLVBuOWFzR016eDZrQlE1NUo3OUoyY3lYd2p1UGNIeEFBSXNhcUhHV3hhZDN3d0w?oc=5",
+      "kind": "News and reporting",
+      "record_id": "2aa7dbd2d902a8d2",
+      "first_seen_at": "2026-09-02T14:22:45Z",
+      "retained_excerpt": "Scientists suspect ice avalanche triggered Bhotekoshi flood The Kathmandu Post",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXRqclNtY1ZodkZDTVNjRkxHTWJZNllvRWtiV0o1clFIVUtaYlNmbGJVSnBlWlpGV2FpOHZYQTRSSUVhNmhrLVRadlRFbDBEZVg5YkFiN1RSVjkxcXQ3WVRNZlRnWWFlTjF5ZGZJTW9PSm40dzZ1VjFmLVBuOWFzR016eDZrQlE1NUo3OUoyY3lYd2p1UGNIeEFBSXNhcUhHV3hhZDN3d0w?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
