@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T17:19:49Z",
+  "generated_at": "2026-09-05T20:18:30Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 446,
+  "total_archived": 447,
   "items": [
     {
       "source": "ReliefWeb",
@@ -76,6 +76,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-05",
+      "title": "Chinese worker pulled alive from Trishuli 1 tunnel 10 days after Rasuwa flood disaster - myRepublica",
+      "summary": "Chinese worker pulled alive from Trishuli 1 tunnel 10 days after Rasuwa flood disaster myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmpmVkxSWEFtbmx6TDNENkx0amoweU02emd0UC1xaEQ3Ym1TRUw3RTc4a3pIaWdwNGxJMTVBOUktOHN2ZDJ0NWhFOXNxWHFmb180UmhTQmt1WmY3NlpvdjNBYXJvMjR0VzVNZ3ZlV1hyMm1KbEVFdXplV3NzOWV5Uzdta0NkWDhjeWdMUnkycHZrUkxqQ0xSa0lQSHRfbkllLWtRTUszUThVU0FFTVVCRDlvQ2c?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8c46e92e2eedb44d",
+      "first_seen_at": "2026-09-05T20:18:30Z",
+      "retained_excerpt": "Chinese worker pulled alive from Trishuli 1 tunnel 10 days after Rasuwa flood disaster myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmpmVkxSWEFtbmx6TDNENkx0amoweU02emd0UC1xaEQ3Ym1TRUw3RTc4a3pIaWdwNGxJMTVBOUktOHN2ZDJ0NWhFOXNxWHFmb180UmhTQmt1WmY3NlpvdjNBYXJvMjR0VzVNZ3ZlV1hyMm1KbEVFdXplV3NzOWV5Uzdta0NkWDhjeWdMUnkycHZrUkxqQ0xSa0lQSHRfbkllLWtRTUszUThVU0FFTVVCRDlvQ2c?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Daily Star",
       "date": "2026-09-05",
       "title": "Bhotekoshi flood: Another warning from the Himalayas. Are we listening? - The Daily Star",
@@ -118,20 +132,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "The Rising Nepal",
-      "date": "2026-09-05",
-      "title": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing - The Rising Nepal",
-      "summary": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTGNDV2J1amJ0UFB5N3RjOW02N1ZwdHd4SDdQMlJHOVF3dWJ3M2VyRmlyS1drUTdadXUtSkhoSmp1RHA4bUlTVmpWY0tSYWp0?oc=5",
-      "kind": "News and reporting",
-      "record_id": "d14614d3e2803615",
-      "first_seen_at": "2026-09-05T10:32:39Z",
-      "retained_excerpt": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing The Rising Nepal",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTGNDV2J1amJ0UFB5N3RjOW02N1ZwdHd4SDdQMlJHOVF3dWJ3M2VyRmlyS1drUTdadXUtSkhoSmp1RHA4bUlTVmpWY0tSYWp0?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "myRepublica",
       "date": "2026-09-05",
       "title": "Where does the money raised for Bhotekoshi flood victims go? - myRepublica",
@@ -146,15 +146,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "PAMIR TIMES",
+      "source": "pamirtimes.net",
       "date": "2026-09-05",
-      "title": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities - PAMIR TIMES",
-      "summary": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities PAMIR TIMES",
+      "title": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities - pamirtimes.net",
+      "summary": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities pamirtimes.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkUwb2RxaU1jaV9nUlp2Y1FZRngxZnljaG8wTERkaVJ3a2c3MDA4REYwOWpMMnJad2t0Ym92bmZKMThNRnBvOUo4Z0pJamFHMi1NeU12bkhCeENlNmZ5QTBfZFpPeUpLZFZGOWlpamZzMnZ4WkhtZkpDcy02U0ZNQmxfdjh4WTQtWU5wcThjWVYxSDZDQjFuRXpqYUJfLUE1?oc=5",
       "kind": "News and reporting",
       "record_id": "848a39f095c7463c",
       "first_seen_at": "2026-09-05T10:32:39Z",
-      "retained_excerpt": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities PAMIR TIMES",
+      "retained_excerpt": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities pamirtimes.net",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkUwb2RxaU1jaV9nUlp2Y1FZRngxZnljaG8wTERkaVJ3a2c3MDA4REYwOWpMMnJad2t0Ym92bmZKMThNRnBvOUo4Z0pJamFHMi1NeU12bkhCeENlNmZ5QTBfZFpPeUpLZFZGOWlpamZzMnZ4WkhtZkpDcy02U0ZNQmxfdjh4WTQtWU5wcThjWVYxSDZDQjFuRXpqYUJfLUE1?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -174,15 +174,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-05",
-      "title": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for - Khabarhub",
-      "summary": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for Khabarhub",
+      "title": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for - english.khabarhub.com",
+      "summary": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNzI3czQ1WGNxY2w4Mk1lTWhIcERlSFRscnZHaC1TSlpZX2F6N3V3MmxJaFoySTlYZ2ZzUzZ2WktJd1VENU9UOEZwaUFjdnhqUHh2N2p4ZTA?oc=5",
       "kind": "News and reporting",
       "record_id": "23c4458f9b4d0d9c",
       "first_seen_at": "2026-09-03T11:11:13Z",
-      "retained_excerpt": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for Khabarhub",
+      "retained_excerpt": "Bhotekoshi flood: 30 missing individuals from Madhes contacted, 162 still unaccounted for english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNzI3czQ1WGNxY2w4Mk1lTWhIcERlSFRscnZHaC1TSlpZX2F6N3V3MmxJaFoySTlYZ2ZzUzZ2WktJd1VENU9UOEZwaUFjdnhqUHh2N2p4ZTA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -258,15 +258,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-04",
-      "title": "Bhotekoshi flood: Death toll rises to 1,293 - Khabarhub",
-      "summary": "Bhotekoshi flood: Death toll rises to 1,293 Khabarhub",
+      "title": "Bhotekoshi flood: Death toll rises to 1,293 - english.khabarhub.com",
+      "summary": "Bhotekoshi flood: Death toll rises to 1,293 english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vWU1zUG5BMEFBVnhOZE9mWjVRMUM4Q1ZMVG9jMS1sOC0wd0owOWZ6NnFXVUJPNmpRcnE3RmZ4eVhJQXZtWTFnX1JYazA1ZUlHT3pIeXplbEE?oc=5",
       "kind": "News and reporting",
       "record_id": "3362db09970c68c5",
       "first_seen_at": "2026-09-04T20:44:14Z",
-      "retained_excerpt": "Bhotekoshi flood: Death toll rises to 1,293 Khabarhub",
+      "retained_excerpt": "Bhotekoshi flood: Death toll rises to 1,293 english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vWU1zUG5BMEFBVnhOZE9mWjVRMUM4Q1ZMVG9jMS1sOC0wd0owOWZ6NnFXVUJPNmpRcnE3RmZ4eVhJQXZtWTFnX1JYazA1ZUlHT3pIeXplbEE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -398,15 +398,29 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-03",
-      "title": "Rasuwa flood: Death toll reaches 1,114 - Khabarhub",
-      "summary": "Rasuwa flood: Death toll reaches 1,114 Khabarhub",
+      "title": "Rasuwa flood: Over 12,000 people rescued, 987 bodies recovered - english.khabarhub.com",
+      "summary": "Rasuwa flood: Over 12,000 people rescued, 987 bodies recovered english.khabarhub.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZTBpdUdtWmUzQ0lKODFWS1pOblNzdkd0MXdJMUFpUkg3cXVsdHBHS1Vyb2dRUnlTYnVQYUZoMVRJbnZ3SmYtcUxYbjRiek9lT2htaEg1ZW8?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8c711eec35b1b627",
+      "first_seen_at": "2026-09-02T14:22:45Z",
+      "retained_excerpt": "Rasuwa flood: Over 12,000 people rescued, 987 bodies recovered english.khabarhub.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZTBpdUdtWmUzQ0lKODFWS1pOblNzdkd0MXdJMUFpUkg3cXVsdHBHS1Vyb2dRUnlTYnVQYUZoMVRJbnZ3SmYtcUxYbjRiek9lT2htaEg1ZW8?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "english.khabarhub.com",
+      "date": "2026-09-03",
+      "title": "Rasuwa flood: Death toll reaches 1,114 - english.khabarhub.com",
+      "summary": "Rasuwa flood: Death toll reaches 1,114 english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OajdjMzZqUWVQWWtpbjZocWI1MVQ0dWY4ZXMzc2x6MG1TS0FuVlRsUjdxUWRJYUkyNWpHYlQ5dnB6d082V19fR3JfUmVoMTZZX1h5TnBBaWM?oc=5",
       "kind": "News and reporting",
       "record_id": "2265a7f4b5b5826e",
       "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Rasuwa flood: Death toll reaches 1,114 Khabarhub",
+      "retained_excerpt": "Rasuwa flood: Death toll reaches 1,114 english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OajdjMzZqUWVQWWtpbjZocWI1MVQ0dWY4ZXMzc2x6MG1TS0FuVlRsUjdxUWRJYUkyNWpHYlQ5dnB6d082V19fR3JfUmVoMTZZX1h5TnBBaWM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -454,15 +468,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-03",
-      "title": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood - Khabarhub",
-      "summary": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood Khabarhub",
+      "title": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood - english.khabarhub.com",
+      "summary": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVUxnelVGdmNTWWJLX0l5S2lGTUtSTGxGbjB0elN1RjVkOUhvczJmaW55SUVDbEJib3VVVVhBcUxFYjhMczJuX1NvM0stdEg2ZzNsaElyVmg?oc=5",
       "kind": "News and reporting",
       "record_id": "8c9b48281003861b",
       "first_seen_at": "2026-09-03T11:11:13Z",
-      "retained_excerpt": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood Khabarhub",
+      "retained_excerpt": "Foreign Minister Khanal briefs diplomatic community on Rasuwa flood english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVUxnelVGdmNTWWJLX0l5S2lGTUtSTGxGbjB0elN1RjVkOUhvczJmaW55SUVDbEJib3VVVVhBcUxFYjhMczJuX1NvM0stdEg2ZzNsaElyVmg?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -650,15 +664,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-03",
-      "title": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing - Khabarhub",
-      "summary": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing Khabarhub",
+      "title": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing - english.khabarhub.com",
+      "summary": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZekZFUFpmWWRCS1VUSl9hY2NLOGctRWdNZkVaeHZ2MnFtMnJZaU8tbVJ5MHU1OWZjQ3QybHBPbnY5UjFJdTc2R1lkUzllZFNQd2xHSFI3Rk0?oc=5",
       "kind": "News and reporting",
       "record_id": "0deaf6c292cdccc1",
       "first_seen_at": "2026-09-03T04:20:55Z",
-      "retained_excerpt": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing Khabarhub",
+      "retained_excerpt": "Bhotekoshi flood: 1,222 bodies recovered, 4,875 missing english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZekZFUFpmWWRCS1VUSl9hY2NLOGctRWdNZkVaeHZ2MnFtMnJZaU8tbVJ5MHU1OWZjQ3QybHBPbnY5UjFJdTc2R1lkUzllZFNQd2xHSFI3Rk0?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -692,15 +706,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
+      "source": "english.khabarhub.com",
       "date": "2026-09-02",
-      "title": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies - Khabarhub",
-      "summary": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies Khabarhub",
+      "title": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies - english.khabarhub.com",
+      "summary": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies english.khabarhub.com",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50TmFFak0tN0JMcHUtUFRyOVJFVEVSVTZWZWtralF2TlZROURJanF6RkR3THYtUnJOYlI0SVNVbV9TdFZuckF5SmhvUWxYQlEwakFoNEdLRlg?oc=5",
       "kind": "News and reporting",
       "record_id": "b99e3aa7fa386625",
       "first_seen_at": "2026-09-02T21:01:20Z",
-      "retained_excerpt": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies Khabarhub",
+      "retained_excerpt": "Families of Rasuwa flood victims begin performing last rites with symbolic kusha bodies english.khabarhub.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE50TmFFak0tN0JMcHUtUFRyOVJFVEVSVTZWZWtralF2TlZROURJanF6RkR3THYtUnJOYlI0SVNVbV9TdFZuckF5SmhvUWxYQlEwakFoNEdLRlg?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -716,20 +730,6 @@
       "first_seen_at": "2026-09-02T16:32:47Z",
       "retained_excerpt": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September The Times of India",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVW5ROHlXVElaLVdLXzE0OW9aSmhhMnAyd3lZMnlPcUt4dVdiUEQ3dTRvcjdYaHFIeHUzLURQX1JfM0M1TjE4M2xCOHJQMk0yMWZLNGtFNVhWa08zRWVkdkNnaDFYa29jMm1yelF3RWxaSERMNGxIRmNXdTZTdzA4VlAzanNjd2NFVmJBUVJyb3Y1UG91aGJ6N2M2YkJwcldyOWNRcmw1dGtNQ0h2N1hnNzNMa2lSaTVtZnN0dmVBRzNILTJWWm1hbHhkSlRtanNDME1IcHFZcWR2VXBGS2hUZlEtbG5XenhiZWZGMkE1T2ZKNkk3LXlMNlR1VGLSAYICQVVfeXFMTUdNb0trcmlWZlZrZXdmZWdUUkhzVDBCcGRId3hJaldZTnJWTzJ0YWIxTXNpNGVUQmkyUWtHVjdBTXM4MktFS08teE1mdlU1a2FheThjNl9tSENKS1BiYmZfUFI0cWx3dnFIWmdSb254Nnh5SEdocWRqdFlQUndIUDBTcFQ0MmN4X1gzelplTzBoaU9pbUtsSzZLSWJFSzltbS1BdjlKS1JRdXNjakhxN2tHNDFvMFk2Smk3VVhBLXEyWXRhWmtPUzFqTXdpX2h4QUp2blRILXhHTHY5NVRfSG5HcUtuMzd4RmVZWTI2cm1lc2pxX2xVaExnTmFVTWdsQ2dB?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-02",
-      "title": "111 pints of blood collected for Bhotekoshi flood victims - Khabarhub",
-      "summary": "111 pints of blood collected for Bhotekoshi flood victims Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTkhmbloyR0t1N2pJdWE3d0FfWG1TWHVJWG83cHU3RTFOQXI3WkpXMjJjdnViZzBkWTFOejFiZkhPd0xLODU2cXU2dkNxY2FpclVTU1VaV2c?oc=5",
-      "kind": "News and reporting",
-      "record_id": "c221b358a0d5d32f",
-      "first_seen_at": "2026-09-02T21:01:20Z",
-      "retained_excerpt": "111 pints of blood collected for Bhotekoshi flood victims Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTkhmbloyR0t1N2pJdWE3d0FfWG1TWHVJWG83cHU3RTFOQXI3WkpXMjJjdnViZzBkWTFOejFiZkhPd0xLODU2cXU2dkNxY2FpclVTU1VaV2c?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -790,20 +790,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ministry of Foreign Affairs Nepal",
-      "date": "2026-09-02",
-      "title": "Press Briefing Note by Foreign Secretary on Bhote Koshi Flood (Sunday, 2:00 PM, 30 August 2026) - Ministry of Foreign Affairs Nepal",
-      "summary": "Press Briefing Note by Foreign Secretary on Bhote Koshi Flood (Sunday, 2:00 PM, 30 August 2026) Ministry of Foreign Affairs Nepal",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHR3OUgyT2xrSmFndUhfa0oweW5BYlAtRkhVSmkxS2YzY3lORU5TbVFMa3RvV0owOWpmRXNaOWk3QXdZVExEWngyelRySE5iWDkwc3ZrOFhkMVNjRlFuM3J5V3kwZlFwelMzSUZ5MEk4MTI5V215bGJWN0RpRzZHZGt1SQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "22e7e8df80b9202f",
-      "first_seen_at": "2026-09-02T14:22:45Z",
-      "retained_excerpt": "Press Briefing Note by Foreign Secretary on Bhote Koshi Flood (Sunday, 2:00 PM, 30 August 2026) Ministry of Foreign Affairs Nepal",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHR3OUgyT2xrSmFndUhfa0oweW5BYlAtRkhVSmkxS2YzY3lORU5TbVFMa3RvV0owOWpmRXNaOWk3QXdZVExEWngyelRySE5iWDkwc3ZrOFhkMVNjRlFuM3J5V3kwZlFwelMzSUZ5MEk4MTI5V215bGJWN0RpRzZHZGt1SQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "NepalNews",
       "date": "2026-09-02",
       "title": "Rasuwa flood causes over Rs 50 billion in tourism losses: Minister Paudel - NepalNews",
@@ -842,6 +828,20 @@
       "first_seen_at": "2026-09-03T21:00:27Z",
       "retained_excerpt": "Death toll of devastating Bhotekoshi flood reaches 1,114 so far – Public Service Broadcasting, Radio Nepal radionepalonline.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnR1JZN2EtTmVjc1NIU1JqOG9aQkxZdldnWlhXZ2NMZXBGM2pyLXdjR0NycDZtYVg5Vk9PaTNGQy1WQTMxQWZrS2l3RkZ3MUNrbkt3ek9iRUJBVnFLMHA2a2M1YjY?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Himalayan Times",
+      "date": "2026-09-02",
+      "title": "Bhotekoshi flood death toll reaches 1,114 - The Himalayan Times",
+      "summary": "Bhotekoshi flood death toll reaches 1,114 The Himalayan Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0ZrelA1dndlYThZV2FraGFuWDB3cUxpS09KNUM2dUV6UzZKRlh3NDVzc0hoc3ZUUEhwRUJIdUpGbjNkZ21oWENXNEhZVGVFTkFmdzFFdmxJMDdqS3ZnTkw2bDFRcE12N19URHVnX3NTamJSb2k5QnE3R1Q0QXNOUWh30gFcQVVfeXFMT0N4ZnBBZFZ4NUo5Z0NBdkxiWjczNHVoUV9YYURhMzBVRlB3ekZBXzYwVHQwTTN2UjJVblpUcU4wTmxBemM1aXdjUFZ4bUF5Wk9aeVYxSndJcUVUZEc?oc=5",
+      "kind": "News and reporting",
+      "record_id": "2f0a735bc020fe35",
+      "first_seen_at": "2026-09-02T14:22:45Z",
+      "retained_excerpt": "Bhotekoshi flood death toll reaches 1,114 The Himalayan Times",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0ZrelA1dndlYThZV2FraGFuWDB3cUxpS09KNUM2dUV6UzZKRlh3NDVzc0hoc3ZUUEhwRUJIdUpGbjNkZ21oWENXNEhZVGVFTkFmdzFFdmxJMDdqS3ZnTkw2bDFRcE12N19URHVnX3NTamJSb2k5QnE3R1Q0QXNOUWh30gFcQVVfeXFMT0N4ZnBBZFZ4NUo5Z0NBdkxiWjczNHVoUV9YYURhMzBVRlB3ekZBXzYwVHQwTTN2UjJVblpUcU4wTmxBemM1aXdjUFZ4bUF5Wk9aeVYxSndJcUVUZEc?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
