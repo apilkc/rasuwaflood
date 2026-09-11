@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-11T20:56:34Z",
+  "generated_at": "2026-09-11T23:15:11Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 549,
   "items": [
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-11",
-      "title": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA - risingnepaldaily.com",
-      "summary": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA risingnepaldaily.com",
+      "title": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA - The Rising Nepal",
+      "summary": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wdjVhRU5DVV9OdmctRUt2NHBkUG5WZnFMNURZdnhqdVBIaV85SVZXdHF4cGRCc0V6QmVOVHdjeUNxYW1zdW0tUnRwa3RtU3Jw?oc=5",
       "kind": "News and reporting",
       "record_id": "4a168e8692066c34",
       "first_seen_at": "2026-09-11T11:17:35Z",
-      "retained_excerpt": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA risingnepaldaily.com",
+      "retained_excerpt": "USV Pharma donates Rs 15M to Bhotekoshi flood victims through NMA The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wdjVhRU5DVV9OdmctRUt2NHBkUG5WZnFMNURZdnhqdVBIaV85SVZXdHF4cGRCc0V6QmVOVHdjeUNxYW1zdW0tUnRwa3RtU3Jw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -29,20 +29,6 @@
       "first_seen_at": "2026-09-11T16:26:37Z",
       "retained_excerpt": "Bhotekoshi flood leaves Rs 95.42 billion cleanup and recovery bill The Himalayan Times",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfQjE3UFdpTWR3RUxNaVFSMDk5WUg5VEVTVFl2N0pxSXYyWmtBVXg0N3VndmNNUEtFUGkwTV9DTnd4TTRIVHVQSlpoM2RSZDdGV2ZBUExfUmpLQlFG?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-11",
-      "title": "Bhotekoshi flood debris removal to cost over Rs 94 billion - myRepublica",
-      "summary": "Bhotekoshi flood debris removal to cost over Rs 94 billion myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkI1WExEWHVWU1RicWxEWFRvU01kbm81ekZQVjhDSUg0QzkzMDRnV1JjM19RSDdNS2RuVlY4Y1N1akZfRldxb291cVBrOGluamtjNnpNbjBVVDlHUUpmLXNNSGtXaHhKQzVzeWwtR2RYajg4NmtNdnJERmhUMWpuMmstel9CamkzOXdSR01TcHF2bW9aeFc3amFBeW9JWG1sSEVxNDdaWHdndmJrTE9xUU44UQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "86baaa8f62a4528b",
-      "first_seen_at": "2026-09-11T11:17:35Z",
-      "retained_excerpt": "Bhotekoshi flood debris removal to cost over Rs 94 billion myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkI1WExEWHVWU1RicWxEWFRvU01kbm81ekZQVjhDSUg0QzkzMDRnV1JjM19RSDdNS2RuVlY4Y1N1akZfRldxb291cVBrOGluamtjNnpNbjBVVDlHUUpmLXNNSGtXaHhKQzVzeWwtR2RYajg4NmtNdnJERmhUMWpuMmstel9CamkzOXdSR01TcHF2bW9aeFc3amFBeW9JWG1sSEVxNDdaWHdndmJrTE9xUU44UQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -89,6 +75,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-11",
+      "title": "Bhotekoshi flood debris removal to cost over Rs 94 billion - myRepublica",
+      "summary": "Bhotekoshi flood debris removal to cost over Rs 94 billion myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkI1WExEWHVWU1RicWxEWFRvU01kbm81ekZQVjhDSUg0QzkzMDRnV1JjM19RSDdNS2RuVlY4Y1N1akZfRldxb291cVBrOGluamtjNnpNbjBVVDlHUUpmLXNNSGtXaHhKQzVzeWwtR2RYajg4NmtNdnJERmhUMWpuMmstel9CamkzOXdSR01TcHF2bW9aeFc3amFBeW9JWG1sSEVxNDdaWHdndmJrTE9xUU44UQ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "86baaa8f62a4528b",
+      "first_seen_at": "2026-09-11T11:17:35Z",
+      "retained_excerpt": "Bhotekoshi flood debris removal to cost over Rs 94 billion myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkI1WExEWHVWU1RicWxEWFRvU01kbm81ekZQVjhDSUg0QzkzMDRnV1JjM19RSDdNS2RuVlY4Y1N1akZfRldxb291cVBrOGluamtjNnpNbjBVVDlHUUpmLXNNSGtXaHhKQzVzeWwtR2RYajg4NmtNdnJERmhUMWpuMmstel9CamkzOXdSR01TcHF2bW9aeFc3amFBeW9JWG1sSEVxNDdaWHdndmJrTE9xUU44UQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Khabarhub",
       "date": "2026-09-11",
       "title": "Bhotekoshi flood: Family cremates four after hope of return fades - Khabarhub",
@@ -103,15 +103,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-10",
-      "title": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims - risingnepaldaily.com",
-      "summary": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims risingnepaldaily.com",
+      "title": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims - The Rising Nepal",
+      "summary": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZQUtfdy1nZk4ybWZhaUdMN2wyQ0NtNDBtVFcwbG9taTJfRzc3cnpxNklKaUt3bTY3Vk50UlR5NWpDZU5DRVpsY2lySXNGcWYy?oc=5",
       "kind": "News and reporting",
       "record_id": "70ed83c991b2efeb",
       "first_seen_at": "2026-09-10T20:50:24Z",
-      "retained_excerpt": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims risingnepaldaily.com",
+      "retained_excerpt": "11,111 lamps lit in Bouddhanath in memory of Bhotekoshi flood victims The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZQUtfdy1nZk4ybWZhaUdMN2wyQ0NtNDBtVFcwbG9taTJfRzc3cnpxNklKaUt3bTY3Vk50UlR5NWpDZU5DRVpsY2lySXNGcWYy?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -201,29 +201,29 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-09",
-      "title": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage - risingnepaldaily.com",
-      "summary": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage risingnepaldaily.com",
+      "title": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage - The Rising Nepal",
+      "summary": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hZ3dzYkIzQ2xHQkdyNWFManJNYUxPNzNNUEQ2MmtMTGVYb1ZkbVpBVTRYbm4yb1hFRjF5ZVh1MWt0WlFTN0pKV1ViQWJWR052?oc=5",
       "kind": "News and reporting",
       "record_id": "c47a04aef0c20457",
       "first_seen_at": "2026-09-09T16:36:42Z",
-      "retained_excerpt": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage risingnepaldaily.com",
+      "retained_excerpt": "Finance Minister instructs for realistic assessment of Bhotekoshi flood damage The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE5hZ3dzYkIzQ2xHQkdyNWFManJNYUxPNzNNUEQ2MmtMTGVYb1ZkbVpBVTRYbm4yb1hFRjF5ZVh1MWt0WlFTN0pKV1ViQWJWR052?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-09",
-      "title": "Bhotekoshi flood: 1,367 bodies recovered so far - risingnepaldaily.com",
-      "summary": "Bhotekoshi flood: 1,367 bodies recovered so far risingnepaldaily.com",
+      "title": "Bhotekoshi flood: 1,367 bodies recovered so far - The Rising Nepal",
+      "summary": "Bhotekoshi flood: 1,367 bodies recovered so far The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcjdLNGp2aTlTX2pfa2RoVHZqTlRoZ2dfN3FXUlppeWxPR2gzVlI3OGtIRTVQaV9mSEdzbDJVM0dJbHVhM0ZJWTJWWWZKdlND?oc=5",
       "kind": "News and reporting",
       "record_id": "61acaf3888b70b31",
       "first_seen_at": "2026-09-09T11:19:52Z",
-      "retained_excerpt": "Bhotekoshi flood: 1,367 bodies recovered so far risingnepaldaily.com",
+      "retained_excerpt": "Bhotekoshi flood: 1,367 bodies recovered so far The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcjdLNGp2aTlTX2pfa2RoVHZqTlRoZ2dfN3FXUlppeWxPR2gzVlI3OGtIRTVQaV9mSEdzbDJVM0dJbHVhM0ZJWTJWWWZKdlND?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -299,15 +299,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-09",
-      "title": "Sub-committee formed to study about Rasuwa flood impacts - risingnepaldaily.com",
-      "summary": "Sub-committee formed to study about Rasuwa flood impacts risingnepaldaily.com",
+      "title": "Sub-committee formed to study about Rasuwa flood impacts - The Rising Nepal",
+      "summary": "Sub-committee formed to study about Rasuwa flood impacts The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lQlBZcGdXUGdGMDc2TUdQbkFuWWxvWVZvX3RlUUVHWEthYlZiQm5nLWhCbTVybVdkc21JZjVFQ3diYmpMd0hVS0VXTWdEN09s?oc=5",
       "kind": "News and reporting",
       "record_id": "113175714853bb7e",
       "first_seen_at": "2026-09-09T11:19:52Z",
-      "retained_excerpt": "Sub-committee formed to study about Rasuwa flood impacts risingnepaldaily.com",
+      "retained_excerpt": "Sub-committee formed to study about Rasuwa flood impacts The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lQlBZcGdXUGdGMDc2TUdQbkFuWWxvWVZvX3RlUUVHWEthYlZiQm5nLWhCbTVybVdkc21JZjVFQ3diYmpMd0hVS0VXTWdEN09s?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -383,15 +383,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-09",
-      "title": "Bhotekoshi flood disrupts China trade route, festival supplies at risk - risingnepaldaily.com",
-      "summary": "Bhotekoshi flood disrupts China trade route, festival supplies at risk risingnepaldaily.com",
+      "title": "Bhotekoshi flood disrupts China trade route, festival supplies at risk - The Rising Nepal",
+      "summary": "Bhotekoshi flood disrupts China trade route, festival supplies at risk The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HWDMyY3NpWm9nbTlxUm5zTnVlcmxQYVlhRF9wZElfVDdYam54T3BGSW50cFdSZ2RWVjJNdGFJb0dIWW5mRDdWX1I0VzA3WERp?oc=5",
       "kind": "News and reporting",
       "record_id": "423e61ff0037981d",
       "first_seen_at": "2026-09-09T04:38:51Z",
-      "retained_excerpt": "Bhotekoshi flood disrupts China trade route, festival supplies at risk risingnepaldaily.com",
+      "retained_excerpt": "Bhotekoshi flood disrupts China trade route, festival supplies at risk The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HWDMyY3NpWm9nbTlxUm5zTnVlcmxQYVlhRF9wZElfVDdYam54T3BGSW50cFdSZ2RWVjJNdGFJb0dIWW5mRDdWX1I0VzA3WERp?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -411,15 +411,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "ekantipur.com",
+      "source": "Ekantipur",
       "date": "2026-09-08",
-      "title": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions - ekantipur.com",
-      "summary": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions ekantipur.com",
+      "title": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions - Ekantipur",
+      "summary": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions Ekantipur",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFNRbzlyLVdZS1hfQk1idWFiOGc1TV94VjBWMjB5RzZvWUhJM0g1V19CMzdmT29IbDhpSHl5cGVxazl5My14UTNxN3Nwd2l3dXV5SE1ZNExmVDJqNXlIclhyTFhaWFlPaDJYYVhFc0dNYXlvbUZzcGlDRnBVaGJEMTdCeFpWaXF6eF81N25LcHM1TE1aRnZuY3dHcjg1Y2dkSnY3czcwVWk2M0FLQUc3ak84U21lTVprN0VaSDJNUG9IWERaSTF2U2pqS3EzZ21iaWhkYkZDMVYtZ2tM?oc=5",
       "kind": "News and reporting",
       "record_id": "d33843b64ba6980a",
       "first_seen_at": "2026-09-09T11:19:52Z",
-      "retained_excerpt": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions ekantipur.com",
+      "retained_excerpt": "Bhotekoshi Flood: Why Is the Identification of the Bodies Being Delayed? Understand It Through Five Questions Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFNRbzlyLVdZS1hfQk1idWFiOGc1TV94VjBWMjB5RzZvWUhJM0g1V19CMzdmT29IbDhpSHl5cGVxazl5My14UTNxN3Nwd2l3dXV5SE1ZNExmVDJqNXlIclhyTFhaWFlPaDJYYVhFc0dNYXlvbUZzcGlDRnBVaGJEMTdCeFpWaXF6eF81N25LcHM1TE1aRnZuY3dHcjg1Y2dkSnY3czcwVWk2M0FLQUc3ak84U21lTVprN0VaSDJNUG9IWERaSTF2U2pqS3EzZ21iaWhkYkZDMVYtZ2tM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -775,20 +775,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "myRepublica",
-      "date": "2026-09-05",
-      "title": "Four Australian nationals of Indian origin missing in Bhotekoshi flood - myRepublica",
-      "summary": "Four Australian nationals of Indian origin missing in Bhotekoshi flood myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2N4OXFNR3RtWkhqYW5BYmZKbktPakJ5VjhoNzJ0RVJNZmYyYkdzYXdRcVEzRDBfczdPTW1RVHUtYlBSZ2FYaW1zRlYydXlrc0ltRjN5N2w3NVZWclFCcDFTc2F5LXdZZ2ZOdFM4WEx0bktsUUh6VF83TlJfUDVGLXh4MzJLVHl3MHBYdnJZdzY2Z1BxZmp2bHA5dUZCMlBtWG84RzZLd0hIS0dpbzBmNzV0UXpGWUV1d2ZLT0ZyV3h0WUU?oc=5",
-      "kind": "News and reporting",
-      "record_id": "62c63745290773df",
-      "first_seen_at": "2026-09-05T15:11:26Z",
-      "retained_excerpt": "Four Australian nationals of Indian origin missing in Bhotekoshi flood myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2N4OXFNR3RtWkhqYW5BYmZKbktPakJ5VjhoNzJ0RVJNZmYyYkdzYXdRcVEzRDBfczdPTW1RVHUtYlBSZ2FYaW1zRlYydXlrc0ltRjN5N2w3NVZWclFCcDFTc2F5LXdZZ2ZOdFM4WEx0bktsUUh6VF83TlJfUDVGLXh4MzJLVHl3MHBYdnJZdzY2Z1BxZmp2bHA5dUZCMlBtWG84RzZLd0hIS0dpbzBmNzV0UXpGWUV1d2ZLT0ZyV3h0WUU?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "ReliefWeb",
       "date": "2026-09-05",
       "title": "Nepal Rasuwa Flood Situation Report No. 6 - ReliefWeb",
@@ -831,15 +817,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-05",
-      "title": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing - risingnepaldaily.com",
-      "summary": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing risingnepaldaily.com",
+      "title": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing - The Rising Nepal",
+      "summary": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTGNDV2J1amJ0UFB5N3RjOW02N1ZwdHd4SDdQMlJHOVF3dWJ3M2VyRmlyS1drUTdadXUtSkhoSmp1RHA4bUlTVmpWY0tSYWp0?oc=5",
       "kind": "News and reporting",
       "record_id": "d14614d3e2803615",
       "first_seen_at": "2026-09-05T10:32:39Z",
-      "retained_excerpt": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing risingnepaldaily.com",
+      "retained_excerpt": "Bhotekoshi Flood Update: 1,344 bodies recovered, search and rescue efforts ongoing The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tTGNDV2J1amJ0UFB5N3RjOW02N1ZwdHd4SDdQMlJHOVF3dWJ3M2VyRmlyS1drUTdadXUtSkhoSmp1RHA4bUlTVmpWY0tSYWp0?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -859,6 +845,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-05",
+      "title": "Where does the money raised for Bhotekoshi flood victims go? - myRepublica",
+      "summary": "Where does the money raised for Bhotekoshi flood victims go? myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2txa3RLTTk3VzVubEZxcWotR3JJYmFtT2RfMDFqLWxtZFphb3Y5WDdobjhqMV9KWm1IbTdGb25ybGZQemxxLS1Nb1FWaEQ4aEhyWWZvWjFQOWtEY0RZNThBbVpZQXlSQTlVRjdTWEo2c0FndjFZSTY0WjJlalQ3d0EwSkVjaHFWc0V1eFJXQ09kMk5FOTZhcXdoZVR1LXh5NVdpemtJZnRvMHhNZXM5X1dDZF8?oc=5",
+      "kind": "News and reporting",
+      "record_id": "f7c2e6ce3f764d01",
+      "first_seen_at": "2026-09-05T15:11:26Z",
+      "retained_excerpt": "Where does the money raised for Bhotekoshi flood victims go? myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2txa3RLTTk3VzVubEZxcWotR3JJYmFtT2RfMDFqLWxtZFphb3Y5WDdobjhqMV9KWm1IbTdGb25ybGZQemxxLS1Nb1FWaEQ4aEhyWWZvWjFQOWtEY0RZNThBbVpZQXlSQTlVRjdTWEo2c0FndjFZSTY0WjJlalQ3d0EwSkVjaHFWc0V1eFJXQ09kMk5FOTZhcXdoZVR1LXh5NVdpemtJZnRvMHhNZXM5X1dDZF8?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "PAMIR TIMES",
       "date": "2026-09-05",
       "title": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities - PAMIR TIMES",
@@ -869,20 +869,6 @@
       "first_seen_at": "2026-09-05T10:32:39Z",
       "retained_excerpt": "Nepal’s Rasuwa Flood: A Warning for Pakistan’s Mountain Communities PAMIR TIMES",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkUwb2RxaU1jaV9nUlp2Y1FZRngxZnljaG8wTERkaVJ3a2c3MDA4REYwOWpMMnJad2t0Ym92bmZKMThNRnBvOUo4Z0pJamFHMi1NeU12bkhCeENlNmZ5QTBfZFpPeUpLZFZGOWlpamZzMnZ4WkhtZkpDcy02U0ZNQmxfdjh4WTQtWU5wcThjWVYxSDZDQjFuRXpqYUJfLUE1?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "risingnepaldaily.com",
-      "date": "2026-09-04",
-      "title": "Death toll from Bhotekoshi flood climbs to 1,290 - risingnepaldaily.com",
-      "summary": "Death toll from Bhotekoshi flood climbs to 1,290 risingnepaldaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQlpyazZhVGgwQ1NKNDlKMThwMEM0emlPS0gwcFNHeVRSZGhxNDcwek5rU0dYTk5mYWVOcHlSdWowWFhFMWxKalZvczl5dzlU?oc=5",
-      "kind": "News and reporting",
-      "record_id": "6c94171fc3f8e00c",
-      "first_seen_at": "2026-09-04T11:15:05Z",
-      "retained_excerpt": "Death toll from Bhotekoshi flood climbs to 1,290 risingnepaldaily.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQlpyazZhVGgwQ1NKNDlKMThwMEM0emlPS0gwcFNHeVRSZGhxNDcwek5rU0dYTk5mYWVOcHlSdWowWFhFMWxKalZvczl5dzlU?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -901,6 +887,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ekantipur",
+      "date": "2026-09-04",
+      "title": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood - Ekantipur",
+      "summary": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBKSmJWWTdiVlh2OENPNWRMTzVMZGJ1d2JsZk4yTkk0bl9NSlNtX2pfTUg4elV2SHRkM0s3d252bGJMbmU5c2ZzZzVKNnBGcVNwRVg5YU5RdHF3eXY0cDl3aWZaLUlpaFdiU3dNdWRfaG9jY240Wll1WUh0YXp0VW9mcmEzR3AwOVVqSlhVbjBNUG1EM0d2Q1lvVE5sSTZGLXdQc2pXM25LVm1LSkJYREhkdjhWSmVxUGY4?oc=5",
+      "kind": "News and reporting",
+      "record_id": "b80549513c064b0f",
+      "first_seen_at": "2026-09-08T04:32:23Z",
+      "retained_excerpt": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBKSmJWWTdiVlh2OENPNWRMTzVMZGJ1d2JsZk4yTkk0bl9NSlNtX2pfTUg4elV2SHRkM0s3d252bGJMbmU5c2ZzZzVKNnBGcVNwRVg5YU5RdHF3eXY0cDl3aWZaLUlpaFdiU3dNdWRfaG9jY240Wll1WUh0YXp0VW9mcmEzR3AwOVVqSlhVbjBNUG1EM0d2Q1lvVE5sSTZGLXdQc2pXM25LVm1LSkJYREhkdjhWSmVxUGY4?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "ReliefWeb",
       "date": "2026-09-04",
       "title": "WFP Nepal Situation Report on the Rasuwa Flood Response, 04 September 2026 - ReliefWeb",
@@ -915,15 +915,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-04",
-      "title": "'Bhotekoshi flood is reminder of grave climate risk' - risingnepaldaily.com",
-      "summary": "'Bhotekoshi flood is reminder of grave climate risk' risingnepaldaily.com",
+      "title": "'Bhotekoshi flood is reminder of grave climate risk' - The Rising Nepal",
+      "summary": "'Bhotekoshi flood is reminder of grave climate risk' The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uM0E2Q3dJOTV4eHhaTGxIaEowWmNMajRWbEo3OFZEbWpvMU9qRDB1SXh4dElTZ1BlRWR6NHduWWx6ajdPb0x6TDlWSk9paGUz?oc=5",
       "kind": "News and reporting",
       "record_id": "40652f6cba568b14",
       "first_seen_at": "2026-09-04T04:29:29Z",
-      "retained_excerpt": "'Bhotekoshi flood is reminder of grave climate risk' risingnepaldaily.com",
+      "retained_excerpt": "'Bhotekoshi flood is reminder of grave climate risk' The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uM0E2Q3dJOTV4eHhaTGxIaEowWmNMajRWbEo3OFZEbWpvMU9qRDB1SXh4dElTZ1BlRWR6NHduWWx6ajdPb0x6TDlWSk9paGUz?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -985,15 +985,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "ekantipur.com",
+      "source": "Ekantipur",
       "date": "2026-09-03",
-      "title": "How Much International Aid Arrived After the Bhotekoshi Flood? - ekantipur.com",
-      "summary": "How Much International Aid Arrived After the Bhotekoshi Flood? ekantipur.com",
+      "title": "How Much International Aid Arrived After the Bhotekoshi Flood? - Ekantipur",
+      "summary": "How Much International Aid Arrived After the Bhotekoshi Flood? Ekantipur",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9McU5DVFlya0dsSnZqS3NEcmtYbjlxREZ5dzJEczhETUI4N3E2TXNlM29fVHhJUVZ5Q2RTOHNVeEpqdFZQWlJLZDl1bm5FRUpkZy1raXhwZV9JREhXTm5Pb05GemNnOVVPZ1NJOFI4QVh6QmdtdGlqZVpMVVA1ZmhPSVIxcDRVYXJYVThJZGxKMHlCQy0xdnZrREQ4X0E3?oc=5",
       "kind": "News and reporting",
       "record_id": "06e9d4415d0f0371",
       "first_seen_at": "2026-09-07T19:08:33Z",
-      "retained_excerpt": "How Much International Aid Arrived After the Bhotekoshi Flood? ekantipur.com",
+      "retained_excerpt": "How Much International Aid Arrived After the Bhotekoshi Flood? Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9McU5DVFlya0dsSnZqS3NEcmtYbjlxREZ5dzJEczhETUI4N3E2TXNlM29fVHhJUVZ5Q2RTOHNVeEpqdFZQWlJLZDl1bm5FRUpkZy1raXhwZV9JREhXTm5Pb05GemNnOVVPZ1NJOFI4QVh6QmdtdGlqZVpMVVA1ZmhPSVIxcDRVYXJYVThJZGxKMHlCQy0xdnZrREQ4X0E3?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1041,15 +1041,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "risingnepaldaily.com",
+      "source": "The Rising Nepal",
       "date": "2026-09-02",
-      "title": "Bhotekoshi flood: 1,204 bodies retrieved - risingnepaldaily.com",
-      "summary": "Bhotekoshi flood: 1,204 bodies retrieved risingnepaldaily.com",
+      "title": "Bhotekoshi flood: 1,204 bodies retrieved - The Rising Nepal",
+      "summary": "Bhotekoshi flood: 1,204 bodies retrieved The Rising Nepal",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kMk8waHV2RVhydFJ5YnNOcU9TVW5mWmRPOXBBbTJ6eFBOVmFpSE4xcFhhNkN6clM3eFhlU0pCclZ3XzF0NUk1WFVhWlZCSENz?oc=5",
       "kind": "News and reporting",
       "record_id": "8a86c1d953fd4559",
       "first_seen_at": "2026-09-03T21:00:27Z",
-      "retained_excerpt": "Bhotekoshi flood: 1,204 bodies retrieved risingnepaldaily.com",
+      "retained_excerpt": "Bhotekoshi flood: 1,204 bodies retrieved The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kMk8waHV2RVhydFJ5YnNOcU9TVW5mWmRPOXBBbTJ6eFBOVmFpSE4xcFhhNkN6clM3eFhlU0pCclZ3XzF0NUk1WFVhWlZCSENz?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1111,43 +1111,43 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "date": "2026-09-02",
-      "title": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September - timesofindia.indiatimes.com",
-      "summary": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September timesofindia.indiatimes.com",
+      "title": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September - The Times of India",
+      "summary": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVW5ROHlXVElaLVdLXzE0OW9aSmhhMnAyd3lZMnlPcUt4dVdiUEQ3dTRvcjdYaHFIeHUzLURQX1JfM0M1TjE4M2xCOHJQMk0yMWZLNGtFNVhWa08zRWVkdkNnaDFYa29jMm1yelF3RWxaSERMNGxIRmNXdTZTdzA4VlAzanNjd2NFVmJBUVJyb3Y1UG91aGJ6N2M2YkJwcldyOWNRcmw1dGtNQ0h2N1hnNzNMa2lSaTVtZnN0dmVBRzNILTJWWm1hbHhkSlRtanNDME1IcHFZcWR2VXBGS2hUZlEtbG5XenhiZWZGMkE1T2ZKNkk3LXlMNlR1VGLSAYICQVVfeXFMTUdNb0trcmlWZlZrZXdmZWdUUkhzVDBCcGRId3hJaldZTnJWTzJ0YWIxTXNpNGVUQmkyUWtHVjdBTXM4MktFS08teE1mdlU1a2FheThjNl9tSENKS1BiYmZfUFI0cWx3dnFIWmdSb254Nnh5SEdocWRqdFlQUndIUDBTcFQ0MmN4X1gzelplTzBoaU9pbUtsSzZLSWJFSzltbS1BdjlKS1JRdXNjakhxN2tHNDFvMFk2Smk3VVhBLXEyWXRhWmtPUzFqTXdpX2h4QUp2blRILXhHTHY5NVRfSG5HcUtuMzd4RmVZWTI2cm1lc2pxX2xVaExnTmFVTWdsQ2dB?oc=5",
       "kind": "News and reporting",
       "record_id": "b9c42cfdd4afcb95",
       "first_seen_at": "2026-09-02T16:32:47Z",
-      "retained_excerpt": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September timesofindia.indiatimes.com",
+      "retained_excerpt": "‘Not Charity, But Justice’: Nepal To Raise Bhotekoshi Flood Compensation Demand At UNGA In September The Times of India",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVW5ROHlXVElaLVdLXzE0OW9aSmhhMnAyd3lZMnlPcUt4dVdiUEQ3dTRvcjdYaHFIeHUzLURQX1JfM0M1TjE4M2xCOHJQMk0yMWZLNGtFNVhWa08zRWVkdkNnaDFYa29jMm1yelF3RWxaSERMNGxIRmNXdTZTdzA4VlAzanNjd2NFVmJBUVJyb3Y1UG91aGJ6N2M2YkJwcldyOWNRcmw1dGtNQ0h2N1hnNzNMa2lSaTVtZnN0dmVBRzNILTJWWm1hbHhkSlRtanNDME1IcHFZcWR2VXBGS2hUZlEtbG5XenhiZWZGMkE1T2ZKNkk3LXlMNlR1VGLSAYICQVVfeXFMTUdNb0trcmlWZlZrZXdmZWdUUkhzVDBCcGRId3hJaldZTnJWTzJ0YWIxTXNpNGVUQmkyUWtHVjdBTXM4MktFS08teE1mdlU1a2FheThjNl9tSENKS1BiYmZfUFI0cWx3dnFIWmdSb254Nnh5SEdocWRqdFlQUndIUDBTcFQ0MmN4X1gzelplTzBoaU9pbUtsSzZLSWJFSzltbS1BdjlKS1JRdXNjakhxN2tHNDFvMFk2Smk3VVhBLXEyWXRhWmtPUzFqTXdpX2h4QUp2blRILXhHTHY5NVRfSG5HcUtuMzd4RmVZWTI2cm1lc2pxX2xVaExnTmFVTWdsQ2dB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "timesofindia.indiatimes.com",
+      "source": "The Times of India",
       "date": "2026-09-02",
-      "title": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action - timesofindia.indiatimes.com",
-      "summary": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action timesofindia.indiatimes.com",
+      "title": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action - The Times of India",
+      "summary": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action The Times of India",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX244QWNtQUE5N3lvaFJkaFZqWDg1VHM1dDYxTm15Z3VvM2NNdFZtcWxFQngzbE9lZUdvekZJZkZZZEhnWW5iV3Jkd1hoRlgxRDhJR1lEdHJwWXlSUGRqYUpmdGQ2WHo4b3VpSGZjdEJPZ3dfam95UU5aY0pEbkYyUjctanJ6VEFadWNuUF9yWXV4X1ZCM3dDTHllYjI5cHNHR0h2MV9Fc2lQTHBTTHVlbi1JYXlHdGd5aXBvN3pGSWhrdUdXemxlU3dzOERHeEJMVTB6RzN1ak9fX09hSmJETTRqRTNnYlQtaUZfekZnangzU1hjY3Q2bHJCdUdqZGlUSUZ4QtIBigJBVV95cUxQVlVZbllLd3lzcXBtRzJfdDVMS3kwQXpPbGRnVS1NRWtEcmx1cFUxc1YtUzFVOFBwTEd6WGE3bWpTaGg1LWpmcUVITWtZR1hTTTRhclhCdHBPM0tDWGl4cGd3V05WcVUzYktQU1dZMWtWeWxWY1hMNDNncjhmUDFiMVNBR2d3dExNUG1TMXNRekF3WDAxTXBFU1BZUzdlLUZiSkg3SDhNQU1RLTBRQlNwdFZaUXItQWk5bC10SkVSUUNDb25NTGR0elFTMFd3Q0EzTTUwOTZZbXVlSTFQZlFfWVcxNVBXZU5fQXctaDFlVWJwUW1BanBaU05wRGtQdWRMSU5vdmVqUldQQQ?oc=5",
       "kind": "News and reporting",
       "record_id": "d8be70fc1ac7da85",
       "first_seen_at": "2026-09-02T16:32:47Z",
-      "retained_excerpt": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action timesofindia.indiatimes.com",
+      "retained_excerpt": "Bhotekoshi flood 'serious signal' of rising climate risks, says Nepal PM Shah urging global action The Times of India",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMihAJBVV95cUxQX244QWNtQUE5N3lvaFJkaFZqWDg1VHM1dDYxTm15Z3VvM2NNdFZtcWxFQngzbE9lZUdvekZJZkZZZEhnWW5iV3Jkd1hoRlgxRDhJR1lEdHJwWXlSUGRqYUpmdGQ2WHo4b3VpSGZjdEJPZ3dfam95UU5aY0pEbkYyUjctanJ6VEFadWNuUF9yWXV4X1ZCM3dDTHllYjI5cHNHR0h2MV9Fc2lQTHBTTHVlbi1JYXlHdGd5aXBvN3pGSWhrdUdXemxlU3dzOERHeEJMVTB6RzN1ak9fX09hSmJETTRqRTNnYlQtaUZfekZnangzU1hjY3Q2bHJCdUdqZGlUSUZ4QtIBigJBVV95cUxQVlVZbllLd3lzcXBtRzJfdDVMS3kwQXpPbGRnVS1NRWtEcmx1cFUxc1YtUzFVOFBwTEd6WGE3bWpTaGg1LWpmcUVITWtZR1hTTTRhclhCdHBPM0tDWGl4cGd3V05WcVUzYktQU1dZMWtWeWxWY1hMNDNncjhmUDFiMVNBR2d3dExNUG1TMXNRekF3WDAxTXBFU1BZUzdlLUZiSkg3SDhNQU1RLTBRQlNwdFZaUXItQWk5bC10SkVSUUNDb25NTGR0elFTMFd3Q0EzTTUwOTZZbXVlSTFQZlFfWVcxNVBXZU5fQXctaDFlVWJwUW1BanBaU05wRGtQdWRMSU5vdmVqUldQQQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "ekantipur.com",
+      "source": "Ekantipur",
       "date": "2026-09-02",
-      "title": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel - ekantipur.com",
-      "summary": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel ekantipur.com",
+      "title": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel - Ekantipur",
+      "summary": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel Ekantipur",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeThSNEJvM0UyY3ByX2tWOFl1YXo0WFdPR1JlcUN4WUVVb2tRNmp6bXAwYWdObFdGdE9aSE1Qd1ZfTU5GYm92bVdZdlJJOXgyaXc2bFBXZ2haVDU4NE4wYWoyN1Q0X2JhV0tsLS0tOHVWamRVeXU5dWN0enYxTkdZQzB3eHVXOVpEbldlVk5CcWx0M3dwZlJ5ZmI2VXBHUXpGNlRWZHhucUhFa1I1aFdiNEc4YjU4Tzd5RmJMazI0eXNRUE1oZDRPcnoxMFU?oc=5",
       "kind": "News and reporting",
       "record_id": "30695ff7c38a1107",
       "first_seen_at": "2026-09-03T21:00:27Z",
-      "retained_excerpt": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel ekantipur.com",
+      "retained_excerpt": "Bhotekoshi Flood: 21 People from Samitipur Missing Inside the Upper Trishuli–1 Tunnel Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizAFBVV95cUxQeThSNEJvM0UyY3ByX2tWOFl1YXo0WFdPR1JlcUN4WUVVb2tRNmp6bXAwYWdObFdGdE9aSE1Qd1ZfTU5GYm92bVdZdlJJOXgyaXc2bFBXZ2haVDU4NE4wYWoyN1Q0X2JhV0tsLS0tOHVWamRVeXU5dWN0enYxTkdZQzB3eHVXOVpEbldlVk5CcWx0M3dwZlJ5ZmI2VXBHUXpGNlRWZHhucUhFa1I1aFdiNEc4YjU4Tzd5RmJMazI0eXNRUE1oZDRPcnoxMFU?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1223,15 +1223,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "watchers.news",
+      "source": "The Watchers - Watching the world evolve and transform",
       "date": "2026-08-30",
-      "title": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 - watchers.news",
-      "summary": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 watchers.news",
+      "title": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 - The Watchers - Watching the world evolve and transform",
+      "summary": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 The Watchers - Watching the world evolve and transform",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2dzV29DaENoQTYwSWJqazRSR0dpQ1BqQ0xlU2tHSmFMRmFKNG90cjM5bHJGRjF0WHZodTJpZmlvS2dmekR5Vzg3QnJzUUFmV2E2cTBQZThvZEhtc2FXcDREdWs4enBpZ0RKYW9odVRNYTZmcjZWcENScjVLVzNXcWY3WGIyZF9obU4waEdEVEthVDBVSFA5VnhWSkc0QlRYZV9uSUhEM3ZPNkhIVzhSYUNWT3RsZw?oc=5",
       "kind": "News and reporting",
       "record_id": "7fa4d874c1427604",
       "first_seen_at": "2026-09-05T04:24:20Z",
-      "retained_excerpt": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 watchers.news",
+      "retained_excerpt": "Bhote Koshi flood reconstruction may cost USD 4–5 billion, death toll rises to 675 The Watchers - Watching the world evolve and transform",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2dzV29DaENoQTYwSWJqazRSR0dpQ1BqQ0xlU2tHSmFMRmFKNG90cjM5bHJGRjF0WHZodTJpZmlvS2dmekR5Vzg3QnJzUUFmV2E2cTBQZThvZEhtc2FXcDREdWs4enBpZ0RKYW9odVRNYTZmcjZWcENScjVLVzNXcWY3WGIyZF9obU4waEdEVEthVDBVSFA5VnhWSkc0QlRYZV9uSUhEM3ZPNkhIVzhSYUNWT3RsZw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1979,6 +1979,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-05",
+      "title": "Four Australian nationals of Indian origin missing in Bhotekoshi flood - myRepublica",
+      "summary": "Four Australian nationals of Indian origin missing in Bhotekoshi flood myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2N4OXFNR3RtWkhqYW5BYmZKbktPakJ5VjhoNzJ0RVJNZmYyYkdzYXdRcVEzRDBfczdPTW1RVHUtYlBSZ2FYaW1zRlYydXlrc0ltRjN5N2w3NVZWclFCcDFTc2F5LXdZZ2ZOdFM4WEx0bktsUUh6VF83TlJfUDVGLXh4MzJLVHl3MHBYdnJZdzY2Z1BxZmp2bHA5dUZCMlBtWG84RzZLd0hIS0dpbzBmNzV0UXpGWUV1d2ZLT0ZyV3h0WUU?oc=5",
+      "kind": "News and reporting",
+      "record_id": "62c63745290773df",
+      "first_seen_at": "2026-09-05T15:11:26Z",
+      "retained_excerpt": "Four Australian nationals of Indian origin missing in Bhotekoshi flood myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2N4OXFNR3RtWkhqYW5BYmZKbktPakJ5VjhoNzJ0RVJNZmYyYkdzYXdRcVEzRDBfczdPTW1RVHUtYlBSZ2FYaW1zRlYydXlrc0ltRjN5N2w3NVZWclFCcDFTc2F5LXdZZ2ZOdFM4WEx0bktsUUh6VF83TlJfUDVGLXh4MzJLVHl3MHBYdnJZdzY2Z1BxZmp2bHA5dUZCMlBtWG84RzZLd0hIS0dpbzBmNzV0UXpGWUV1d2ZLT0ZyV3h0WUU?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Himalayan Times",
       "date": "2026-09-05",
       "title": "Bhotekoshi Flood: 1,290 dead, 8,197 rescued, 4,800 missing so far - The Himalayan Times",
@@ -2003,20 +2017,6 @@
       "first_seen_at": "2026-09-05T17:19:49Z",
       "retained_excerpt": "64-year-old woman rescued alive on 11th day after Bhotekoshi flood – Public Service Broadcasting, Radio Nepal radionepalonline.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pSEluMnhRZjNXVTFrZUt2T3ZEVHI3QnVURjl5aFlhdGlkcjZBRmRGVUNsS0hJUTMtQV9RRVp2aE5NQWI4UVVPSGgzQkZ4Wm8za2cyY3FadmlwcWRuRjFCUXdNUzE?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-05",
-      "title": "Where does the money raised for Bhotekoshi flood victims go? - myRepublica",
-      "summary": "Where does the money raised for Bhotekoshi flood victims go? myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2txa3RLTTk3VzVubEZxcWotR3JJYmFtT2RfMDFqLWxtZFphb3Y5WDdobjhqMV9KWm1IbTdGb25ybGZQemxxLS1Nb1FWaEQ4aEhyWWZvWjFQOWtEY0RZNThBbVpZQXlSQTlVRjdTWEo2c0FndjFZSTY0WjJlalQ3d0EwSkVjaHFWc0V1eFJXQ09kMk5FOTZhcXdoZVR1LXh5NVdpemtJZnRvMHhNZXM5X1dDZF8?oc=5",
-      "kind": "News and reporting",
-      "record_id": "f7c2e6ce3f764d01",
-      "first_seen_at": "2026-09-05T15:11:26Z",
-      "retained_excerpt": "Where does the money raised for Bhotekoshi flood victims go? myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2txa3RLTTk3VzVubEZxcWotR3JJYmFtT2RfMDFqLWxtZFphb3Y5WDdobjhqMV9KWm1IbTdGb25ybGZQemxxLS1Nb1FWaEQ4aEhyWWZvWjFQOWtEY0RZNThBbVpZQXlSQTlVRjdTWEo2c0FndjFZSTY0WjJlalQ3d0EwSkVjaHFWc0V1eFJXQ09kMk5FOTZhcXdoZVR1LXh5NVdpemtJZnRvMHhNZXM5X1dDZF8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2175,6 +2175,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "risingnepaldaily.com",
+      "date": "2026-09-04",
+      "title": "Death toll from Bhotekoshi flood climbs to 1,290 - risingnepaldaily.com",
+      "summary": "Death toll from Bhotekoshi flood climbs to 1,290 risingnepaldaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQlpyazZhVGgwQ1NKNDlKMThwMEM0emlPS0gwcFNHeVRSZGhxNDcwek5rU0dYTk5mYWVOcHlSdWowWFhFMWxKalZvczl5dzlU?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6c94171fc3f8e00c",
+      "first_seen_at": "2026-09-04T11:15:05Z",
+      "retained_excerpt": "Death toll from Bhotekoshi flood climbs to 1,290 risingnepaldaily.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQlpyazZhVGgwQ1NKNDlKMThwMEM0emlPS0gwcFNHeVRSZGhxNDcwek5rU0dYTk5mYWVOcHlSdWowWFhFMWxKalZvczl5dzlU?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Rising Nepal",
       "date": "2026-09-04",
       "title": "Minister Dr. Timilsina visits Bhotekoshi flood victims in hospital - The Rising Nepal",
@@ -2213,20 +2227,6 @@
       "first_seen_at": "2026-09-04T20:44:14Z",
       "retained_excerpt": "Govt continues search and rescue operations on tenth day of devastating Bhotekoshi flood The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PQkJGQ1V6YVV4UVRUb054TGNNZ0ExZmhnUWZhamdMUkxNSEE4Mjc2LUIySE1ZbXJqMVBWXzFCSXpYWVFQWnBMTHVuYXZ5ZTQz?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-09-04",
-      "title": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood - Ekantipur",
-      "summary": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBKSmJWWTdiVlh2OENPNWRMTzVMZGJ1d2JsZk4yTkk0bl9NSlNtX2pfTUg4elV2SHRkM0s3d252bGJMbmU5c2ZzZzVKNnBGcVNwRVg5YU5RdHF3eXY0cDl3aWZaLUlpaFdiU3dNdWRfaG9jY240Wll1WUh0YXp0VW9mcmEzR3AwOVVqSlhVbjBNUG1EM0d2Q1lvVE5sSTZGLXdQc2pXM25LVm1LSkJYREhkdjhWSmVxUGY4?oc=5",
-      "kind": "News and reporting",
-      "record_id": "b80549513c064b0f",
-      "first_seen_at": "2026-09-08T04:32:23Z",
-      "retained_excerpt": "Repair work begins on 20 suspension bridges damaged by the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnBKSmJWWTdiVlh2OENPNWRMTzVMZGJ1d2JsZk4yTkk0bl9NSlNtX2pfTUg4elV2SHRkM0s3d252bGJMbmU5c2ZzZzVKNnBGcVNwRVg5YU5RdHF3eXY0cDl3aWZaLUlpaFdiU3dNdWRfaG9jY240Wll1WUh0YXp0VW9mcmEzR3AwOVVqSlhVbjBNUG1EM0d2Q1lvVE5sSTZGLXdQc2pXM25LVm1LSkJYREhkdjhWSmVxUGY4?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
