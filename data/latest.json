@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-09-17T11:38:32Z",
+  "generated_at": "2026-09-17T16:58:05Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 610,
+  "total_archived": 614,
   "items": [
+    {
+      "source": "consultaelectoral.onpe.gob.pe",
+      "date": "2026-09-17",
+      "title": "WFP Nepal Situation Report on the Rasuwa Flood Response, 17 September 2026 - consultaelectoral.onpe.gob.pe",
+      "summary": "WFP Nepal Situation Report on the Rasuwa Flood Response, 17 September 2026 consultaelectoral.onpe.gob.pe",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGk1X3VtWVhlVnh5TzZiUnhpWWEwUEVua3VCNDhxczBlQ1RscERRTnd5c1p1ak5KWmJTOXh4TEJxcjhTa21wcTk3SFBFMlF0WjhHNUdRZTNqUEx5YzVid2dqT0NrZXh1MDhyNGZHVUFyQnpEeW9jWUxBWnRxMlBia292Z1BLVVZyVVQ5YjN5T1F6MzZwWHkyOXd6Q0ppSGlValJv?oc=5",
+      "kind": "News and reporting",
+      "record_id": "5d30da09bcb70fcb",
+      "first_seen_at": "2026-09-17T16:58:05Z",
+      "retained_excerpt": "WFP Nepal Situation Report on the Rasuwa Flood Response, 17 September 2026 consultaelectoral.onpe.gob.pe",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGk1X3VtWVhlVnh5TzZiUnhpWWEwUEVua3VCNDhxczBlQ1RscERRTnd5c1p1ak5KWmJTOXh4TEJxcjhTa21wcTk3SFBFMlF0WjhHNUdRZTNqUEx5YzVid2dqT0NrZXh1MDhyNGZHVUFyQnpEeW9jWUxBWnRxMlBia292Z1BLVVZyVVQ5YjN5T1F6MzZwWHkyOXd6Q0ppSGlValJv?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
     {
       "source": "Khabarhub",
       "date": "2026-09-17",
@@ -30,6 +44,20 @@
       "first_seen_at": "2026-09-17T11:38:32Z",
       "retained_excerpt": "Kathmandu University contributes Rs 8.5 million to Bhotekoshi flood relief Khabarhub",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Kbjg0aDZjVXNxNHA0REdGSXZKYVdKNmUxUTNDc0JuVldPblY5WEVSX29ubmU1ZkQ2aXVuLTVUa0p1ZENtTVhqQzUzX0g3U05qbHBudEVLWDU?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-17",
+      "title": "Bhotekoshi flood: 191 vehicles damaged, 344 people missing - Khabarhub",
+      "summary": "Bhotekoshi flood: 191 vehicles damaged, 344 people missing Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQWRhREpxS195UG5EczJTc09fR05Ra1prRHNSX1hnRkZrRVJZRXJYRnBaWlNyYjk4d2FDUGJxMWVzUVc0LURsd2NQY2NJUG54SXAxZzhnZ2U?oc=5",
+      "kind": "News and reporting",
+      "record_id": "035dc924f46d515d",
+      "first_seen_at": "2026-09-17T16:58:05Z",
+      "retained_excerpt": "Bhotekoshi flood: 191 vehicles damaged, 344 people missing Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQWRhREpxS195UG5EczJTc09fR05Ra1prRHNSX1hnRkZrRVJZRXJYRnBaWlNyYjk4d2FDUGJxMWVzUVc0LURsd2NQY2NJUG54SXAxZzhnZ2U?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -160,15 +188,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ministry Of Foreign Affairs",
+      "source": "Ministry of Foreign Affairs Nepal",
       "date": "2026-09-15",
-      "title": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood - Ministry Of Foreign Affairs",
-      "summary": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood Ministry Of Foreign Affairs",
+      "title": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood - Ministry of Foreign Affairs Nepal",
+      "summary": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood Ministry of Foreign Affairs Nepal",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEY29TQkhXazlibE5Ed1VYSUdWNVZpOG5TcFltLU5LNXo2UUtVMXFYdWJPb29KWC04VmJZaUxWZzZhSTd2aERRcUZOSDhvSHRaUmFnQzhjWFNkMkxwTEVDUWtXU0l3QQ?oc=5",
       "kind": "News and reporting",
       "record_id": "c0bc6670e36c05ca",
       "first_seen_at": "2026-09-15T16:57:06Z",
-      "retained_excerpt": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood Ministry Of Foreign Affairs",
+      "retained_excerpt": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood Ministry of Foreign Affairs Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEY29TQkhXazlibE5Ed1VYSUdWNVZpOG5TcFltLU5LNXo2UUtVMXFYdWJPb29KWC04VmJZaUxWZzZhSTd2aERRcUZOSDhvSHRaUmFnQzhjWFNkMkxwTEVDUWtXU0l3QQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -198,20 +226,6 @@
       "first_seen_at": "2026-09-15T11:41:34Z",
       "retained_excerpt": "The Hard Questions of Post-Bhote Koshi Flood Reconstruction myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxOZkpOZnVnMlBDZk9MSWtDZlIwTTg2MlZBci1GbTlUTjZwd2VxTzBobnNPS2pZQzc0bnY5ZEp3bHNPeXl2X3BMZE9yamNHTWQ5dDAxUS1vOHMzWm1nNFZvc21CNk5ZTUo4LUE2VnRydV81NVcxRmVNVWg1b2dVbTRsMjBXa3RpWVJTdTIzdzZUb0VnVlM0Ymh3QTBTcWoxMGEwY2RfS2dYOUZUNC1vU2F4T1BrUGU?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Kathmandu Post",
-      "date": "2026-09-15",
-      "title": "Private sector bears bulk of Bhotekoshi flood losses - The Kathmandu Post",
-      "summary": "Private sector bears bulk of Bhotekoshi flood losses The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnU5NkhndUJhTDV3LTJ1MDRlOFFKSGJUZlRidE5VbXlaU2g3eDFycnVlRTdkMFRvanpEQzA4Zm45M2JCMjFFSkVXNFo1TDVCQ0h1WHJFVXB1Vlk5SzFneEZvYThiWEoxOTVmNS1oaTVva1FyaGVETHh0cTA4UDEwdGhNODdReTJUMXRsYjhUckp6Q3BsN0hqMzJoMA?oc=5",
-      "kind": "News and reporting",
-      "record_id": "976a3738cc5bbc8c",
-      "first_seen_at": "2026-09-15T04:51:32Z",
-      "retained_excerpt": "Private sector bears bulk of Bhotekoshi flood losses The Kathmandu Post",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnU5NkhndUJhTDV3LTJ1MDRlOFFKSGJUZlRidE5VbXlaU2g3eDFycnVlRTdkMFRvanpEQzA4Zm45M2JCMjFFSkVXNFo1TDVCQ0h1WHJFVXB1Vlk5SzFneEZvYThiWEoxOTVmNS1oaTVva1FyaGVETHh0cTA4UDEwdGhNODdReTJUMXRsYjhUckp6Q3BsN0hqMzJoMA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -496,29 +510,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
-      "date": "2026-09-11",
-      "title": "Bhotekoshi flood: Family cremates four after hope of return fades - Khabarhub",
-      "summary": "Bhotekoshi flood: Family cremates four after hope of return fades Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZZDZtbHQyR0EwQm5MVjZPNmhhalJmeW5uVGdJRHVQeURZUURmN3h0ckIyTVViV0xzeGptZHhoX0lqUEQ1dDhHOHFJQUxqaU5uVGpBS2FUMnM?oc=5",
-      "kind": "News and reporting",
-      "record_id": "b053f134835909ae",
-      "first_seen_at": "2026-09-11T11:17:35Z",
-      "retained_excerpt": "Bhotekoshi flood: Family cremates four after hope of return fades Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZZDZtbHQyR0EwQm5MVjZPNmhhalJmeW5uVGdJRHVQeURZUURmN3h0ckIyTVViV0xzeGptZHhoX0lqUEQ1dDhHOHFJQUxqaU5uVGpBS2FUMnM?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "ReliefWeb",
+      "source": "consultaelectoral.onpe.gob.pe",
       "date": "2026-09-10",
-      "title": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 - ReliefWeb",
-      "summary": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 ReliefWeb",
+      "title": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 - consultaelectoral.onpe.gob.pe",
+      "summary": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 consultaelectoral.onpe.gob.pe",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmJlc0I5NmF4aXJlTFVodWlPalMzSktrMlJyVkFaWU5VTTVoTE9IazVScFNWbmlORWJhbTB3QXdqSXB3cHlqRGd2Wk9kdkdNVUdhNzdnUno0ZS05cmRZUGJYTGtXdTZkcV9lOGk0WVNzTjRVcUprRHFXbDd2ajF2bHM4bUdYMDZlRV9OVXJWTl9qNTZHdTRBMlJWb2czNWRsNlFr?oc=5",
       "kind": "News and reporting",
       "record_id": "6607210a4b69eff4",
       "first_seen_at": "2026-09-11T04:36:53Z",
-      "retained_excerpt": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 ReliefWeb",
+      "retained_excerpt": "WFP Nepal Situation Report on the Rasuwa Flood Response, 10 September 2026 consultaelectoral.onpe.gob.pe",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxNSmJlc0I5NmF4aXJlTFVodWlPalMzSktrMlJyVkFaWU5VTTVoTE9IazVScFNWbmlORWJhbTB3QXdqSXB3cHlqRGd2Wk9kdkdNVUdhNzdnUno0ZS05cmRZUGJYTGtXdTZkcV9lOGk0WVNzTjRVcUprRHFXbDd2ajF2bHM4bUdYMDZlRV9OVXJWTl9qNTZHdTRBMlJWb2czNWRsNlFr?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -594,15 +594,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "theannapurnaexpress.com",
+      "source": "The Annapurna Express",
       "date": "2026-09-09",
-      "title": "Sub-committee formed to study about Rasuwa flood impacts - theannapurnaexpress.com",
-      "summary": "Sub-committee formed to study about Rasuwa flood impacts theannapurnaexpress.com",
+      "title": "Sub-committee formed to study about Rasuwa flood impacts - The Annapurna Express",
+      "summary": "Sub-committee formed to study about Rasuwa flood impacts The Annapurna Express",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4dEZyMjZ2Vk4yajRCTGdZSl9Md3djR3hWQTlBR3hHVnNlVkpqYVhBUjE3LXJMUTJGa1FIOGRsUkN1WkFUMllJMGlfWXZMYmN6MWp1eDVLWQ?oc=5",
       "kind": "News and reporting",
       "record_id": "36a51c1501835742",
       "first_seen_at": "2026-09-17T04:50:01Z",
-      "retained_excerpt": "Sub-committee formed to study about Rasuwa flood impacts theannapurnaexpress.com",
+      "retained_excerpt": "Sub-committee formed to study about Rasuwa flood impacts The Annapurna Express",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4dEZyMjZ2Vk4yajRCTGdZSl9Md3djR3hWQTlBR3hHVnNlVkpqYVhBUjE3LXJMUTJGa1FIOGRsUkN1WkFUMllJMGlfWXZMYmN6MWp1eDVLWQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -694,20 +694,6 @@
     {
       "source": "Nepalnews.com",
       "date": "2026-09-08",
-      "title": "NAIMA provides Rs 5 million to Bhote Koshi flood victims - Nepalnews.com",
-      "summary": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
-      "kind": "News and reporting",
-      "record_id": "ae9fa86dafccec71",
-      "first_seen_at": "2026-09-08T11:15:42Z",
-      "retained_excerpt": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Nepalnews.com",
-      "date": "2026-09-08",
       "title": "Bhote Koshi flood: Death toll rises to 1,358 as 5,326 remain missing as of 6PM - Nepalnews.com",
       "summary": "Bhote Koshi flood: Death toll rises to 1,358 as 5,326 remain missing as of 6PM Nepalnews.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU8xY0J2NkhqMlVfZkFNSlBOaV9ORGMwXzhsbnNzZ3UxLWhoZ0VBbFI3bEQ1S0FiOEc3Z2JSVWdQUVpEUkx5ZDR2RGVjNDFNTXFINGV3XzNreFNoZS1wODdSOVozVjA5cHVhT25LM1dGQTVxbTZQLS1CdEZzYzcwN3Yyb00wQllyaDFDZU1GUDc3VzR3SmJjVkRLZXpDdFhkTDJSMGhBV1daMW55YktyU2p3ZHpCUQ?oc=5",
@@ -778,20 +764,6 @@
     {
       "source": "myRepublica",
       "date": "2026-09-07",
-      "title": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas - myRepublica",
-      "summary": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFRRNFlfdnlld3ZUN25vZURSNlp1Sl9ua2RuMFh6NVctWDhhM3BBeGwtVWwtUzM2dFBoV1Nnb2ZQLVF1aF9UdktKdndLZTY0NlVWT21DMzhkTmYtYTlLVlN2SFJzcnRHSlVLTjVkR1JnZndMbndTQ1QxbHR2WDF2VnBYWEt1dmlOSVhBaEw2SnRaR2EyM1VrZXFJTHJBYVdKR0ZOcFBzVmt2SnVVRk5WeFhFZUQ0dGNSUXo0RTVtT2pIWlU2Mmc?oc=5",
-      "kind": "News and reporting",
-      "record_id": "66743f8886e880aa",
-      "first_seen_at": "2026-09-13T11:48:33Z",
-      "retained_excerpt": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFRRNFlfdnlld3ZUN25vZURSNlp1Sl9ua2RuMFh6NVctWDhhM3BBeGwtVWwtUzM2dFBoV1Nnb2ZQLVF1aF9UdktKdndLZTY0NlVWT21DMzhkTmYtYTlLVlN2SFJzcnRHSlVLTjVkR1JnZndMbndTQ1QxbHR2WDF2VnBYWEt1dmlOSVhBaEw2SnRaR2EyM1VrZXFJTHJBYVdKR0ZOcFBzVmt2SnVVRk5WeFhFZUQ0dGNSUXo0RTVtT2pIWlU2Mmc?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-07",
       "title": "Bhotekoshi flood leaves Rs 900 billion reconstruction bill - myRepublica",
       "summary": "Bhotekoshi flood leaves Rs 900 billion reconstruction bill myRepublica",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd1RTcGd6MUE3LTFCZ25Za2NSUUhMVVBqVm9ubU15aDJlcVBwTTJFaEdFYktDTC1KZ3hDMFp6TldEVFo4UnY3NFc2MUp0ZXhHd1BnVjBtSlc3YU14eW1UM2hjbTFoU3hHUkYwU2VwN3lNLURnOEhPWkpEZFpjTHdtVU5qUVdiOG5nc0N5SVVRVkg4RDFGNVY3YzBXVWdua3hMNmhwM1gxSjZFYUtRc0JwZHo4OA?oc=5",
@@ -814,6 +786,20 @@
       "first_seen_at": "2026-09-07T12:28:25Z",
       "retained_excerpt": "1,355 bodies recovered, 4,996 still unaccounted for in Bhotekoshi flood myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdUZFMV9KQ0R1azJlb0x1RXFCLVpOc3NOUHR6bVdzZzZoVzZmUlFRa3h2MGJicmxONEFKY1o0Y0xaQ2p4QXVEUkJjVFlYVkZ5dG1WS3RyNXZVZ3Q4Rjhjb19EMWhtbU12QmZYQjhudng4SHctRVZJcnFULWFKLVpBZjVob0taMDlZTnJ0RTRhU3VuWFJrT05Qb042VzB3emZJckd5OTRFa2JFYjE3Y1c5SEZnQV9oQ2JOdVFwX215d2U?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "myRepublica",
+      "date": "2026-09-07",
+      "title": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas - myRepublica",
+      "summary": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFRRNFlfdnlld3ZUN25vZURSNlp1Sl9ua2RuMFh6NVctWDhhM3BBeGwtVWwtUzM2dFBoV1Nnb2ZQLVF1aF9UdktKdndLZTY0NlVWT21DMzhkTmYtYTlLVlN2SFJzcnRHSlVLTjVkR1JnZndMbndTQ1QxbHR2WDF2VnBYWEt1dmlOSVhBaEw2SnRaR2EyM1VrZXFJTHJBYVdKR0ZOcFBzVmt2SnVVRk5WeFhFZUQ0dGNSUXo0RTVtT2pIWlU2Mmc?oc=5",
+      "kind": "News and reporting",
+      "record_id": "66743f8886e880aa",
+      "first_seen_at": "2026-09-13T11:48:33Z",
+      "retained_excerpt": "Up to 20 helicopters a day become lifeline in Bhotekoshi flood-hit areas myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFRRNFlfdnlld3ZUN25vZURSNlp1Sl9ua2RuMFh6NVctWDhhM3BBeGwtVWwtUzM2dFBoV1Nnb2ZQLVF1aF9UdktKdndLZTY0NlVWT21DMzhkTmYtYTlLVlN2SFJzcnRHSlVLTjVkR1JnZndMbndTQ1QxbHR2WDF2VnBYWEt1dmlOSVhBaEw2SnRaR2EyM1VrZXFJTHJBYVdKR0ZOcFBzVmt2SnVVRk5WeFhFZUQ0dGNSUXo0RTVtT2pIWlU2Mmc?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -842,6 +828,20 @@
       "first_seen_at": "2026-09-07T19:08:33Z",
       "retained_excerpt": "As of 6PM, Bhote Koshi flood death toll reaches 1,356, nearly 5,000 remain out of contact Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXJWOWI5Q09IeXBuUHk2ZVotbERjWVJzNmVDX2xXRE9lejNrZWd4M1V5MWpYb1pmTUhHVTBhUkZEcmZGVjJHb3BabmZxWUpaQWdiV1lfN3ZxZzJUWUpVczZHeG53SFBaVFE2S1hZb3VKUzdsU0lKeElfVjhfUF9tOWRuVllxN0xxXzgtOWVZeDN2S2N4TGNOenE2dFpBQUZQdmhsQnpMdHRyTXI4bXQ4d1Q4dFJMbVNMZG5rVXB6LVNuZXM?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-07",
+      "title": "Rasuwa flood death toll reaches 1,355 - Khabarhub",
+      "summary": "Rasuwa flood death toll reaches 1,355 Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNDFPbWlROTdsS2tMMDdKTG9hNGVsTjJpSmdWZXhUV1dKaUpweVp5NzkzYVNKcGZ3ekZmdV9aRHpfRWRja2tOS3JFaVg3NW5UX0k5Z1JtS2o?oc=5",
+      "kind": "News and reporting",
+      "record_id": "4a5b39507a06f462",
+      "first_seen_at": "2026-09-07T12:28:25Z",
+      "retained_excerpt": "Rasuwa flood death toll reaches 1,355 Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LNDFPbWlROTdsS2tMMDdKTG9hNGVsTjJpSmdWZXhUV1dKaUpweVp5NzkzYVNKcGZ3ekZmdV9aRHpfRWRja2tOS3JFaVg3NW5UX0k5Z1JtS2o?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
