@@ -1,10 +1,24 @@
 {
-  "generated_at": "2026-10-02T09:42:52Z",
+  "generated_at": "2026-10-02T17:51:36Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 764,
+  "total_archived": 765,
   "items": [
+    {
+      "source": "The Himalayan Times",
+      "date": "2026-10-02",
+      "title": "Tenzing Norgay and Um Hong Gil foundations support Bhotekoshi flood victims - The Himalayan Times",
+      "summary": "Tenzing Norgay and Um Hong Gil foundations support Bhotekoshi flood victims The Himalayan Times",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qR1Z4WEdRLUU1Vlg2QTVITDJKWEowbjRSV2sxYzYxM241Sy1FZXh6dzNrbVRCWjBqNEZNd2VPWVowNWFTQUVxQVlkaktIUldKQnRTWG5GMEtiUXdn?oc=5",
+      "kind": "News and reporting",
+      "record_id": "d424f9e7bb14efa4",
+      "first_seen_at": "2026-10-02T17:51:36Z",
+      "retained_excerpt": "Tenzing Norgay and Um Hong Gil foundations support Bhotekoshi flood victims The Himalayan Times",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qR1Z4WEdRLUU1Vlg2QTVITDJKWEowbjRSV2sxYzYxM241Sy1FZXh6dzNrbVRCWjBqNEZNd2VPWVowNWFTQUVxQVlkaktIUldKQnRTWG5GMEtiUXdn?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
     {
       "source": "Ekantipur",
       "date": "2026-10-01",
@@ -146,6 +160,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Khabarhub",
+      "date": "2026-09-27",
+      "title": "Nepali diaspora donates $226,000 to Bhotekoshi flood victims - Khabarhub",
+      "summary": "Nepali diaspora donates $226,000 to Bhotekoshi flood victims Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93Ry0tSU9VcjFxQ0ZsWktraThGWkdLcFM4RW1udkxnQTFmNmF2Q1I1Y09DNWNzUm9DVnlWRW9vQWg4ZzkzZ3FLVkRETWlHUmlyaGRnOHNMQjk?oc=5",
+      "kind": "News and reporting",
+      "record_id": "0b216c4d71927f79",
+      "first_seen_at": "2026-09-27T16:56:20Z",
+      "retained_excerpt": "Nepali diaspora donates $226,000 to Bhotekoshi flood victims Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE93Ry0tSU9VcjFxQ0ZsWktraThGWkdLcFM4RW1udkxnQTFmNmF2Q1I1Y09DNWNzUm9DVnlWRW9vQWg4ZzkzZ3FLVkRETWlHUmlyaGRnOHNMQjk?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "myRepublica",
       "date": "2026-09-27",
       "title": "UAE pledges additional $25 million for Bhotekoshi flood victims - myRepublica",
@@ -156,20 +184,6 @@
       "first_seen_at": "2026-09-28T05:20:23Z",
       "retained_excerpt": "UAE pledges additional $25 million for Bhotekoshi flood victims myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVHRJTFBpTmhMLUVfM2F1SUxIQTFyVFNKY0UxN0VGVE9xTGZCSEUyX2w1VTFIR3dXNHFDbGxNZlE4ZXNzeThzMTFid21TbkpITDRoTWE5V2swZGxYOFRqaF9OeFFUV2dfTFE3Zy1kSlVCR1RzanNubkVVNW94dk1ra0dnTUVrNkhKU2Z3VFVMbHdjZ09wYjZHS2Vjbjg1RTJxQjhsaGp0RDkxUWxUM3BTeC1QdGhBWWhf?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-26",
-      "title": "Nepal Red Cross steps up relief efforts for Bhotekoshi flood victims - myRepublica",
-      "summary": "Nepal Red Cross steps up relief efforts for Bhotekoshi flood victims myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlZOcnVDek84ck9IYTF1aWNpeVQ4VS1kMGxjbUJuT0RvN0lrUl9lckdYaW40T2Y1NDBXR21YLXpVREl5cmdaX3loMGo3dm95UU1GdXYyNEYwZlQzdWozX1JjUTVwRGNkRmI5X2psMUJNN1FpWDJhTHdERkdFNzU0TzRxSGZNby1uWE9ydUZHZ0RiTjljRTV6UW1yUEdTekhhSlBNUXJ6SFVEOGUyUkotUzZB?oc=5",
-      "kind": "News and reporting",
-      "record_id": "f05e738f35008de0",
-      "first_seen_at": "2026-09-28T05:20:23Z",
-      "retained_excerpt": "Nepal Red Cross steps up relief efforts for Bhotekoshi flood victims myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlZOcnVDek84ck9IYTF1aWNpeVQ4VS1kMGxjbUJuT0RvN0lrUl9lckdYaW40T2Y1NDBXR21YLXpVREl5cmdaX3loMGo3dm95UU1GdXYyNEYwZlQzdWozX1JjUTVwRGNkRmI5X2psMUJNN1FpWDJhTHdERkdFNzU0TzRxSGZNby1uWE9ydUZHZ0RiTjljRTV6UW1yUEdTekhhSlBNUXJ6SFVEOGUyUkotUzZB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -244,20 +258,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "The Loss and Damage Collaboration",
-      "date": "2026-09-25",
-      "title": "Invisible Erosion: What the Bhotekoshi flood took that we cannot count - The Loss and Damage Collaboration",
-      "summary": "Invisible Erosion: What the Bhotekoshi flood took that we cannot count The Loss and Damage Collaboration",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVERJSUhZVTVhYklCWG9nbk5leWhsbFFXYThHZmdzaXJsTm1EdDJvdmduUEpzd1J0SWM2YjRESjBvdHZHQ3ZyN00zVEdWd3Z1azdkV2VTT25jdW1tcHFJaHpQSFdBbmRWc1pPOHR3LWdDSlBlM3N3ZG5ULVp0enFYVGNZeGp5NkVfZms3X1FfQVM5NUh1UlFFTndtT0NrNjRRLTRXSmxqaEpNU1IwV09TeWJDdEhNMkxFQ25COUFrQQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "dd5f23720e096ffa",
-      "first_seen_at": "2026-09-25T11:48:07Z",
-      "retained_excerpt": "Invisible Erosion: What the Bhotekoshi flood took that we cannot count The Loss and Damage Collaboration",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivwFBVV95cUxNVERJSUhZVTVhYklCWG9nbk5leWhsbFFXYThHZmdzaXJsTm1EdDJvdmduUEpzd1J0SWM2YjRESjBvdHZHQ3ZyN00zVEdWd3Z1azdkV2VTT25jdW1tcHFJaHpQSFdBbmRWc1pPOHR3LWdDSlBlM3N3ZG5ULVp0enFYVGNZeGp5NkVfZms3X1FfQVM5NUh1UlFFTndtT0NrNjRRLTRXSmxqaEpNU1IwV09TeWJDdEhNMkxFQ25COUFrQQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Khabarhub",
       "date": "2026-09-25",
       "title": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ - Khabarhub",
@@ -296,20 +296,6 @@
       "first_seen_at": "2026-09-23T21:28:28Z",
       "retained_excerpt": "After Nepal’s Bhotekoshi flood, who pays for the damage? OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiekFVX3lxTE8tTE9jY1FvOTJTZGo4TWkydmtiNi1WdlJBcnNZV3MwSzBWN3ZyNHZjRndEeFVBVHR3WWYtUGlrNzhXQXpwTU9CczNEcWdybE9MeDNKYXpEM3ItTTY1VFJWM2hxWmtENWxSSVlSdW1kOTlxYVpRUDhnZFln?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-23",
-      "title": "Bhotekoshi flood: US to provide additional $31 million in aid - myRepublica",
-      "summary": "Bhotekoshi flood: US to provide additional $31 million in aid myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2VaQkhHeTlrMUphQzlWOURxc0N6akdNbkN6QkFFQmlpbWxCS1dmNWJReWY5bkw3R2dQVTNJNG1qRlV4eTF4TFAydl9vY2FHUlJRY3JieTB0ZFMxWmFsTmcwTGt0U2I4Ym02a0NxQlJjRHpvYnllOWc4V0tfTWpvRFY5eVpFb1Q0b1I2RjRMWXJEUWowOWNpVnFhQ1lsdDNMcHJDdERSUlkwRzVTQjREY0ZUMEI?oc=5",
-      "kind": "News and reporting",
-      "record_id": "c2a5c1a2976b2e2c",
-      "first_seen_at": "2026-09-23T21:28:28Z",
-      "retained_excerpt": "Bhotekoshi flood: US to provide additional $31 million in aid myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxQR2VaQkhHeTlrMUphQzlWOURxc0N6akdNbkN6QkFFQmlpbWxCS1dmNWJReWY5bkw3R2dQVTNJNG1qRlV4eTF4TFAydl9vY2FHUlJRY3JieTB0ZFMxWmFsTmcwTGt0U2I4Ym02a0NxQlJjRHpvYnllOWc4V0tfTWpvRFY5eVpFb1Q0b1I2RjRMWXJEUWowOWNpVnFhQ1lsdDNMcHJDdERSUlkwRzVTQjREY0ZUMEI?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -384,15 +370,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "wionews.com",
+      "source": "WION",
       "date": "2026-09-20",
-      "title": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream - wionews.com",
-      "summary": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream wionews.com",
+      "title": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream - WION",
+      "summary": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream WION",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkpBOEZpMmlwU0MzbmFiQW5FeUZZMXJ4OVd0YjlnVVlITm5KWldFMTh5MkdncGd1Q0cxQUZiVXVCRnM2SW8yMkU1Qm1VVUhqWEFmRENaQy0zNGdPVzdmb0ZsUC0wbW92QjdFUVlkb2FGM0xWYmRYRVJKd3JPNHhpQTFORXoyRDBiQjdsU1pRU0FMQTZabnhfNWRlMWhSY09CQ0F3dk90Nk1ydDhTeU1ldzJfaVJSVXhsSE8zb2lDYjJkaTJhb2VBR1l1eVZvZ9IB0wFBVV95cUxOMS1QblYyWVppalRadm5zS3ZPVnpJb0NNZDBUUW5NeHZYSFcySjh0OGxnR3hMQzl1dHNxNlR0cXBLUzJtOXNiWm5HdlFLU3VIeWQ2WENraUhNWFBnNGlHTUtydDc4NXRjOVNVb1NucnZVNWdWdGh5Y2dDMWFnd0pETWVxQmlxUFdHbVdjRlR0S2V2RXhhLUtFcUpGSlRNX0V3amQxakxNSGwwQ2xLV1JMWGdTWk5PTFQ0ZkgtLVhCVXoxNEtsZGNqWUFDakE2SW1Wd2dR?oc=5",
       "kind": "News and reporting",
       "record_id": "399c31fb867245f3",
       "first_seen_at": "2026-09-25T11:48:07Z",
-      "retained_excerpt": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream wionews.com",
+      "retained_excerpt": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream WION",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkpBOEZpMmlwU0MzbmFiQW5FeUZZMXJ4OVd0YjlnVVlITm5KWldFMTh5MkdncGd1Q0cxQUZiVXVCRnM2SW8yMkU1Qm1VVUhqWEFmRENaQy0zNGdPVzdmb0ZsUC0wbW92QjdFUVlkb2FGM0xWYmRYRVJKd3JPNHhpQTFORXoyRDBiQjdsU1pRU0FMQTZabnhfNWRlMWhSY09CQ0F3dk90Nk1ydDhTeU1ldzJfaVJSVXhsSE8zb2lDYjJkaTJhb2VBR1l1eVZvZ9IB0wFBVV95cUxOMS1QblYyWVppalRadm5zS3ZPVnpJb0NNZDBUUW5NeHZYSFcySjh0OGxnR3hMQzl1dHNxNlR0cXBLUzJtOXNiWm5HdlFLU3VIeWQ2WENraUhNWFBnNGlHTUtydDc4NXRjOVNVb1NucnZVNWdWdGh5Y2dDMWFnd0pETWVxQmlxUFdHbVdjRlR0S2V2RXhhLUtFcUpGSlRNX0V3amQxakxNSGwwQ2xLV1JMWGdTWk5PTFQ0ZkgtLVhCVXoxNEtsZGNqWUFDakE2SW1Wd2dR?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -674,6 +660,20 @@
       "first_seen_at": "2026-09-29T00:59:03Z",
       "retained_excerpt": "Ignored study reports led to higher Rasuwa flood toll, experts say OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMidEFVX3lxTFBjRW9UN0xxNWdtZC1Ud1BSbWtoUWx3OElYTGplbHc2UXBrcmttc0FaMkY4Yk8yV3lpNXRldzAwc3hnT0tfMFc1VlMyRGtLV2MtbTNseUFZbU90ZHlBSjdPdXlsUW9FZFFyMWc2bDZLajY3ejFr?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
+      "date": "2026-09-14",
+      "title": "Bhote Koshi flood death toll reaches 1,390; over 4,000 still missing - Nepalnews.com",
+      "summary": "Bhote Koshi flood death toll reaches 1,390; over 4,000 still missing Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjNyS3FLWXQzbW9vTUVxNmpNd1g3SUUwT2UtVlhYQXNmWE9TY29rWGVXbk9OcVNDMTM4RkNLOUpuRUhjR0xPc3RRLVVobkRtQU5VM0R0TEoyeVBhMHU0bzhPVmZQNGdUczZvX3VnRzF2NlA1ODNXRkVjNFpWTGM1SU00N1gyUTlqUmYwTm9WZGFCdW1jWmtPYmlUS2pMYWlzS0dKZGhYSVo?oc=5",
+      "kind": "News and reporting",
+      "record_id": "167458bbff2621be",
+      "first_seen_at": "2026-09-14T12:42:21Z",
+      "retained_excerpt": "Bhote Koshi flood death toll reaches 1,390; over 4,000 still missing Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRjNyS3FLWXQzbW9vTUVxNmpNd1g3SUUwT2UtVlhYQXNmWE9TY29rWGVXbk9OcVNDMTM4RkNLOUpuRUhjR0xPc3RRLVVobkRtQU5VM0R0TEoyeVBhMHU0bzhPVmZQNGdUczZvX3VnRzF2NlA1ODNXRkVjNFpWTGM1SU00N1gyUTlqUmYwTm9WZGFCdW1jWmtPYmlUS2pMYWlzS0dKZGhYSVo?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
