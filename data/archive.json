@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-04T12:19:26Z",
+  "generated_at": "2026-10-04T18:38:31Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 771,
+  "count": 773,
   "items": [
     {
       "source": "The Himalayan Times",
@@ -173,6 +173,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Nepalnews.com",
+      "date": "2026-09-27",
+      "title": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood - Nepalnews.com",
+      "summary": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3d5cmcwSUJxamt1M2tlNXdIdi10RnV1NGN0bXV2QjN5amxGLTBjc1JRYy1saF9Yc2hLdURqUHRCM0luZXVIdjBjZS1pSW5KQlZ5a3JIUDdlZlh5RWlfbGNwV1ppb2gwX1JvTi1HeTZmdUdaOFU3bkQxTjZVTzRUTW1jYmR1bklBangydl9UcWxsakRrQkpOdGQtY3h3U25BRFBnbDhEeDN0UXF5UWVDeVo4Z2xLaklrSDh1Sk52WFhkTG16TFFlQWhB?oc=5",
+      "kind": "News and reporting",
+      "record_id": "75dbec3ba72a6952",
+      "first_seen_at": "2026-09-27T16:56:20Z",
+      "retained_excerpt": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3d5cmcwSUJxamt1M2tlNXdIdi10RnV1NGN0bXV2QjN5amxGLTBjc1JRYy1saF9Yc2hLdURqUHRCM0luZXVIdjBjZS1pSW5KQlZ5a3JIUDdlZlh5RWlfbGNwV1ppb2gwX1JvTi1HeTZmdUdaOFU3bkQxTjZVTzRUTW1jYmR1bklBangydl9UcWxsakRrQkpOdGQtY3h3U25BRFBnbDhEeDN0UXF5UWVDeVo4Z2xLaklrSDh1Sk52WFhkTG16TFFlQWhB?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Khabarhub",
       "date": "2026-09-27",
       "title": "Nepali diaspora donates $226,000 to Bhotekoshi flood victims - Khabarhub",
@@ -327,15 +341,29 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "kathmandupost.com",
+      "source": "Nepalnews.com",
+      "date": "2026-09-23",
+      "title": "Bhote Koshi flood: Death toll rises to 1,452; over 4,700 still missing - Nepalnews.com",
+      "summary": "Bhote Koshi flood: Death toll rises to 1,452; over 4,700 still missing Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFAydmtEY1hXX3dTdGRfMUFqMU1wcTJQV3dmWUNmYVdjV25oM1E3MjdBLXlzWkxYb3NqRlJWOWNvZWh1SlhzMUZmMXRSSzBXb0RzTEpQNWxrUERRWVdHNlMwOTlOTlIyMS1SQW1qQzZGSVpTWkJDTnk4VXBmNUQtZ2J2NmQzclpsQ1lyckhjZjBYR1VTYTJKS0FiSUZXUGkzdHUxQTIwbFFNdw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "e48b76688aaa7e3a",
+      "first_seen_at": "2026-10-04T18:38:31Z",
+      "retained_excerpt": "Bhote Koshi flood: Death toll rises to 1,452; over 4,700 still missing Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFAydmtEY1hXX3dTdGRfMUFqMU1wcTJQV3dmWUNmYVdjV25oM1E3MjdBLXlzWkxYb3NqRlJWOWNvZWh1SlhzMUZmMXRSSzBXb0RzTEpQNWxrUERRWVdHNlMwOTlOTlIyMS1SQW1qQzZGSVpTWkJDTnk4VXBmNUQtZ2J2NmQzclpsQ1lyckhjZjBYR1VTYTJKS0FiSUZXUGkzdHUxQTIwbFFNdw?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Kathmandu Post",
       "date": "2026-09-22",
-      "title": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system - kathmandupost.com",
-      "summary": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system kathmandupost.com",
+      "title": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system - The Kathmandu Post",
+      "summary": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system The Kathmandu Post",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1RQS2VCSDhNalYyTHA2Wkh4WEJBRGdDR0xaaFpoZ1g4elZ3azZ3RVRQVUFMd3RsYjg0eEVFWFQ4ZmM3X1NrUWU0dk9OZVRhX1JpZkZVTHNtYmpkTUMwamR2amhtSy1udlpvQjhPcUl5dXdUR0lHLXRKaVVjYlpfNDh4ZlQ1dnA1OGxQY1VqdGdCZDBBU1VrdmhNZ243SzlXLWp3TC1NWnczaXM?oc=5",
       "kind": "News and reporting",
       "record_id": "ba6c9c85501c553e",
       "first_seen_at": "2026-09-22T04:52:16Z",
-      "retained_excerpt": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system kathmandupost.com",
+      "retained_excerpt": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system The Kathmandu Post",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1RQS2VCSDhNalYyTHA2Wkh4WEJBRGdDR0xaaFpoZ1g4elZ3azZ3RVRQVUFMd3RsYjg0eEVFWFQ4ZmM3X1NrUWU0dk9OZVRhX1JpZkZVTHNtYmpkTUMwamR2amhtSy1udlpvQjhPcUl5dXdUR0lHLXRKaVVjYlpfNDh4ZlQ1dnA1OGxQY1VqdGdCZDBBU1VrdmhNZ243SzlXLWp3TC1NWnczaXM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -412,6 +440,20 @@
     },
     {
       "source": "OnlineKhabar English News",
+      "date": "2026-09-20",
+      "title": "Bhotekoshi flood: 1,436 bodies found - OnlineKhabar English News",
+      "summary": "Bhotekoshi flood: 1,436 bodies found OnlineKhabar English News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QLWFxeHluNWxVQnZHSkhmNkVOYjlWZkRlWVlqWmFkQnpYOVFFandUT0ZaRnNYRUdHLUVvRzV4LUpqQWI5ZTA4VWJuWTl4Tjl4b1ZMcUlTNE5pM1d4TGlTcmU2WW5qdE4xcElZT0U2aDVyNWtT?oc=5",
+      "kind": "News and reporting",
+      "record_id": "f91e5ab1620e5293",
+      "first_seen_at": "2026-10-04T18:38:31Z",
+      "retained_excerpt": "Bhotekoshi flood: 1,436 bodies found OnlineKhabar English News",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMidEFVX3lxTE5QLWFxeHluNWxVQnZHSkhmNkVOYjlWZkRlWVlqWmFkQnpYOVFFandUT0ZaRnNYRUdHLUVvRzV4LUpqQWI5ZTA4VWJuWTl4Tjl4b1ZMcUlTNE5pM1d4TGlTcmU2WW5qdE4xcElZT0U2aDVyNWtT?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "OnlineKhabar English News",
       "date": "2026-09-19",
       "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards - OnlineKhabar English News",
       "summary": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards OnlineKhabar English News",
@@ -463,20 +505,6 @@
       "first_seen_at": "2026-09-18T11:10:59Z",
       "retained_excerpt": "Nepal: Rasuwa Flood Situation Report No. 8 (As of 15 September 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdYb3pxVFRlT3lQOU5BSnFpVlZydnVqckxIdlVHcHlZZElSV192ZGxjMXhITm1Jc2NmR3VmUlhZTTlsR2ZuSW03LXc3NDM5dzJ5aFJSbER2Qnl3Zl9jdU00ZDMzUzh6bnhwN1daVjZpNTAwdWJtMlMyX3I2dTdSMVdjRl92anBBQ1o1Q3pQaUJSdFQxN1NBbA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-18",
-      "title": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors - myRepublica",
-      "summary": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXRQMDdhVElYNmpxa2kxaXo4VUFtYkQ4TDlmTkRkOHI1VTg5emo5NlpNOWhyVGwwSjRQR1JtbWJFQW54SXBrNUpkN2pRdVhzeXNPOGduQlRDMHFnTHpkQTZva01MRHpLWkJudDdJTWdBVm1xSjJuVVNSb0NZcEpiV2UxRFpadjFZUC1jdkNMc2V4ZHI0UThieGVOeWFIN0sxUkY4SGVHOHM1ZTVRbEF0VXJkWFlGcTdIV3JKTTR5cVdxdVU?oc=5",
-      "kind": "News and reporting",
-      "record_id": "bf0bd71a8811a3de",
-      "first_seen_at": "2026-09-18T16:22:29Z",
-      "retained_excerpt": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXRQMDdhVElYNmpxa2kxaXo4VUFtYkQ4TDlmTkRkOHI1VTg5emo5NlpNOWhyVGwwSjRQR1JtbWJFQW54SXBrNUpkN2pRdVhzeXNPOGduQlRDMHFnTHpkQTZva01MRHpLWkJudDdJTWdBVm1xSjJuVVNSb0NZcEpiV2UxRFpadjFZUC1jdkNMc2V4ZHI0UThieGVOeWFIN0sxUkY4SGVHOHM1ZTVRbEF0VXJkWFlGcTdIV3JKTTR5cVdxdVU?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -579,20 +607,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepalnews.com",
-      "date": "2026-09-16",
-      "title": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath - Nepalnews.com",
-      "summary": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjg1Q3IyelVhdFIxcEtTQnU0a0lEM28wa0JNOU5YSy1kX2hTSm5jekFNV2ZycVFQTEY0dS1TRzgxdGY1cWEtU1VmZ2dJLVVWZlkxWE9nM2NnNDFIYnM3NGV5eWtiTThuZDZ0dlUxXzkyVnZyaDB1MGxDY0x3Z3VydEVDZndnSVNpYkwxVU1OWktKeFhNRkNnOGs5YlhJWVhMb1R6U1psajdXM2JxTkMwN0JTbGFhUE9EZ0RIejJYUy1NZmc?oc=5",
-      "kind": "News and reporting",
-      "record_id": "1d8ccfd0e472ee8d",
-      "first_seen_at": "2026-10-04T12:19:26Z",
-      "retained_excerpt": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjg1Q3IyelVhdFIxcEtTQnU0a0lEM28wa0JNOU5YSy1kX2hTSm5jekFNV2ZycVFQTEY0dS1TRzgxdGY1cWEtU1VmZ2dJLVVWZlkxWE9nM2NnNDFIYnM3NGV5eWtiTThuZDZ0dlUxXzkyVnZyaDB1MGxDY0x3Z3VydEVDZndnSVNpYkwxVU1OWktKeFhNRkNnOGs5YlhJWVhMb1R6U1psajdXM2JxTkMwN0JTbGFhUE9EZ0RIejJYUy1NZmc?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "The Rising Nepal",
       "date": "2026-09-15",
       "title": "'Bhotekoshi flood is a structural humanitarian crisis' - The Rising Nepal",
@@ -607,15 +621,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "kathmandupost.com",
+      "source": "The Kathmandu Post",
       "date": "2026-09-15",
-      "title": "Private sector bears bulk of Bhotekoshi flood losses - kathmandupost.com",
-      "summary": "Private sector bears bulk of Bhotekoshi flood losses kathmandupost.com",
+      "title": "Private sector bears bulk of Bhotekoshi flood losses - The Kathmandu Post",
+      "summary": "Private sector bears bulk of Bhotekoshi flood losses The Kathmandu Post",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnU5NkhndUJhTDV3LTJ1MDRlOFFKSGJUZlRidE5VbXlaU2g3eDFycnVlRTdkMFRvanpEQzA4Zm45M2JCMjFFSkVXNFo1TDVCQ0h1WHJFVXB1Vlk5SzFneEZvYThiWEoxOTVmNS1oaTVva1FyaGVETHh0cTA4UDEwdGhNODdReTJUMXRsYjhUckp6Q3BsN0hqMzJoMA?oc=5",
       "kind": "News and reporting",
       "record_id": "976a3738cc5bbc8c",
       "first_seen_at": "2026-09-15T04:51:32Z",
-      "retained_excerpt": "Private sector bears bulk of Bhotekoshi flood losses kathmandupost.com",
+      "retained_excerpt": "Private sector bears bulk of Bhotekoshi flood losses The Kathmandu Post",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMimwFBVV95cUxNcnU5NkhndUJhTDV3LTJ1MDRlOFFKSGJUZlRidE5VbXlaU2g3eDFycnVlRTdkMFRvanpEQzA4Zm45M2JCMjFFSkVXNFo1TDVCQ0h1WHJFVXB1Vlk5SzFneEZvYThiWEoxOTVmNS1oaTVva1FyaGVETHh0cTA4UDEwdGhNODdReTJUMXRsYjhUckp6Q3BsN0hqMzJoMA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1041,20 +1055,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepalnews.com",
-      "date": "2026-09-09",
-      "title": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing - Nepalnews.com",
-      "summary": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0k4QTVEX3NiZ2xfMUlGc09YZENXNnRUVzVzRkoxUnhKZXhFRjhrRlo3elA5ZFR4Z09oYnpvUXk4SXlneWdFTEdDZk5aWGh3RjFoaXM5TXFTSmFpTTlSRi15a3F4RWp4VW1GZnJ0MmJZak9hV3JnWVlJdGVaX0ZtUDlJUHYxRGhGVXpVNWE0OHNrV3JZdndlWmFiZHVKWjhNMHpTNnNYczg?oc=5",
-      "kind": "News and reporting",
-      "record_id": "a4a0f705a84ebf28",
-      "first_seen_at": "2026-09-09T11:19:52Z",
-      "retained_excerpt": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0k4QTVEX3NiZ2xfMUlGc09YZENXNnRUVzVzRkoxUnhKZXhFRjhrRlo3elA5ZFR4Z09oYnpvUXk4SXlneWdFTEdDZk5aWGh3RjFoaXM5TXFTSmFpTTlSRi15a3F4RWp4VW1GZnJ0MmJZak9hV3JnWVlJdGVaX0ZtUDlJUHYxRGhGVXpVNWE0OHNrV3JZdndlWmFiZHVKWjhNMHpTNnNYczg?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "The Himalayan Times",
       "date": "2026-09-08",
       "title": "13,500 rescued, thousands in centres as Rasuwa flood toll rises - The Himalayan Times",
@@ -1153,16 +1153,16 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepalnews.com",
+      "source": "The Annapurna Express",
       "date": "2026-09-08",
-      "title": "NAIMA provides Rs 5 million to Bhote Koshi flood victims - Nepalnews.com",
-      "summary": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
+      "title": "Nepal’s relationship with India and China after the Bhotekoshi flood - The Annapurna Express",
+      "summary": "Nepal’s relationship with India and China after the Bhotekoshi flood The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN3hiZzJoN29fUWxmd3E5b282elI0QWxxTGdwVWJ4Y0ZqLUhEekY1NnluY3d0Qlg1dUpBdm5WWFBUQmdpa3Rna1JLZjk1WWU3c0t3NWlZSQ?oc=5",
       "kind": "News and reporting",
-      "record_id": "ae9fa86dafccec71",
-      "first_seen_at": "2026-09-08T11:15:42Z",
-      "retained_excerpt": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
+      "record_id": "d9cc2a8e8af4b331",
+      "first_seen_at": "2026-09-30T05:29:36Z",
+      "retained_excerpt": "Nepal’s relationship with India and China after the Bhotekoshi flood The Annapurna Express",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN3hiZzJoN29fUWxmd3E5b282elI0QWxxTGdwVWJ4Y0ZqLUhEekY1NnluY3d0Qlg1dUpBdm5WWFBUQmdpa3Rna1JLZjk1WWU3c0t3NWlZSQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1485,20 +1485,6 @@
       "first_seen_at": "2026-09-30T05:29:36Z",
       "retained_excerpt": "Bhotekoshi flood: 1,454 bodies recovered, 4,718 still missing Khabarhub",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uZ3RNRmdCdk1GcGprU2NmWndRcnhHVFBncElxeWJEdnlhSV83aGVfalRmWXBHNG83YWl3b0QtTTVTRUxJNG0xNGdXZlhpd1N4VUdvNVo5Sm4?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Nepalnews.com",
-      "date": "2026-09-29",
-      "title": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood - Nepalnews.com",
-      "summary": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3d5cmcwSUJxamt1M2tlNXdIdi10RnV1NGN0bXV2QjN5amxGLTBjc1JRYy1saF9Yc2hLdURqUHRCM0luZXVIdjBjZS1pSW5KQlZ5a3JIUDdlZlh5RWlfbGNwV1ppb2gwX1JvTi1HeTZmdUdaOFU3bkQxTjZVTzRUTW1jYmR1bklBangydl9UcWxsakRrQkpOdGQtY3h3U25BRFBnbDhEeDN0UXF5UWVDeVo4Z2xLaklrSDh1Sk52WFhkTG16TFFlQWhB?oc=5",
-      "kind": "News and reporting",
-      "record_id": "75dbec3ba72a6952",
-      "first_seen_at": "2026-09-27T16:56:20Z",
-      "retained_excerpt": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3d5cmcwSUJxamt1M2tlNXdIdi10RnV1NGN0bXV2QjN5amxGLTBjc1JRYy1saF9Yc2hLdURqUHRCM0luZXVIdjBjZS1pSW5KQlZ5a3JIUDdlZlh5RWlfbGNwV1ppb2gwX1JvTi1HeTZmdUdaOFU3bkQxTjZVTzRUTW1jYmR1bklBangydl9UcWxsakRrQkpOdGQtY3h3U25BRFBnbDhEeDN0UXF5UWVDeVo4Z2xLaklrSDh1Sk52WFhkTG16TFFlQWhB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1909,6 +1895,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-18",
+      "title": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors - myRepublica",
+      "summary": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXRQMDdhVElYNmpxa2kxaXo4VUFtYkQ4TDlmTkRkOHI1VTg5emo5NlpNOWhyVGwwSjRQR1JtbWJFQW54SXBrNUpkN2pRdVhzeXNPOGduQlRDMHFnTHpkQTZva01MRHpLWkJudDdJTWdBVm1xSjJuVVNSb0NZcEpiV2UxRFpadjFZUC1jdkNMc2V4ZHI0UThieGVOeWFIN0sxUkY4SGVHOHM1ZTVRbEF0VXJkWFlGcTdIV3JKTTR5cVdxdVU?oc=5",
+      "kind": "News and reporting",
+      "record_id": "bf0bd71a8811a3de",
+      "first_seen_at": "2026-09-18T16:22:29Z",
+      "retained_excerpt": "NRNs in Texas contribute Rs 21.5 million for Bhotekoshi flood survivors myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXRQMDdhVElYNmpxa2kxaXo4VUFtYkQ4TDlmTkRkOHI1VTg5emo5NlpNOWhyVGwwSjRQR1JtbWJFQW54SXBrNUpkN2pRdVhzeXNPOGduQlRDMHFnTHpkQTZva01MRHpLWkJudDdJTWdBVm1xSjJuVVNSb0NZcEpiV2UxRFpadjFZUC1jdkNMc2V4ZHI0UThieGVOeWFIN0sxUkY4SGVHOHM1ZTVRbEF0VXJkWFlGcTdIV3JKTTR5cVdxdVU?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ekantipur",
       "date": "2026-09-18",
       "title": "This Is How Displaced Children Are Continuing Their Education After the Bhotekoshi Flood [Video] - Ekantipur",
@@ -2101,6 +2101,20 @@
       "first_seen_at": "2026-09-17T16:58:05Z",
       "retained_excerpt": "Bhotekoshi flood: 191 vehicles damaged, 344 people missing Khabarhub",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQWRhREpxS195UG5EczJTc09fR05Ra1prRHNSX1hnRkZrRVJZRXJYRnBaWlNyYjk4d2FDUGJxMWVzUVc0LURsd2NQY2NJUG54SXAxZzhnZ2U?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
+      "date": "2026-09-16",
+      "title": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath - Nepalnews.com",
+      "summary": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjg1Q3IyelVhdFIxcEtTQnU0a0lEM28wa0JNOU5YSy1kX2hTSm5jekFNV2ZycVFQTEY0dS1TRzgxdGY1cWEtU1VmZ2dJLVVWZlkxWE9nM2NnNDFIYnM3NGV5eWtiTThuZDZ0dlUxXzkyVnZyaDB1MGxDY0x3Z3VydEVDZndnSVNpYkwxVU1OWktKeFhNRkNnOGs5YlhJWVhMb1R6U1psajdXM2JxTkMwN0JTbGFhUE9EZ0RIejJYUy1NZmc?oc=5",
+      "kind": "News and reporting",
+      "record_id": "1d8ccfd0e472ee8d",
+      "first_seen_at": "2026-10-04T12:19:26Z",
+      "retained_excerpt": "Timeline: How the Bhote Koshi flood unfolded hour by hour and its 3-week aftermath Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjg1Q3IyelVhdFIxcEtTQnU0a0lEM28wa0JNOU5YSy1kX2hTSm5jekFNV2ZycVFQTEY0dS1TRzgxdGY1cWEtU1VmZ2dJLVVWZlkxWE9nM2NnNDFIYnM3NGV5eWtiTThuZDZ0dlUxXzkyVnZyaDB1MGxDY0x3Z3VydEVDZndnSVNpYkwxVU1OWktKeFhNRkNnOGs5YlhJWVhMb1R6U1psajdXM2JxTkMwN0JTbGFhUE9EZ0RIejJYUy1NZmc?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2931,6 +2945,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Nepalnews.com",
+      "date": "2026-09-09",
+      "title": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing - Nepalnews.com",
+      "summary": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0k4QTVEX3NiZ2xfMUlGc09YZENXNnRUVzVzRkoxUnhKZXhFRjhrRlo3elA5ZFR4Z09oYnpvUXk4SXlneWdFTEdDZk5aWGh3RjFoaXM5TXFTSmFpTTlSRi15a3F4RWp4VW1GZnJ0MmJZak9hV3JnWVlJdGVaX0ZtUDlJUHYxRGhGVXpVNWE0OHNrV3JZdndlWmFiZHVKWjhNMHpTNnNYczg?oc=5",
+      "kind": "News and reporting",
+      "record_id": "a4a0f705a84ebf28",
+      "first_seen_at": "2026-09-09T11:19:52Z",
+      "retained_excerpt": "Bhote Koshi flood: Death toll reaches 1,365; over 4,000 still missing Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0k4QTVEX3NiZ2xfMUlGc09YZENXNnRUVzVzRkoxUnhKZXhFRjhrRlo3elA5ZFR4Z09oYnpvUXk4SXlneWdFTEdDZk5aWGh3RjFoaXM5TXFTSmFpTTlSRi15a3F4RWp4VW1GZnJ0MmJZak9hV3JnWVlJdGVaX0ZtUDlJUHYxRGhGVXpVNWE0OHNrV3JZdndlWmFiZHVKWjhNMHpTNnNYczg?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Khabarhub",
       "date": "2026-09-09",
       "title": "Finance Minister calls for realistic assessment of Bhote Koshi flood damage - Khabarhub",
@@ -3211,16 +3239,16 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "The Annapurna Express",
+      "source": "Nepalnews.com",
       "date": "2026-09-08",
-      "title": "Nepal’s relationship with India and China after the Bhotekoshi flood - The Annapurna Express",
-      "summary": "Nepal’s relationship with India and China after the Bhotekoshi flood The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN3hiZzJoN29fUWxmd3E5b282elI0QWxxTGdwVWJ4Y0ZqLUhEekY1NnluY3d0Qlg1dUpBdm5WWFBUQmdpa3Rna1JLZjk1WWU3c0t3NWlZSQ?oc=5",
+      "title": "NAIMA provides Rs 5 million to Bhote Koshi flood victims - Nepalnews.com",
+      "summary": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
       "kind": "News and reporting",
-      "record_id": "d9cc2a8e8af4b331",
-      "first_seen_at": "2026-09-30T05:29:36Z",
-      "retained_excerpt": "Nepal’s relationship with India and China after the Bhotekoshi flood The Annapurna Express",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oN3hiZzJoN29fUWxmd3E5b282elI0QWxxTGdwVWJ4Y0ZqLUhEekY1NnluY3d0Qlg1dUpBdm5WWFBUQmdpa3Rna1JLZjk1WWU3c0t3NWlZSQ?oc=5",
+      "record_id": "ae9fa86dafccec71",
+      "first_seen_at": "2026-09-08T11:15:42Z",
+      "retained_excerpt": "NAIMA provides Rs 5 million to Bhote Koshi flood victims Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinAFBVV95cUxNYlJFdEI5QktWNjJ2OEpYWWhVemtpdnBJMlc1VjdVVEgwWkQxbFgtemtfZl9ESFY3VTR0aHA4d0pwV0YwRWpWbWFfQ0dQSnVmM2xMamdJR2o2bzNCc3NTdWdtWGlwRFpEYVAyamtzWUZpSndBbnRITG5jckphRnhVRGlTTVJmV1VSbmdCNko5b1hEVkF5VkZvUXFrT3U?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
