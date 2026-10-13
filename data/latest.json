@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-13T02:35:01Z",
+  "generated_at": "2026-10-13T10:31:33Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 847,
+  "total_archived": 850,
   "items": [
     {
       "source": "The Kathmandu Post",
@@ -357,34 +357,6 @@
     },
     {
       "source": "myRepublica",
-      "date": "2026-10-02",
-      "title": "Malaysian national missing after Bhotekoshi flood found safe after 37 days - myRepublica",
-      "summary": "Malaysian national missing after Bhotekoshi flood found safe after 37 days myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSllEOWFub0tCcHhiRWotREZXbkltMHE2eDdjemxpY2R1Mjlvb0Z5NnphWEtIckg2NUFfajlBdUE0QkMweXN3emVUTHBELWxQMWVEdlUxQ1FiXzdmU3BhcEhsdlc1MUx2N0dPNjlEcUhaSnFqbEM3WmhjY0U0ZHl2VFFnVG94SDItd1NBcUFGSXJyMkFEYWY4dGQ1elZrbXpPS0RBaEVZTkwzemZXT2JyVGoxUHJtZ00xMmRrajFMVjBYaXc4OHZoaA?oc=5",
-      "kind": "News and reporting",
-      "record_id": "1f474f3512d0099c",
-      "first_seen_at": "2026-10-07T00:40:33Z",
-      "retained_excerpt": "Malaysian national missing after Bhotekoshi flood found safe after 37 days myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSllEOWFub0tCcHhiRWotREZXbkltMHE2eDdjemxpY2R1Mjlvb0Z5NnphWEtIckg2NUFfajlBdUE0QkMweXN3emVUTHBELWxQMWVEdlUxQ1FiXzdmU3BhcEhsdlc1MUx2N0dPNjlEcUhaSnFqbEM3WmhjY0U0ZHl2VFFnVG94SDItd1NBcUFGSXJyMkFEYWY4dGQ1elZrbXpPS0RBaEVZTkwzemZXT2JyVGoxUHJtZ00xMmRrajFMVjBYaXc4OHZoaA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-10-02",
-      "title": "Bhotekoshi flood: Wagle assures support to families of missing customs staff - myRepublica",
-      "summary": "Bhotekoshi flood: Wagle assures support to families of missing customs staff myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEMtSFdGUDdqRjhZREdSRlJ5VjA5aFVZLThzTDltU3JyaHVyMHhDTGwwMkR3VXJic1NmWi1WNnJtYjJqUFl0MGtQT3huWjA0UHVsWmIzODNCWUdKT3kyVzB5enAzYkVuODVnM0tUUXZCUmtGemswRE9pZkxmaWZHYVgwTGpaM25DNEFxMkt1dUtRTmVhX3Z1WFlZUEVublRUZnVyS0k5RWY5LWY5Z2QzcjFMMF82WXdsNzlHa19QQldXSEZucUtOYnVB?oc=5",
-      "kind": "News and reporting",
-      "record_id": "4189224770f11312",
-      "first_seen_at": "2026-10-07T00:40:33Z",
-      "retained_excerpt": "Bhotekoshi flood: Wagle assures support to families of missing customs staff myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEMtSFdGUDdqRjhZREdSRlJ5VjA5aFVZLThzTDltU3JyaHVyMHhDTGwwMkR3VXJic1NmWi1WNnJtYjJqUFl0MGtQT3huWjA0UHVsWmIzODNCWUdKT3kyVzB5enAzYkVuODVnM0tUUXZCUmtGemswRE9pZkxmaWZHYVgwTGpaM25DNEFxMkt1dUtRTmVhX3Z1WFlZUEVublRUZnVyS0k5RWY5LWY5Z2QzcjFMMF82WXdsNzlHa19QQldXSEZucUtOYnVB?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
       "date": "2026-10-01",
       "title": "Risky ‘tuins’ make comeback following Bhotekoshi flood - myRepublica",
       "summary": "Risky ‘tuins’ make comeback following Bhotekoshi flood myRepublica",
@@ -394,6 +366,20 @@
       "first_seen_at": "2026-10-07T18:56:09Z",
       "retained_excerpt": "Risky ‘tuins’ make comeback following Bhotekoshi flood myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMisAFBVV95cUxPWVYzNGtuOTlhbXRIUjhGb1FtbjFLdEIxekhlUm1fRk1iODI0V3ltZ3hBUHhNdm5McXRpSTFSY2hIQ3ZTcHl5V2NtYTRYeVgtRWxXQW5BUVBVWnpXYlAzSVBIanliak5fZTRMNmNaLV9FMDRTajF2dnlKSkJCVG1oR05keWlLeXpSMkdmT1VkRDJ2dGZBYzNKNFZTV3FoUzZnd2pfNlBtNmxjUEFTQWhqUg?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "myRepublica",
+      "date": "2026-10-01",
+      "title": "Bhotekoshi flood: Wagle assures support to families of missing customs staff - myRepublica",
+      "summary": "Bhotekoshi flood: Wagle assures support to families of missing customs staff myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEMtSFdGUDdqRjhZREdSRlJ5VjA5aFVZLThzTDltU3JyaHVyMHhDTGwwMkR3VXJic1NmWi1WNnJtYjJqUFl0MGtQT3huWjA0UHVsWmIzODNCWUdKT3kyVzB5enAzYkVuODVnM0tUUXZCUmtGemswRE9pZkxmaWZHYVgwTGpaM25DNEFxMkt1dUtRTmVhX3Z1WFlZUEVublRUZnVyS0k5RWY5LWY5Z2QzcjFMMF82WXdsNzlHa19QQldXSEZucUtOYnVB?oc=5",
+      "kind": "News and reporting",
+      "record_id": "4189224770f11312",
+      "first_seen_at": "2026-10-07T00:40:33Z",
+      "retained_excerpt": "Bhotekoshi flood: Wagle assures support to families of missing customs staff myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQOEMtSFdGUDdqRjhZREdSRlJ5VjA5aFVZLThzTDltU3JyaHVyMHhDTGwwMkR3VXJic1NmWi1WNnJtYjJqUFl0MGtQT3huWjA0UHVsWmIzODNCWUdKT3kyVzB5enAzYkVuODVnM0tUUXZCUmtGemswRE9pZkxmaWZHYVgwTGpaM25DNEFxMkt1dUtRTmVhX3Z1WFlZUEVublRUZnVyS0k5RWY5LWY5Z2QzcjFMMF82WXdsNzlHa19QQldXSEZucUtOYnVB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -553,6 +539,34 @@
     },
     {
       "source": "Nepalnews.com",
+      "date": "2026-09-29",
+      "title": "Bagmati CM seeks support from six provinces for Bhote Koshi flood reconstruction - Nepalnews.com",
+      "summary": "Bagmati CM seeks support from six provinces for Bhote Koshi flood reconstruction Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTllJYnpWQTN4bm55REItcjJhTEIwelBRdmNBNTVaNjdBR2JWbV9kZjJZME1WdzR4bXpYdHk3MkZqZGlJT3hUcV9NMzB6Y1BwUmo3ZENLOHJXQVlwRVhRdUFORWQwbnZFMXAyZDNETHZSLUtlaHNPYXh6OWJ3cW5seVpaMnBOY2RJekkyZEtVdTQwZlJGcEZROC0xN1ZfeVpYWG9DeHFrQ1oybjNXUUdocFF0bFh4Nk9Mdl9wOUtvaw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6269be2526b4a2c1",
+      "first_seen_at": "2026-10-08T10:31:40Z",
+      "retained_excerpt": "Bagmati CM seeks support from six provinces for Bhote Koshi flood reconstruction Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivwFBVV95cUxOTllJYnpWQTN4bm55REItcjJhTEIwelBRdmNBNTVaNjdBR2JWbV9kZjJZME1WdzR4bXpYdHk3MkZqZGlJT3hUcV9NMzB6Y1BwUmo3ZENLOHJXQVlwRVhRdUFORWQwbnZFMXAyZDNETHZSLUtlaHNPYXh6OWJ3cW5seVpaMnBOY2RJekkyZEtVdTQwZlJGcEZROC0xN1ZfeVpYWG9DeHFrQ1oybjNXUUdocFF0bFh4Nk9Mdl9wOUtvaw?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-09-27",
+      "title": "Hilsa deserted after the Bhotekoshi flood; 4,000 Indians cancel Kailash–Mansarovar pilgrimage - Ekantipur",
+      "summary": "Hilsa deserted after the Bhotekoshi flood; 4,000 Indians cancel Kailash–Mansarovar pilgrimage Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uc3JTYk1UVlMzUmJMeWMzLUwwX1Y5RGwyeW1NUzBueldMVXFncFMwa1NmN1lNS0wzTVRiWEc4Mzh1TTRJbWd6LTRMcHltNERuZGZhZ0hEelp5OERqaF9IX0JTSGNFaElwZWlQSHkzNWVOQTZLd3E4?oc=5",
+      "kind": "News and reporting",
+      "record_id": "a7a755478dffa44c",
+      "first_seen_at": "2026-09-30T05:29:36Z",
+      "retained_excerpt": "Hilsa deserted after the Bhotekoshi flood; 4,000 Indians cancel Kailash–Mansarovar pilgrimage Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMid0FVX3lxTE1uc3JTYk1UVlMzUmJMeWMzLUwwX1Y5RGwyeW1NUzBueldMVXFncFMwa1NmN1lNS0wzTVRiWEc4Mzh1TTRJbWd6LTRMcHltNERuZGZhZ0hEelp5OERqaF9IX0JTSGNFaElwZWlQSHkzNWVOQTZLd3E4?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
       "date": "2026-09-27",
       "title": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood - Nepalnews.com",
       "summary": "‘I survived by sheer luck’: Visually impaired teacher recalls escaping the Bhote Koshi flood Nepalnews.com",
@@ -678,20 +692,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepalnews.com",
-      "date": "2026-09-24",
-      "title": "ADB offers technical support for Bhote Koshi flood assessment, climate-resilient power infrastructure - Nepalnews.com",
-      "summary": "ADB offers technical support for Bhote Koshi flood assessment, climate-resilient power infrastructure Nepalnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbG44NlhORExnTUNKeDd3VlByNUozRm5EaWh0ZmdJUjl0b19oTFRvRE9OVHRYeXlaaGlkR2VlRWJjR3U3dHVLaThZYU41QmJ4YkhtVlhzWGRneGNRb1ZpaWxwOXV2ZUJGMVJKV2lsbXJlVW5FMlNaZFREMHI1dW0zMzJ3Z2h3Nl9qTnVOZ3d6Z1h5MHkzVVVnNDZUcWxyQUFKQm1ncnZvT3JNOE51NVFFek9rS2pxUHFCUUVfZnM4Wmt6UUdzTWY2LWtDNTFjWTB4eUljcmtpU2ZkUQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "77b3c93490f3e8fb",
-      "first_seen_at": "2026-09-25T04:54:40Z",
-      "retained_excerpt": "ADB offers technical support for Bhote Koshi flood assessment, climate-resilient power infrastructure Nepalnews.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbG44NlhORExnTUNKeDd3VlByNUozRm5EaWh0ZmdJUjl0b19oTFRvRE9OVHRYeXlaaGlkR2VlRWJjR3U3dHVLaThZYU41QmJ4YkhtVlhzWGRneGNRb1ZpaWxwOXV2ZUJGMVJKV2lsbXJlVW5FMlNaZFREMHI1dW0zMzJ3Z2h3Nl9qTnVOZ3d6Z1h5MHkzVVVnNDZUcWxyQUFKQm1ncnZvT3JNOE51NVFFek9rS2pxUHFCUUVfZnM4Wmt6UUdzTWY2LWtDNTFjWTB4eUljcmtpU2ZkUQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-09-23",
       "title": "JCB India Honors Those Deployed in the Bhote Koshi Flood Rescue Operation - Ekantipur",
@@ -790,6 +790,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "OnlineKhabar English News",
+      "date": "2026-09-23",
+      "title": "China provides equipment and technology for DNA testing of Rasuwa flood victims - OnlineKhabar English News",
+      "summary": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
+      "kind": "News and reporting",
+      "record_id": "65de24a358e93196",
+      "first_seen_at": "2026-10-13T10:31:33Z",
+      "retained_excerpt": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Kathmandu Post",
       "date": "2026-09-22",
       "title": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system - The Kathmandu Post",
@@ -828,20 +842,6 @@
       "first_seen_at": "2026-09-22T21:16:33Z",
       "retained_excerpt": "Bhote Koshi Flood: Nature's Rebellion Against Human Exploitation Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMingFBVV95cUxOS2haX3M0eHRlNVlUQVpJOEFfUWxaVHJXY0diSXgwVUx0djZQOUE1dDEzSE03MWVjU2t4UWw5QkVHMkhNUk5RaEhlall1Sy00NlJIRmoxR1RGVEFNaEVPeDlEUTdQa3FQSVlMRk13UlhuM2ZvVjF6a2U5ZU1QcFM1TFBMcV9PYUxkSzFtcnVyd2Rkcm1ic2RPV2VoSVdNZw?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "OnlineKhabar English News",
-      "date": "2026-09-22",
-      "title": "Mongolian Heart to tour four European countries; proceeds to go to Bhotekoshi flood victims - OnlineKhabar English News",
-      "summary": "Mongolian Heart to tour four European countries; proceeds to go to Bhotekoshi flood victims OnlineKhabar English News",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhYzREc0NXRjhlYl9OUGRUSm5RRkVVaFJTODBjQ3N6cENsQW95ZlB6ZzhldW9iTUptMXh2OVdrYnB5LUFuNGg5WHpuUi1haVlTU1JhXzRodVVSLW93X3NtSEhXZmRrbXNldjRsWlp0bHdhaTQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "f8be93f473f94b1f",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "Mongolian Heart to tour four European countries; proceeds to go to Bhotekoshi flood victims OnlineKhabar English News",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMic0FVX3lxTFBhYzREc0NXRjhlYl9OUGRUSm5RRkVVaFJTODBjQ3N6cENsQW95ZlB6ZzhldW9iTUptMXh2OVdrYnB5LUFuNGg5WHpuUi1haVlTU1JhXzRodVVSLW93X3NtSEhXZmRrbXNldjRsWlp0bHdhaTQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
