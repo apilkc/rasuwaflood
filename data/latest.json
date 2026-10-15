@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-15T11:25:00Z",
+  "generated_at": "2026-10-15T16:58:03Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 872,
+  "total_archived": 875,
   "items": [
     {
       "source": "myRepublica",
@@ -44,6 +44,20 @@
       "first_seen_at": "2026-10-15T04:34:22Z",
       "retained_excerpt": "Government provides cash assistance to Bhotekoshi flood victims, benefiting more than 4,000 families Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUlPVC1TVlZhTXFfdE81NWNWNUVkMlZBMXQzNWhEOGFZaExuVnF3bnpxbWl4Wk1FcjV3Y1l5MmJFLS02VkVEVlpvbE16dVQ1dFhubjhFOWJfR0szZENPTy12MWc0M0ZCdmFyQjhsaGpnZjBraGNEeVdMUHlEVTBuREc1NzVHU0g5NmdoVHhKS0xHVjZLMjBFTXR3MnlONEduSlQtaTFPNDJsTlM0ZFJEQW5tS0NQTkM4MzdFbGJvNmQwLUZXV21CNDRHb18tWXdPb1BtMWhzVQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "myRepublica",
+      "date": "2026-10-14",
+      "title": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood - myRepublica",
+      "summary": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHRyLUpaYVRhVEJyVk14S1YyUTIzQjB3QjBjejVXTlVjQUcxWTc1TlJDdl91SXpEc1JaM2lKdHpsSUtVOGd6QnZ6WlpjVGZzbzk5VXc4RU5TSUE4blF4S2FvbGtiMUpYUjhuVWllWDk0SUU0NFFmM2FXVEdJM0tYRjY3R1dpajczV2lLbmNaMFloZUl3MzlaODNQX3BuNHM5WVI5T1Y1UTg1Tlp1ZzJkU2NGcXNTQlBtSkY3ZkFGbGJ5bVlTWVMw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8f922cb86b90e6a9",
+      "first_seen_at": "2026-10-15T16:58:03Z",
+      "retained_excerpt": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHRyLUpaYVRhVEJyVk14S1YyUTIzQjB3QjBjejVXTlVjQUcxWTc1TlJDdl91SXpEc1JaM2lKdHpsSUtVOGd6QnZ6WlpjVGZzbzk5VXc4RU5TSUE4blF4S2FvbGtiMUpYUjhuVWllWDk0SUU0NFFmM2FXVEdJM0tYRjY3R1dpajczV2lLbmNaMFloZUl3MzlaODNQX3BuNHM5WVI5T1Y1UTg1Tlp1ZzJkU2NGcXNTQlBtSkY3ZkFGbGJ5bVlTWVMw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -114,6 +128,20 @@
       "first_seen_at": "2026-10-10T09:47:10Z",
       "retained_excerpt": "1,457 Dead in Bhote Koshi Flood, 4,720 Missing Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMikAFBVV95cUxONXY0S3JsM1RmLUJyb0tRM2dPSzk4REZSYjFaQ3cwS1JHakUyanNyUENvbGFmMlV2SFh5RGtqYnhJSnhydERWei1FUFB0d1ZlWUhIRllrd2pKbWVBdTBoWHBXUUpESW0yeDdZeUtCaUFWQnV3aHNVX1B4Tmo4Vnk5S3hlNEFtMEhobGRtWXhBQ2k?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-10-09",
+      "title": "Bhotekoshi Flood: Drinking Water Infrastructure Worth Rs 640 Million Damaged; Water Arranged Through Tankers and Alternative Sources - Ekantipur",
+      "summary": "Bhotekoshi Flood: Drinking Water Infrastructure Worth Rs 640 Million Damaged; Water Arranged Through Tankers and Alternative Sources Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlpNQzRNejkwaHV5Q0ZxZnFQWW9hUDY3R1lmOURVenRrSmo4ak5SaHNidEJ4djQzWTdPZ2VQNUs0RFdiV1ZDWG05WjJYZHpzeDFmRm40NDRQQ0FONXExWWtHMVhLdEY0aEFjTjNrUjdsSnI1Wk1mTzBjeUlwWGxRVmROTTc0LWVuTV9WV2lVT1F0WHpTT085bkttWUFPSEt3ZmVLaGpKbTJ1S0RrR0hJRlRKb0xfcWVadUUyWnoxcDVjSnM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6b8763ad41123d8d",
+      "first_seen_at": "2026-10-15T16:58:03Z",
+      "retained_excerpt": "Bhotekoshi Flood: Drinking Water Infrastructure Worth Rs 640 Million Damaged; Water Arranged Through Tankers and Alternative Sources Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRlpNQzRNejkwaHV5Q0ZxZnFQWW9hUDY3R1lmOURVenRrSmo4ak5SaHNidEJ4djQzWTdPZ2VQNUs0RFdiV1ZDWG05WjJYZHpzeDFmRm40NDRQQ0FONXExWWtHMVhLdEY0aEFjTjNrUjdsSnI1Wk1mTzBjeUlwWGxRVmROTTc0LWVuTV9WV2lVT1F0WHpTT085bkttWUFPSEt3ZmVLaGpKbTJ1S0RrR0hJRlRKb0xfcWVadUUyWnoxcDVjSnM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -212,20 +240,6 @@
       "first_seen_at": "2026-10-07T18:56:09Z",
       "retained_excerpt": "Nepal’s Growth Slows After Rasuwa Flood as Rebuilding Tests Its Readiness for Risk Devdiscourse",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTRnMWlzTG9qZTctOFFjUUlPSnFDb2hPa3hTa3dWZHQxUUt6MWFreUpPUTQtN0EwVjVaa2NwaFRJbTAxOFUtM3RuQ3M4bGdvLU0wYzdHdS1HZkt6YnI2UVhRaTVDRWlxQjBmZU9qZ3Z0a3pHNVZiamp4WnRtYjNyRklaQkdnUkdvWGhMSkZLM1huZ2JSSERsYVp6YWJZOEY4a1AwN095VWJGRTdYMFc3VmFHQU5uOG0wTkZpNFFZUjBmTDJST1dFelZIM0xnQ2Y10gHWAUFVX3lxTE94WDVpby1YYjlUNEJiaFJPSEZ0T0J0R19nZUxoaHJkZldKWUZES2o2aHJ3RjRJSHM2YkVfbDRqanhDNDJHem5ZRUhyd2ZPR2tfWEJrQkpIdlZkRURQUEVxSDJROUVaVUszbzlFWTFEQThLZVVwVTJ5RGZuaDVDSjV0dWFiYU1sa01TSHhVdmtRVV93dVU2VmhocDZRVjM5LUdQeUJMN0NkZlNVc1FmREhrcm1nT0xuTWFCTFlvdElPaHpoVDFDWmhONzhFOE9lMmJDU0cxN1E?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-10-06",
-      "title": "Nepal’s growth projected to slow following devastating Rasuwa flood: WB - myRepublica",
-      "summary": "Nepal’s growth projected to slow following devastating Rasuwa flood: WB myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFJWbmN1WU9wUk5WeDhmSDJOdWVvQnlPY2RGTnloS25Td2NCOEhUcU43elhJODBzUkdWM01KaUU4c293Ui1id1oxbWJNRl9kWUZzNjlDSWVCbjEzS1FsRV9kalNydTdYZ2ZKQnZXZXg2eUF0QVppcEFGQXdGdkZRUXM2UDNTYlRBSUJqMXBXUE9kVEl6VFI1eFlxemFKZnRieENmTkRaMVkxdzZFUUkzMXJOX3R1UnVaYVppVjlzaVY5QQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "8559f37202347933",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "Nepal’s growth projected to slow following devastating Rasuwa flood: WB myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFJWbmN1WU9wUk5WeDhmSDJOdWVvQnlPY2RGTnloS25Td2NCOEhUcU43elhJODBzUkdWM01KaUU4c293Ui1id1oxbWJNRl9kWUZzNjlDSWVCbjEzS1FsRV9kalNydTdYZ2ZKQnZXZXg2eUF0QVppcEFGQXdGdkZRUXM2UDNTYlRBSUJqMXBXUE9kVEl6VFI1eFlxemFKZnRieENmTkRaMVkxdzZFUUkzMXJOX3R1UnVaYVppVjlzaVY5QQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -366,20 +380,6 @@
       "first_seen_at": "2026-10-08T10:31:40Z",
       "retained_excerpt": "Nepal wraps up Rasuwa flood search; shifts focus to rehabilitation, reconstruction The Economic Times",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ3BoMkNvLUZlcUt5VzBTVFVPWktaazVVaU1fcm5WVDVsOHVnTDlvSzk1bWwyVnZHYXRQcy1EN0VqVlZ3Z2lnM0p0OXFKVVl2OU5oX04xLVVvUUJ2V2d1eEtPbFpRVXhUZGhBaklqeUFsOENnbmtOTHdYY2JGUlJETDdQQVJ4VjdrVG45SUQ0Q0R4cWVDbWxQMk8yVnRtSlN6TUFzVGExdV9PcHlrZUdwNnBmUnJ3Z0JpQXVRZk1LQTVCLWJ6RVBZeklZNDJBRkZjXzRFanRENjN2NWVlUFNSejF6aTlSUzhiOGZUQWpHSk05a3BOWE9B0gH8AUFVX3lxTE8tMU9vYjRWZk9uMlRwdEVjNUpNVlpxb0NWRV9jRGpmdGVRMkUyY3l3cWwyeEF1V0VYNl9CNEpOVURub19OMEpXU1FDdm45Nk5SYVFsQkZXN052WGxuazBZUTBLSU9MYnZ5X2RJSUR3cFF0bUNCMmdjeGlDSUNnR3dZcTRhZTdER3RPbWJvWDVoYmNIN1EyaTd1NVNYQUMwZTNlM29iaGtuQ1hjM042d3NNZ3UtXy1hRUgyS19xSFI2Q0MxLXZuaExuWFNMdmNPbnA3LUNwdjhtOTI5SWFtWVBrSEpBU0hhWi15aWdkZF9ueXVGWUFOV1dGS25KbA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Press Trust of India",
-      "date": "2026-10-05",
-      "title": "Nepal wraps up Rasuwa flood search; shifts focus to rehabilitation, reconstruction - Press Trust of India",
-      "summary": "Nepal wraps up Rasuwa flood search; shifts focus to rehabilitation, reconstruction Press Trust of India",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOckIycW1iR0VXRnFlRmlxRU5NUDFSYWVOei1yb1lGSnhIa0V4XzYzcTBFTlk4eE0zMFBBU0VCcE1yN1oxVXQ3N0VvZ2RlWlNhVFVtTjEzZUk2cEF5N0lrNkd3RFhhRFpOV1YtS0JsVmNiSHBGZXB2bEF6QjFhZTRPaTdrN0FsdWFkWXpyLUI3dnBpUmlyV2NLdGgxTFhGUXpVMFphM3l6TXY4NWsydzRvRTd1cXJQaDV0MmgxS2ZTT2VyWFYyMmpnYVdnTm8?oc=5",
-      "kind": "News and reporting",
-      "record_id": "af2418e17dcf9378",
-      "first_seen_at": "2026-10-10T17:19:50Z",
-      "retained_excerpt": "Nepal wraps up Rasuwa flood search; shifts focus to rehabilitation, reconstruction Press Trust of India",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizAFBVV95cUxOckIycW1iR0VXRnFlRmlxRU5NUDFSYWVOei1yb1lGSnhIa0V4XzYzcTBFTlk4eE0zMFBBU0VCcE1yN1oxVXQ3N0VvZ2RlWlNhVFVtTjEzZUk2cEF5N0lrNkd3RFhhRFpOV1YtS0JsVmNiSHBGZXB2bEF6QjFhZTRPaTdrN0FsdWFkWXpyLUI3dnBpUmlyV2NLdGgxTFhGUXpVMFphM3l6TXY4NWsydzRvRTd1cXJQaDV0MmgxS2ZTT2VyWFYyMmpnYVdnTm8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -692,20 +692,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ekantipur",
-      "date": "2026-09-25",
-      "title": "We did not cause the Bhotekoshi flood: Prime Minister - Ekantipur",
-      "summary": "We did not cause the Bhotekoshi flood: Prime Minister Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHkxSzRncEk2Mlo2bHFuVWhUSU5tV1VoRktZV3h1RlRUVTQ5NHNUVm1SUWpSNFpEaHBucGtBS3lUeWRqc0ZJdnY5MDNidFdiYndBcmppQWRzdUhNOGxkVEhmZk9HN0Q5Y184X3Y0UVpzaDVxT3E0cGhYNXVRZFhlR09rcjhpV1BuQkI3bjlhWTdWMmhjZUYxbG54UXZPZjBQSlJDOU0tUQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "0f89b14bbff908dd",
-      "first_seen_at": "2026-09-25T17:08:24Z",
-      "retained_excerpt": "We did not cause the Bhotekoshi flood: Prime Minister Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHkxSzRncEk2Mlo2bHFuVWhUSU5tV1VoRktZV3h1RlRUVTQ5NHNUVm1SUWpSNFpEaHBucGtBS3lUeWRqc0ZJdnY5MDNidFdiYndBcmppQWRzdUhNOGxkVEhmZk9HN0Q5Y184X3Y0UVpzaDVxT3E0cGhYNXVRZFhlR09rcjhpV1BuQkI3bjlhWTdWMmhjZUYxbG54UXZPZjBQSlJDOU0tUQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "ReliefWeb",
       "date": "2026-09-24",
       "title": "Nepal: Rasuwa - Bhotekoshi flood: Urgent call for assistance - ReliefWeb",
@@ -842,6 +828,20 @@
       "first_seen_at": "2026-10-13T19:14:49Z",
       "retained_excerpt": "MP Bharat Parajuli Draws Attention to BhoteKoshi Flood Victims' Relief Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWk1ieXh6cTRpZDZOOGJMWU92TWFjMS1qWUNvbXVoQU4zcWRxQXBPTzNsajM2Q1RYekdxV3BlakNURU5CZWtlVWJTREl0c3lUczBMZUtfclVoTDdwd0dBc1RVajQyVDBIMWFPV3czeFVaS0JXbE5HXzFoZ2tPd1dEZVFZVlJpeFl5TXBSNkRQZ3MwS0paSDBLdFhSaFRGOHYzNU0xY2gtc1VsR0pRWXpWa3djbEg3by1OcWQ4TjFoT1UxNkxMSHpNbUNzYU1GdHdjQjQySzZETkVtTDdXeDEyeXA5YVI5b3BpWkZxTG1PTQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-09-23",
+      "title": "15 Missing in Rasuwa Flood Given Mass Funeral in Jumla - Ratopati",
+      "summary": "15 Missing in Rasuwa Flood Given Mass Funeral in Jumla Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMk9INkFLMUVsS2djYWh2UmNWUkpobEpMb1VDS01OWTNtMXpRUGlfM21fNGNRUTBjM21jZzFjLWs3eEMxRVFxT2NCSWRRakJnUlVmVXl3TzFCN1ZTVGJGdzNwTDUtMDJIekxEUGsycnF3VXo2N3JwR09yd0NrbE52SHlnaWhPNElCUXVqQVF5YlJvc1haZFRMamFmd3pwdw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "2d814b533106e6a8",
+      "first_seen_at": "2026-10-14T11:48:24Z",
+      "retained_excerpt": "15 Missing in Rasuwa Flood Given Mass Funeral in Jumla Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMingFBVV95cUxPMk9INkFLMUVsS2djYWh2UmNWUkpobEpMb1VDS01OWTNtMXpRUGlfM21fNGNRUTBjM21jZzFjLWs3eEMxRVFxT2NCSWRRakJnUlVmVXl3TzFCN1ZTVGJGdzNwTDUtMDJIekxEUGsycnF3VXo2N3JwR09yd0NrbE52SHlnaWhPNElCUXVqQVF5YlJvc1haZFRMamFmd3pwdw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
