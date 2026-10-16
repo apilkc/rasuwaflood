@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-16T16:35:50Z",
+  "generated_at": "2026-10-16T21:04:35Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 882,
+  "count": 884,
   "items": [
+    {
+      "source": "Ekantipur",
+      "date": "2026-10-16",
+      "title": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood - Ekantipur",
+      "summary": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
+      "kind": "News and reporting",
+      "record_id": "047fab5224a9c21f",
+      "first_seen_at": "2026-10-16T21:04:35Z",
+      "retained_excerpt": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
     {
       "source": "myRepublica",
       "date": "2026-10-16",
@@ -579,20 +593,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "myRepublica",
-      "date": "2026-09-29",
-      "title": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims - myRepublica",
-      "summary": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakctVVNnbXRfa0RCMHd6aTgwM0xrUmJrUXoxdy1rN3ZwOVRPQkFYU1dyQ3c2NVJycnp1cjBTakppbUxnWHUzZks3TjZqSWZaVG1NRU1FV3UzYy1Ra2xTalJDUGE2bzN2TTZRVjhRZXNiWFU3SjRxR3c3WncxdExVNWE5Y24xUWR4T09abVVxbUhPOFYwa09tYzJOdGdTSWZRanAtRWNGemh1OWYteXlXY3ZhS3lzR1o3eGFlSGtfWVd1LTc5UHNQOE93?oc=5",
-      "kind": "News and reporting",
-      "record_id": "39d829f09e372591",
-      "first_seen_at": "2026-09-30T20:00:18Z",
-      "retained_excerpt": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQakctVVNnbXRfa0RCMHd6aTgwM0xrUmJrUXoxdy1rN3ZwOVRPQkFYU1dyQ3c2NVJycnp1cjBTakppbUxnWHUzZks3TjZqSWZaVG1NRU1FV3UzYy1Ra2xTalJDUGE2bzN2TTZRVjhRZXNiWFU3SjRxR3c3WncxdExVNWE5Y24xUWR4T09abVVxbUhPOFYwa09tYzJOdGdTSWZRanAtRWNGemh1OWYteXlXY3ZhS3lzR1o3eGFlSGtfWVd1LTc5UHNQOE93?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-09-27",
       "title": "Hilsa deserted after the Bhotekoshi flood; 4,000 Indians cancel Kailash–Mansarovar pilgrimage - Ekantipur",
@@ -887,20 +887,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-09-23",
-      "title": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage - Ratopati",
-      "summary": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
-      "kind": "News and reporting",
-      "record_id": "584b018168d27057",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "The Kathmandu Post",
       "date": "2026-09-22",
       "title": "Opinion | What the Bhotekoshi flood revealed about Nepal’s health system - The Kathmandu Post",
@@ -1069,16 +1055,30 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
+      "source": "radionepalonline.com",
       "date": "2026-09-21",
-      "title": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN - Ratopati",
-      "summary": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmREaktmLUJKa082TGxlZmhsZmdmT0prYmtCYUhETWVPNlVZUTBXU19WRWpxY2J2RnQ0WkNxTDhBNUZKQ0M1U2pnMkNaNFBlM0xTQ0kwY0J3S1dlUTdqM2MtVGVzanFUVFk1QVlrNTBvWXplRG5LSmp0cThkMXJQNEtvVUNZS1RLSEdzSmVDaG14OElhWHNmQ1NqcHkzbjN6bHRZNEI4ZHYtR2JHa2RtVmxLcDZJcmxOcmVGNlVocmdubTVHbGNncm9VZnRpMEZEQlBiVURZX3Zib1MwUk1qTVhJN1paNW94M1dqY3M4d0FEVlFOUmFJ?oc=5",
+      "title": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas - radionepalonline.com",
+      "summary": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas radionepalonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84M2FSR05feVY0UE5nMGpxOTJNNUFJTlBZSHNxMnpxWUszSGZKX3h6MHlydDk5RWJEN2RwMXpwd09MTUFUQ1p3eVFuVXMzOGVESHVJd3FEZ3JuV09vTVV2VFpwb1M?oc=5",
       "kind": "News and reporting",
-      "record_id": "d3cf456d3d2c62b2",
-      "first_seen_at": "2026-10-16T11:19:25Z",
-      "retained_excerpt": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmREaktmLUJKa082TGxlZmhsZmdmT0prYmtCYUhETWVPNlVZUTBXU19WRWpxY2J2RnQ0WkNxTDhBNUZKQ0M1U2pnMkNaNFBlM0xTQ0kwY0J3S1dlUTdqM2MtVGVzanFUVFk1QVlrNTBvWXplRG5LSmp0cThkMXJQNEtvVUNZS1RLSEdzSmVDaG14OElhWHNmQ1NqcHkzbjN6bHRZNEI4ZHYtR2JHa2RtVmxLcDZJcmxOcmVGNlVocmdubTVHbGNncm9VZnRpMEZEQlBiVURZX3Zib1MwUk1qTVhJN1paNW94M1dqY3M4d0FEVlFOUmFJ?oc=5",
+      "record_id": "3d1620d408627250",
+      "first_seen_at": "2026-09-22T00:04:58Z",
+      "retained_excerpt": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas radionepalonline.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE84M2FSR05feVY0UE5nMGpxOTJNNUFJTlBZSHNxMnpxWUszSGZKX3h6MHlydDk5RWJEN2RwMXpwd09MTUFUQ1p3eVFuVXMzOGVESHVJd3FEZ3JuV09vTVV2VFpwb1M?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "myRepublica",
+      "date": "2026-09-21",
+      "title": "Rasuwa flood: Authorities move to verify missing-person data - myRepublica",
+      "summary": "Rasuwa flood: Authorities move to verify missing-person data myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWFJdGZhV0tUaWFQUmZyRXduNVFYaG1YX0xSYnkzZTdZdzVfR01DanFvVk1odGhOZDRyeUhLMzdPNDNTdk1FUFRJaWk0VjdvRWtPdjg3S1RzNGRyNEE5V2RfV3h1ZjFkVnZOM3pnSFdlR0l6Z0FhM2cwcnpWRHctb1J2WEdQdWNUYjJpM1hPMURGU3ZTNkxvM0J6REhqNEN6a01EUldzQ2N2clVWQXdYb1Y2emc?oc=5",
+      "kind": "News and reporting",
+      "record_id": "25ed26af0655a99e",
+      "first_seen_at": "2026-10-16T21:04:35Z",
+      "retained_excerpt": "Rasuwa flood: Authorities move to verify missing-person data myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitAFBVV95cUxQaWFJdGZhV0tUaWFQUmZyRXduNVFYaG1YX0xSYnkzZTdZdzVfR01DanFvVk1odGhOZDRyeUhLMzdPNDNTdk1FUFRJaWk0VjdvRWtPdjg3S1RzNGRyNEE5V2RfV3h1ZjFkVnZOM3pnSFdlR0l6Z0FhM2cwcnpWRHctb1J2WEdQdWNUYjJpM1hPMURGU3ZTNkxvM0J6REhqNEN6a01EUldzQ2N2clVWQXdYb1Y2emc?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1167,20 +1167,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-09-19",
-      "title": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood - Ratopati",
-      "summary": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
-      "kind": "News and reporting",
-      "record_id": "90c36fde517843f8",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "OnlineKhabar English News",
       "date": "2026-09-19",
       "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards - OnlineKhabar English News",
@@ -1237,6 +1223,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-19",
+      "title": "Bhotekoshi Flood: Building Resilience With Green Skills - myRepublica",
+      "summary": "Bhotekoshi Flood: Building Resilience With Green Skills myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE5Kd3NDcUpEWUJqSy1OaVVONmN3bUlOT3VRTTlGOFhVSF9oTUpaQVBQcnFidzY2OUhhbTNSalFkVXcweUhSVnlfU0xhdnliZno0ZGhydFJKdmRZQWZpN3hIeHp5RjBycGllZjJSN1VjNE1FNlhjSEcySjJ3U3JNRXJkazlLdVcwMmhKNnF1Z19uVm04V0RXREtEY2NCcEF0T05EbDA3TnM2cWxtWVE?oc=5",
+      "kind": "News and reporting",
+      "record_id": "c5054155e8d76e19",
+      "first_seen_at": "2026-09-19T15:51:25Z",
+      "retained_excerpt": "Bhotekoshi Flood: Building Resilience With Green Skills myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE5Kd3NDcUpEWUJqSy1OaVVONmN3bUlOT3VRTTlGOFhVSF9oTUpaQVBQcnFidzY2OUhhbTNSalFkVXcweUhSVnlfU0xhdnliZno0ZGhydFJKdmRZQWZpN3hIeHp5RjBycGllZjJSN1VjNE1FNlhjSEcySjJ3U3JNRXJkazlLdVcwMmhKNnF1Z19uVm04V0RXREtEY2NCcEF0T05EbDA3TnM2cWxtWVE?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "ReliefWeb",
       "date": "2026-09-18",
       "title": "Nepal: Rasuwa Flood Situation Report No. 8 (As of 15 September 2026) - ReliefWeb",
@@ -1261,6 +1261,20 @@
       "first_seen_at": "2026-10-04T23:56:47Z",
       "retained_excerpt": "Inside the DNA and fingerprint effort to identify Rasuwa flood victims OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiaEFVX3lxTE16di1uYU9GWE83SWNzcm9jY1EtQWtIcG1oUGRVU2NYOWhLS2xoaGxrM280OGt0elQtMmdVbHFLaXdtOExDd0ZRMndrSWxVaHlDdHVZQjROOXFXTE51VkVrMjZUMjBQWmVt?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-18",
+      "title": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors - Khabarhub",
+      "summary": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdVpUWXMtLU9ndWxnQWNJVG5lakQ0R1VkNVhueU1NYTJiLVBoWWFZT1lqU0hqc2kxTTBJWlJqU2dlX1ZfNUk4ck14MXlxaWtWbHB3dW9NcVI?oc=5",
+      "kind": "News and reporting",
+      "record_id": "81625d31ed27040d",
+      "first_seen_at": "2026-09-18T11:10:59Z",
+      "retained_excerpt": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdVpUWXMtLU9ndWxnQWNJVG5lakQ0R1VkNVhueU1NYTJiLVBoWWFZT1lqU0hqc2kxTTBJWlJqU2dlX1ZfNUk4ck14MXlxaWtWbHB3dW9NcVI?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1373,20 +1387,6 @@
       "first_seen_at": "2026-09-26T04:54:51Z",
       "retained_excerpt": "606 foreign nationals from 36 countries still missing in Bhotekoshi flood myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFAzUmtyM2x5SGxwWWhGQS1GZDRBNTFaMFhwSDdXS3hrN1UxVW5pcTFyUHMwNGh5MTdjZnl0bl9rSlhaeVNJR3FZZFBXU0xHQ29EQnVuYUgxdzdSVlN6VDdjQlRzcVdfNEctWmtESEc4WFUtS19UcERPVl8xZmJqaWs3cEh3MC1xTTZzZjc0ZzlMMDQ3ZktKUlVVa1BNMnBJMFRMWV95QU9nUi1PamdSUEJ2b1R0aFdnS05sakRXdk5DY2dfbEJv?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Kathmandu Post",
-      "date": "2026-09-17",
-      "title": "Yango offers free transport for Bhotekoshi flood relief supplies - The Kathmandu Post",
-      "summary": "Yango offers free transport for Bhotekoshi flood relief supplies The Kathmandu Post",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNk9rbTlocnBCMkpsc1lhSHlPMXh4VjdaaWVBWkNBQ25ZZm9SYjhmenN5ZWhicEI1SjUxMllJUDhNa0hmdGFhZGFyZTVDNkpLMDVaRVdPZmVEb2JCb096bjJDSEJpdlpfRlRxbkl4ZHhibkx1dG14NGJIa3AzeTdUak5xYkJhSkxITDd6RXRWSGhIT0FncE81bUdxbWEtWFBLU2w3RThpbVV5dVE?oc=5",
-      "kind": "News and reporting",
-      "record_id": "be6ffc7d813deacb",
-      "first_seen_at": "2026-10-15T16:58:03Z",
-      "retained_excerpt": "Yango offers free transport for Bhotekoshi flood relief supplies The Kathmandu Post",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNk9rbTlocnBCMkpsc1lhSHlPMXh4VjdaaWVBWkNBQ25ZZm9SYjhmenN5ZWhicEI1SjUxMllJUDhNa0hmdGFhZGFyZTVDNkpLMDVaRVdPZmVEb2JCb096bjJDSEJpdlpfRlRxbkl4ZHhibkx1dG14NGJIa3AzeTdUak5xYkJhSkxITDd6RXRWSGhIT0FncE81bUdxbWEtWFBLU2w3RThpbVV5dVE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1839,6 +1839,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-29",
+      "title": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims - myRepublica",
+      "summary": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakctVVNnbXRfa0RCMHd6aTgwM0xrUmJrUXoxdy1rN3ZwOVRPQkFYU1dyQ3c2NVJycnp1cjBTakppbUxnWHUzZks3TjZqSWZaVG1NRU1FV3UzYy1Ra2xTalJDUGE2bzN2TTZRVjhRZXNiWFU3SjRxR3c3WncxdExVNWE5Y24xUWR4T09abVVxbUhPOFYwa09tYzJOdGdTSWZRanAtRWNGemh1OWYteXlXY3ZhS3lzR1o3eGFlSGtfWVd1LTc5UHNQOE93?oc=5",
+      "kind": "News and reporting",
+      "record_id": "39d829f09e372591",
+      "first_seen_at": "2026-09-30T20:00:18Z",
+      "retained_excerpt": "NIA waives reporting deadline, eases documentation for Bhotekoshi flood claims myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQakctVVNnbXRfa0RCMHd6aTgwM0xrUmJrUXoxdy1rN3ZwOVRPQkFYU1dyQ3c2NVJycnp1cjBTakppbUxnWHUzZks3TjZqSWZaVG1NRU1FV3UzYy1Ra2xTalJDUGE2bzN2TTZRVjhRZXNiWFU3SjRxR3c3WncxdExVNWE5Y24xUWR4T09abVVxbUhPOFYwa09tYzJOdGdTSWZRanAtRWNGemh1OWYteXlXY3ZhS3lzR1o3eGFlSGtfWVd1LTc5UHNQOE93?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ekantipur",
       "date": "2026-09-29",
       "title": "Two Brothers Missing in the Bhotekoshi Flood, Another Brother Dies in an Avalanche, Nephew Missing - Ekantipur",
@@ -2063,6 +2077,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-09-23",
+      "title": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage - Ratopati",
+      "summary": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
+      "kind": "News and reporting",
+      "record_id": "584b018168d27057",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Rising Nepal",
       "date": "2026-09-23",
       "title": "Agriculture, livestock, fisheries suffer significant loss in Bhotekoshi flood - The Rising Nepal",
@@ -2161,6 +2189,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-09-21",
+      "title": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN - Ratopati",
+      "summary": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmREaktmLUJKa082TGxlZmhsZmdmT0prYmtCYUhETWVPNlVZUTBXU19WRWpxY2J2RnQ0WkNxTDhBNUZKQ0M1U2pnMkNaNFBlM0xTQ0kwY0J3S1dlUTdqM2MtVGVzanFUVFk1QVlrNTBvWXplRG5LSmp0cThkMXJQNEtvVUNZS1RLSEdzSmVDaG14OElhWHNmQ1NqcHkzbjN6bHRZNEI4ZHYtR2JHa2RtVmxLcDZJcmxOcmVGNlVocmdubTVHbGNncm9VZnRpMEZEQlBiVURZX3Zib1MwUk1qTVhJN1paNW94M1dqY3M4d0FEVlFOUmFJ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "d3cf456d3d2c62b2",
+      "first_seen_at": "2026-10-16T11:19:25Z",
+      "retained_excerpt": "Nepal to Raise BhoteKoshi Flood as Climate Justice Issue at UN Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUmREaktmLUJKa082TGxlZmhsZmdmT0prYmtCYUhETWVPNlVZUTBXU19WRWpxY2J2RnQ0WkNxTDhBNUZKQ0M1U2pnMkNaNFBlM0xTQ0kwY0J3S1dlUTdqM2MtVGVzanFUVFk1QVlrNTBvWXplRG5LSmp0cThkMXJQNEtvVUNZS1RLSEdzSmVDaG14OElhWHNmQ1NqcHkzbjN6bHRZNEI4ZHYtR2JHa2RtVmxLcDZJcmxOcmVGNlVocmdubTVHbGNncm9VZnRpMEZEQlBiVURZX3Zib1MwUk1qTVhJN1paNW94M1dqY3M4d0FEVlFOUmFJ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Tourism Times",
       "date": "2026-09-21",
       "title": "NNMGA provides relief to families hit by Bhotekoshi flood tragedy - The Tourism Times",
@@ -2213,20 +2255,6 @@
       "first_seen_at": "2026-09-21T04:52:28Z",
       "retained_excerpt": "RSP: Expedite DNA testing of Bhotekoshi flood victims The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE40RzVsN3g0TjNwMEVuNFBWalNMU0tOWVBYT1Vra21aMVQzT3BFYW1HTmRYV2RaVHhYaVNWQUpzUFZFUTJPN3dnYl9KQjJWOW5z?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "radionepalonline.com",
-      "date": "2026-09-21",
-      "title": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas - radionepalonline.com",
-      "summary": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas radionepalonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84M2FSR05feVY0UE5nMGpxOTJNNUFJTlBZSHNxMnpxWUszSGZKX3h6MHlydDk5RWJEN2RwMXpwd09MTUFUQ1p3eVFuVXMzOGVESHVJd3FEZ3JuV09vTVV2VFpwb1M?oc=5",
-      "kind": "News and reporting",
-      "record_id": "3d1620d408627250",
-      "first_seen_at": "2026-09-22T00:04:58Z",
-      "retained_excerpt": "Government to relocate and rebuild Bhotekoshi flood-affected settlements in safer areas radionepalonline.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE84M2FSR05feVY0UE5nMGpxOTJNNUFJTlBZSHNxMnpxWUszSGZKX3h6MHlydDk5RWJEN2RwMXpwd09MTUFUQ1p3eVFuVXMzOGVESHVJd3FEZ3JuV09vTVV2VFpwb1M?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2301,6 +2329,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-09-19",
+      "title": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood - Ratopati",
+      "summary": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
+      "kind": "News and reporting",
+      "record_id": "90c36fde517843f8",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Himalayan Times",
       "date": "2026-09-19",
       "title": "NCRC, MITGF plan long-term support for children affected by Bhotekoshi flood - The Himalayan Times",
@@ -2329,20 +2371,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "myRepublica",
-      "date": "2026-09-19",
-      "title": "Bhotekoshi Flood: Building Resilience With Green Skills - myRepublica",
-      "summary": "Bhotekoshi Flood: Building Resilience With Green Skills myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE5Kd3NDcUpEWUJqSy1OaVVONmN3bUlOT3VRTTlGOFhVSF9oTUpaQVBQcnFidzY2OUhhbTNSalFkVXcweUhSVnlfU0xhdnliZno0ZGhydFJKdmRZQWZpN3hIeHp5RjBycGllZjJSN1VjNE1FNlhjSEcySjJ3U3JNRXJkazlLdVcwMmhKNnF1Z19uVm04V0RXREtEY2NCcEF0T05EbDA3TnM2cWxtWVE?oc=5",
-      "kind": "News and reporting",
-      "record_id": "c5054155e8d76e19",
-      "first_seen_at": "2026-09-19T15:51:25Z",
-      "retained_excerpt": "Bhotekoshi Flood: Building Resilience With Green Skills myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE5Kd3NDcUpEWUJqSy1OaVVONmN3bUlOT3VRTTlGOFhVSF9oTUpaQVBQcnFidzY2OUhhbTNSalFkVXcweUhSVnlfU0xhdnliZno0ZGhydFJKdmRZQWZpN3hIeHp5RjBycGllZjJSN1VjNE1FNlhjSEcySjJ3U3JNRXJkazlLdVcwMmhKNnF1Z19uVm04V0RXREtEY2NCcEF0T05EbDA3TnM2cWxtWVE?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-09-19",
       "title": "Bhotekoshi Flood: Collective Cremation Held for 10 Patarasi Residents After They Remained Missing for 24 Days - Ekantipur",
@@ -2353,20 +2381,6 @@
       "first_seen_at": "2026-09-20T11:20:07Z",
       "retained_excerpt": "Bhotekoshi Flood: Collective Cremation Held for 10 Patarasi Residents After They Remained Missing for 24 Days Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmhwUFFIZFFVZW9ZTFR2R01UbHlrWXc2Z0VkX3ZjdXFGZVVtSmc5ZGNqQTlWcnBlUmZ4cnYyN2NpTzRMM1RSOFlia1p1WWRzZXRINGlqN3ZrTndSWjJOOFVPcnItdmlQWDhROFJsa05DWEpoUElsckdKVDF0dGF4NDc5Vm9Wbmt0OHZaWmtnbkZkZkNEOWNMQW9Cel85VGV0WFg0cTBQbmVlLXdlNHVFR19OcTQtbnBqMEk1X3FFbHN3TFZKdkRlbEVxTWJLaWxvaGc?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-18",
-      "title": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors - Khabarhub",
-      "summary": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdVpUWXMtLU9ndWxnQWNJVG5lakQ0R1VkNVhueU1NYTJiLVBoWWFZT1lqU0hqc2kxTTBJWlJqU2dlX1ZfNUk4ck14MXlxaWtWbHB3dW9NcVI?oc=5",
-      "kind": "News and reporting",
-      "record_id": "81625d31ed27040d",
-      "first_seen_at": "2026-09-18T11:10:59Z",
-      "retained_excerpt": "NRNs in Texas contribute Rs 21.5 million for Bhote Koshi flood survivors Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdVpUWXMtLU9ndWxnQWNJVG5lakQ0R1VkNVhueU1NYTJiLVBoWWFZT1lqU0hqc2kxTTBJWlJqU2dlX1ZfNUk4ck14MXlxaWtWbHB3dW9NcVI?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2507,6 +2521,20 @@
       "first_seen_at": "2026-09-18T20:52:41Z",
       "retained_excerpt": "Bhotekoshi flood: 1,410 bodies recovered, 5,145 people still missing Setopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiTkFVX3lxTE12emVsNDhpeURjQVhFcjVMZzRRcFQwVFpKeWdiQ1p5S3dqWlU1TGFZZUNvcXlVSDZneEd4QnBfVTRXN182QmxTRW9hQWltQQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Kathmandu Post",
+      "date": "2026-09-17",
+      "title": "Yango offers free transport for Bhotekoshi flood relief supplies - The Kathmandu Post",
+      "summary": "Yango offers free transport for Bhotekoshi flood relief supplies The Kathmandu Post",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNk9rbTlocnBCMkpsc1lhSHlPMXh4VjdaaWVBWkNBQ25ZZm9SYjhmenN5ZWhicEI1SjUxMllJUDhNa0hmdGFhZGFyZTVDNkpLMDVaRVdPZmVEb2JCb096bjJDSEJpdlpfRlRxbkl4ZHhibkx1dG14NGJIa3AzeTdUak5xYkJhSkxITDd6RXRWSGhIT0FncE81bUdxbWEtWFBLU2w3RThpbVV5dVE?oc=5",
+      "kind": "News and reporting",
+      "record_id": "be6ffc7d813deacb",
+      "first_seen_at": "2026-10-15T16:58:03Z",
+      "retained_excerpt": "Yango offers free transport for Bhotekoshi flood relief supplies The Kathmandu Post",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNk9rbTlocnBCMkpsc1lhSHlPMXh4VjdaaWVBWkNBQ25ZZm9SYjhmenN5ZWhicEI1SjUxMllJUDhNa0hmdGFhZGFyZTVDNkpLMDVaRVdPZmVEb2JCb096bjJDSEJpdlpfRlRxbkl4ZHhibkx1dG14NGJIa3AzeTdUak5xYkJhSkxITDd6RXRWSGhIT0FncE81bUdxbWEtWFBLU2w3RThpbVV5dVE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
