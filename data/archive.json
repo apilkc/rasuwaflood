@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T15:49:51Z",
+  "generated_at": "2026-10-18T20:39:14Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 891,
+  "count": 892,
   "items": [
     {
       "source": "The Kathmandu Post",
@@ -155,20 +155,6 @@
       "first_seen_at": "2026-10-14T11:48:24Z",
       "retained_excerpt": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkdzR0gwSU5LZmlCTzN3dHY5Z0FrQ01ETktiVFIyMGZvUks5QXk4Smc3NF9LOEF1bjAxenRzTFBWQVNmUlFVVE93MWFXVmxCR2UzaXdOZGZXWTktc2lYeWpxQWstajVMQmx4MnptV2VWYklMNldWZ0tZT1ZyWEJXYjFMb3RzNkgxNy04SUJXNVhFNVBjanhN?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-10-10",
-      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
-      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
-      "kind": "News and reporting",
-      "record_id": "11efb1b5283d4658",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -435,6 +421,20 @@
       "first_seen_at": "2026-10-05T05:35:23Z",
       "retained_excerpt": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself? myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdXVkIwQ1lzZ29VMWE5eU5kbnBDZ01JekdJVVBENzZwR0hadXBSbkk4SmNpRmlKV3U3RXpjQVBtWVZLUEJtMTAwcV96TExYVnU5T19iRmpFblVjRGxhaHFxWGhqZjRZelpWS0prMGROVnNxNmc4TUtBM0E3RFJkVE8xYm5SaFlZVEw4SDdGcHoxalM0QTlkYk0tS1lPMTdkRTJyNGZZaS1QQVpaUk1xaDVmbmI5SF9WU3RwTHRuX3A2WXlO?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-10-05",
+      "title": "Bhotekoshi flood: 45 students from Rasuwa still out of contact - Khabarhub",
+      "summary": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8839b87cd0c93852",
+      "first_seen_at": "2026-10-10T09:47:10Z",
+      "retained_excerpt": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -901,20 +901,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "OnlineKhabar English News",
-      "date": "2026-09-23",
-      "title": "China provides equipment and technology for DNA testing of Rasuwa flood victims - OnlineKhabar English News",
-      "summary": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
-      "kind": "News and reporting",
-      "record_id": "65de24a358e93196",
-      "first_seen_at": "2026-10-13T10:31:33Z",
-      "retained_excerpt": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ratopati",
       "date": "2026-09-23",
       "title": "MP Bharat Parajuli Draws Attention to BhoteKoshi Flood Victims' Relief - Ratopati",
@@ -1167,20 +1153,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-09-21",
-      "title": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood - Ratopati",
-      "summary": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjJtQXk3ZVlXQk9yblJxTU9TX1l0UVV6SUNPS0ltY2l0NDRfRjE0cndpOVpvQVNzR3JIc0JJaktxS3JJaEpTNXdVcnhXMmZaMmlwdkpMVC1OLWJaQjlPNUdXaWItUUZUcFNaSWo5eEJvdDUtQ0hwUUpuNWdIaFFZT3R5NUhLNU1CVS1IcVNBLURMQjY4Z3F5NGdfMkMyaFJzWXl0bll6a0xYenU4ZFFsRTRMUU9hTFVtVy1r?oc=5",
-      "kind": "News and reporting",
-      "record_id": "fed20173068ce502",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjJtQXk3ZVlXQk9yblJxTU9TX1l0UVV6SUNPS0ltY2l0NDRfRjE0cndpOVpvQVNzR3JIc0JJaktxS3JJaEpTNXdVcnhXMmZaMmlwdkpMVC1OLWJaQjlPNUdXaWItUUZUcFNaSWo5eEJvdDUtQ0hwUUpuNWdIaFFZT3R5NUhLNU1CVS1IcVNBLURMQjY4Z3F5NGdfMkMyaFJzWXl0bll6a0xYenU4ZFFsRTRMUU9hTFVtVy1r?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "myRepublica",
       "date": "2026-09-21",
       "title": "Don’t leave Bhotekoshi flood victims stuck in paperwork: RSP Whip Dhital - myRepublica",
@@ -1275,6 +1247,20 @@
       "first_seen_at": "2026-09-27T16:56:20Z",
       "retained_excerpt": "RSP Urges Faster Relief and Recovery After Bhotekoshi Flood Khoj Samachar",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMib0FVX3lxTFBmekI3NjByRXo0Vks1bUpNd0gyRFR4R1BBYURLV1ZocVJ5LTdfclRsaW1VOElQbXhPVGtZczZJQzNLN1dsbmxVTjkyRlZxWTRsUG5DbjVxal9PWkNpb0dMdzNaemVQbE81N2tLOEVaNA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-20",
+      "title": "Chinese organization provides assistance to Bhotekoshi flood victims - Khabarhub",
+      "summary": "Chinese organization provides assistance to Bhotekoshi flood victims Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRUtINVpPR1VUVUduQTVFSlhpWjlKQ3lybUx5QTBKbDZKWVZHWE1qRmFKRjkwT1JkOWtuTnB5YS1yVjUxeVRQVXV5Z0FfLVZmRWViU1JtdGw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "1a65df9c73c0c5f1",
+      "first_seen_at": "2026-09-27T05:15:51Z",
+      "retained_excerpt": "Chinese organization provides assistance to Bhotekoshi flood victims Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRUtINVpPR1VUVUduQTVFSlhpWjlKQ3lybUx5QTBKbDZKWVZHWE1qRmFKRjkwT1JkOWtuTnB5YS1yVjUxeVRQVXV5Z0FfLVZmRWViU1JtdGw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1377,6 +1363,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "The Rising Nepal",
+      "date": "2026-09-19",
+      "title": "Bhotekoshi flood damages worth Rs. 568M - The Rising Nepal",
+      "summary": "Bhotekoshi flood damages worth Rs. 568M The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbWhid1FaWTVFZTBtSVhOZjE5clZQU2JLR1lLQ0dBdHJkYzVjRE1BVERaYzc3SDl4TndXandILXNrRTFzeGZENFo0R3ExRHJF?oc=5",
+      "kind": "News and reporting",
+      "record_id": "0d731a767f7cd3c9",
+      "first_seen_at": "2026-10-18T20:39:14Z",
+      "retained_excerpt": "Bhotekoshi flood damages worth Rs. 568M The Rising Nepal",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xbWhid1FaWTVFZTBtSVhOZjE5clZQU2JLR1lLQ0dBdHJkYzVjRE1BVERaYzc3SDl4TndXandILXNrRTFzeGZENFo0R3ExRHJF?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "myRepublica",
       "date": "2026-10-15",
       "title": "Bhotekoshi flood survivors to be shifted to temporary residence within six months - myRepublica",
@@ -1429,6 +1429,20 @@
       "first_seen_at": "2026-10-13T19:14:49Z",
       "retained_excerpt": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMigAFBVV95cUxQMS03VWh3MkZZWDV1STBMNVMzQVlpbVVsTmZyWkN0QVB3QkRQTVJqZGNvWkZ0RVJody1HQ0s5ZkZHTkJFSWJSeGx2WG8wUjRhTUdSZVJPQXZKOW1rYmljZHVFVEduNnJoOVNmdWxWbm14elVwRjVpYTM1bUY0eW5QcQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-10-10",
+      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
+      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
+      "kind": "News and reporting",
+      "record_id": "11efb1b5283d4658",
+      "first_seen_at": "2026-10-10T09:47:10Z",
+      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1639,20 +1653,6 @@
       "first_seen_at": "2026-10-16T11:19:25Z",
       "retained_excerpt": "Nepal Wraps Up Rasuwa Flood Search; Shifts Focus To Rehabilitation, Reconstruction ETV Bharat",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzR2RUxDcmM4WmZGdmwtaUtSS3g3QXV2MnZVaXg0dDFqZHZmOGttNkRTMlQ3SFRXQ1NmTnpXTEZlUjBXck9GYmRUSVN5U0RPWFpiVUlwUkstNzNoaXlWTFp3enJrNWlKR1MtTGdjNmF3QnU3dXYtTnFqT3Q4YXR6TFZxeHpXSk9fVUkzRmVCa2RVTnIxazVLdEpGdVc4RlhGNlRCTVUySTlQV1Bva2Y1QTVGSm9IMF9jRzBfMUx5eDBnQllYTG4zU1ByQUpfWlNwLUlOVDJlc2xOQdIB3wFBVV95cUxOTnEtZDc1RFlveG40YlYwREN6SzhjS1d4alpma25WbkZOeXZ2Nk9NY2ROUFdwZ0g3RUVjMjhVOFNFdmFiSk5NdF9PczdEdXNubE9qV1JCVFFXa2c4bXg3NVNOTTc4V01DODJJckVjZE1BMFBpVXppaDdtLVltVVhFQmgwTWJzc0ZVcS01amZ6N0hieEVSSG1xS1lTVkRkSkhuMm1BOURkVV92OXhyUVVWYmlmSTFiQzQyajZuQzRjVGhYbWFPUVhHWmRLV0x1YklXWDVScjFsX0VDdEdubWVJ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-10-05",
-      "title": "Bhotekoshi flood: 45 students from Rasuwa still out of contact - Khabarhub",
-      "summary": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
-      "kind": "News and reporting",
-      "record_id": "8839b87cd0c93852",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2077,6 +2077,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "OnlineKhabar English News",
+      "date": "2026-09-23",
+      "title": "China provides equipment and technology for DNA testing of Rasuwa flood victims - OnlineKhabar English News",
+      "summary": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
+      "kind": "News and reporting",
+      "record_id": "65de24a358e93196",
+      "first_seen_at": "2026-10-13T10:31:33Z",
+      "retained_excerpt": "China provides equipment and technology for DNA testing of Rasuwa flood victims OnlineKhabar English News",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOF9iekRvalRrUlJtc29aRzJITHhoV1JybTNMdUc1YnM1RVEydl91SldWdTZHOTIxQW0tSjM2cjhHTjQzTUpBNTBiZ2pZNWZVVUQxRW0xU0dwUXZPbWNxSHFaWFZQQWRFMW1tc2dBZFNaYkx6YlJyZEo0NmF6NG5nQWlrbW1pSkQ0VUZkTGhkeHVZMF9YT3pZMV9sT2FwU1ZEdFVINzh6b3M3SUF4RE1HQlQxcElfTk4y?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ekantipur",
       "date": "2026-09-23",
       "title": "JCB India Honors Those Deployed in the Bhote Koshi Flood Rescue Operation - Ekantipur",
@@ -2175,6 +2189,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-09-21",
+      "title": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood - Ratopati",
+      "summary": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjJtQXk3ZVlXQk9yblJxTU9TX1l0UVV6SUNPS0ltY2l0NDRfRjE0cndpOVpvQVNzR3JIc0JJaktxS3JJaEpTNXdVcnhXMmZaMmlwdkpMVC1OLWJaQjlPNUdXaWItUUZUcFNaSWo5eEJvdDUtQ0hwUUpuNWdIaFFZT3R5NUhLNU1CVS1IcVNBLURMQjY4Z3F5NGdfMkMyaFJzWXl0bll6a0xYenU4ZFFsRTRMUU9hTFVtVy1r?oc=5",
+      "kind": "News and reporting",
+      "record_id": "fed20173068ce502",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "Home Ministry Secretary Sharma: No Hope of Finding Survivors from Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjJtQXk3ZVlXQk9yblJxTU9TX1l0UVV6SUNPS0ltY2l0NDRfRjE0cndpOVpvQVNzR3JIc0JJaktxS3JJaEpTNXdVcnhXMmZaMmlwdkpMVC1OLWJaQjlPNUdXaWItUUZUcFNaSWo5eEJvdDUtQ0hwUUpuNWdIaFFZT3R5NUhLNU1CVS1IcVNBLURMQjY4Z3F5NGdfMkMyaFJzWXl0bll6a0xYenU4ZFFsRTRMUU9hTFVtVy1r?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Nepalnews.com",
       "date": "2026-09-21",
       "title": "Special parliamentary committee formed to study Bhote Koshi flood - Nepalnews.com",
@@ -2241,20 +2269,6 @@
       "first_seen_at": "2026-10-11T12:45:44Z",
       "retained_excerpt": "Nepal forms 7-member panel to probe August 26 Bhotekoshi flood from source to downstream WION",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizgFBVV95cUxOSkpBOEZpMmlwU0MzbmFiQW5FeUZZMXJ4OVd0YjlnVVlITm5KWldFMTh5MkdncGd1Q0cxQUZiVXVCRnM2SW8yMkU1Qm1VVUhqWEFmRENaQy0zNGdPVzdmb0ZsUC0wbW92QjdFUVlkb2FGM0xWYmRYRVJKd3JPNHhpQTFORXoyRDBiQjdsU1pRU0FMQTZabnhfNWRlMWhSY09CQ0F3dk90Nk1ydDhTeU1ldzJfaVJSVXhsSE8zb2lDYjJkaTJhb2VBR1l1eVZvZw?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-09-20",
-      "title": "Chinese organization provides assistance to Bhotekoshi flood victims - Khabarhub",
-      "summary": "Chinese organization provides assistance to Bhotekoshi flood victims Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRUtINVpPR1VUVUduQTVFSlhpWjlKQ3lybUx5QTBKbDZKWVZHWE1qRmFKRjkwT1JkOWtuTnB5YS1yVjUxeVRQVXV5Z0FfLVZmRWViU1JtdGw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "1a65df9c73c0c5f1",
-      "first_seen_at": "2026-09-27T05:15:51Z",
-      "retained_excerpt": "Chinese organization provides assistance to Bhotekoshi flood victims Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pRUtINVpPR1VUVUduQTVFSlhpWjlKQ3lybUx5QTBKbDZKWVZHWE1qRmFKRjkwT1JkOWtuTnB5YS1yVjUxeVRQVXV5Z0FfLVZmRWViU1JtdGw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },

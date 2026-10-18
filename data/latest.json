@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T15:49:51Z",
+  "generated_at": "2026-10-18T20:39:14Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 891,
+  "total_archived": 892,
   "items": [
     {
       "source": "The Kathmandu Post",
@@ -156,20 +156,6 @@
       "first_seen_at": "2026-10-14T11:48:24Z",
       "retained_excerpt": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkdzR0gwSU5LZmlCTzN3dHY5Z0FrQ01ETktiVFIyMGZvUks5QXk4Smc3NF9LOEF1bjAxenRzTFBWQVNmUlFVVE93MWFXVmxCR2UzaXdOZGZXWTktc2lYeWpxQWstajVMQmx4MnptV2VWYklMNldWZ0tZT1ZyWEJXYjFMb3RzNkgxNy04SUJXNVhFNVBjanhN?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-10-10",
-      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
-      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
-      "kind": "News and reporting",
-      "record_id": "11efb1b5283d4658",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -436,6 +422,20 @@
       "first_seen_at": "2026-10-05T05:35:23Z",
       "retained_excerpt": "Will the civil campaign inspired by the Bhotekoshi flood sustain itself? myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxOUUdXVkIwQ1lzZ29VMWE5eU5kbnBDZ01JekdJVVBENzZwR0hadXBSbkk4SmNpRmlKV3U3RXpjQVBtWVZLUEJtMTAwcV96TExYVnU5T19iRmpFblVjRGxhaHFxWGhqZjRZelpWS0prMGROVnNxNmc4TUtBM0E3RFJkVE8xYm5SaFlZVEw4SDdGcHoxalM0QTlkYk0tS1lPMTdkRTJyNGZZaS1QQVpaUk1xaDVmbmI5SF9WU3RwTHRuX3A2WXlO?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-10-05",
+      "title": "Bhotekoshi flood: 45 students from Rasuwa still out of contact - Khabarhub",
+      "summary": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
+      "kind": "News and reporting",
+      "record_id": "8839b87cd0c93852",
+      "first_seen_at": "2026-10-10T09:47:10Z",
+      "retained_excerpt": "Bhotekoshi flood: 45 students from Rasuwa still out of contact Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWm9VUTZ1bUlFbFVlTFdPb1BFWThSbGtmUFg4eHhXazdJeEVkMDl6TUQ3X0s2eEJLQ0ZXanlGTEs5bWdyWlMyNFVrcmxfRzV2Y0hmYkp4Y0I?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
