@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T04:28:19Z",
+  "generated_at": "2026-10-18T11:00:46Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 889,
+  "total_archived": 891,
   "items": [
     {
       "source": "The Kathmandu Post",
@@ -160,20 +160,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ekantipur",
-      "date": "2026-10-10",
-      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
-      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
-      "kind": "News and reporting",
-      "record_id": "11efb1b5283d4658",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ratopati",
       "date": "2026-10-10",
       "title": "1,457 Dead in Bhote Koshi Flood, 4,720 Missing - Ratopati",
@@ -240,6 +226,20 @@
       "first_seen_at": "2026-10-12T00:31:04Z",
       "retained_excerpt": "NDRRMA seeks proposals to build temporary housings for Bhote Koshi flood-hit families Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYkMyNlowRmdBa19TNEJjYXg3bkFjQjFMaTJzdy1RXzVyQmEzMEdzSnlBZEtQLVRZYjdfMHVfSUNFTzNuZE04NzV3Tjgxc3RVN2V4U0JlN0pyUmZFUGl3b0dmQWdtXy12eUx5SG9vUFRIVWlia2UtYzBFaDlZdElBc1p6OFEzMGp0cGRKbVQybS1ZTVVUTUt3STV1OFh3aGdkMEdmTW9BNlBIVnNHeTVVVmZVdFdFUGhUaHRLNHdQZVBUa2s?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
+      "date": "2026-10-07",
+      "title": "Relief materials provided to Bhotekoshi flood hit families - Nepalnews.com",
+      "summary": "Relief materials provided to Bhotekoshi flood hit families Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFRRTVOblhfaVNwWlRkNE1ERFBkWUloX1NyV0twWk4ySGY1eUhzSUQ4STdxN1A2OWo0R2phc3B4MnFmVDYtU0l5cnRQQVRkMzMtOVBsUHNFMTZhM3RtMzFjSkdIVGtaQlhtazZEUGxKZzdsSFV6SDdWZ19saTFPOEhaMVFCMWhjR0dUZkVYY0M3NWJKRDBlWjhNaGFUWW8?oc=5",
+      "kind": "News and reporting",
+      "record_id": "ea259befa0d7ccfd",
+      "first_seen_at": "2026-10-18T11:00:46Z",
+      "retained_excerpt": "Relief materials provided to Bhotekoshi flood hit families Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFRRTVOblhfaVNwWlRkNE1ERFBkWUloX1NyV0twWk4ySGY1eUhzSUQ4STdxN1A2OWo0R2phc3B4MnFmVDYtU0l5cnRQQVRkMzMtOVBsUHNFMTZhM3RtMzFjSkdIVGtaQlhtazZEUGxKZzdsSFV6SDdWZ19saTFPOEhaMVFCMWhjR0dUZkVYY0M3NWJKRDBlWjhNaGFUWW8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
