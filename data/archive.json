@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:00:46Z",
+  "generated_at": "2026-10-18T15:49:51Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 891,
@@ -155,6 +155,20 @@
       "first_seen_at": "2026-10-14T11:48:24Z",
       "retained_excerpt": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkdzR0gwSU5LZmlCTzN3dHY5Z0FrQ01ETktiVFIyMGZvUks5QXk4Smc3NF9LOEF1bjAxenRzTFBWQVNmUlFVVE93MWFXVmxCR2UzaXdOZGZXWTktc2lYeWpxQWstajVMQmx4MnptV2VWYklMNldWZ0tZT1ZyWEJXYjFMb3RzNkgxNy04SUJXNVhFNVBjanhN?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-10-10",
+      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
+      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
+      "kind": "News and reporting",
+      "record_id": "11efb1b5283d4658",
+      "first_seen_at": "2026-10-10T09:47:10Z",
+      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1265,20 +1279,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-09-19",
-      "title": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood - Ratopati",
-      "summary": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
-      "kind": "News and reporting",
-      "record_id": "90c36fde517843f8",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "OnlineKhabar English News",
       "date": "2026-09-19",
       "title": "Bhotekoshi flood reveals the growing danger of Himalayan cascading hazards - OnlineKhabar English News",
@@ -1429,20 +1429,6 @@
       "first_seen_at": "2026-10-13T19:14:49Z",
       "retained_excerpt": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMigAFBVV95cUxQMS03VWh3MkZZWDV1STBMNVMzQVlpbVVsTmZyWkN0QVB3QkRQTVJqZGNvWkZ0RVJody1HQ0s5ZkZHTkJFSWJSeGx2WG8wUjRhTUdSZVJPQXZKOW1rYmljZHVFVEduNnJoOVNmdWxWbm14elVwRjVpYTM1bUY0eW5QcQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-10-10",
-      "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
-      "summary": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
-      "kind": "News and reporting",
-      "record_id": "11efb1b5283d4658",
-      "first_seen_at": "2026-10-10T09:47:10Z",
-      "retained_excerpt": "269 children lost their parents in the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXpXRGdraUZhbkd3VDh0Q09iODltSkdfcnJfaUlWbWE4eGQtZlpZTUdyX3phdEpuMXF6dXZtWUlQV1hvcU1UQUZ3ZE9pa1JqTFdmUmhYaTAtYWNpTDYzTFBtRVprbTNXak1QbmxlbnUyVVk5WHgtVEZ1Y201MFYzcVdzNHZWTW5PMzdTMERIYk1md2IzX0ZfMG13cEthaFVlX1ZxQ2h4a0E4cUk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -2311,6 +2297,20 @@
       "first_seen_at": "2026-09-20T20:47:03Z",
       "retained_excerpt": "Bhotekoshi flood: Families hold mass funeral for 10 missing people from Jumla using sacred Kusha’s effigies radionepalonline.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE11NExqWkx6Y1FOdEdDTUFhQ0wwMVE1SWxSQXQ3eHVraUlmaWtYcExyM0JKQUZIYmNWdWFSekdURm43RWY4UWVrTDA2WnFvRGFfTGF5akd2dWZTZUtTa3gzemVHWTc?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-09-19",
+      "title": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood - Ratopati",
+      "summary": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
+      "kind": "News and reporting",
+      "record_id": "90c36fde517843f8",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "11 More Bodies Found in Search for Missing Persons After BhoteKoshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxNSU9TUTVxdVhNa1QwaGs1RnRTZTFzMzRkVnNKVzhhTVZ4RWMwb0lYdXFEdU1feDlKS1I4aVVNNnVESGRlMmVJWnBYRXFPWjFpejJWaklCVEc3ejdnamhUNXZzQzlScmc2OC1WZlBmeTZjZzBiU0ZrZmRLQTZyVXNWS0ZWLWNJbDFENTZXUzg3cHZWV2ozaEE3R0xwb3M0X3YxUU5j?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
