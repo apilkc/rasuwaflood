@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T08:28:47Z",
+  "generated_at": "2026-10-20T14:17:25Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 899,
+  "total_archived": 900,
   "items": [
     {
       "source": "PreventionWeb.net",
@@ -86,20 +86,6 @@
       "first_seen_at": "2026-10-15T04:34:22Z",
       "retained_excerpt": "Government provides cash assistance to Bhotekoshi flood victims, benefiting more than 4,000 families Ekantipur",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcUlPVC1TVlZhTXFfdE81NWNWNUVkMlZBMXQzNWhEOGFZaExuVnF3bnpxbWl4Wk1FcjV3Y1l5MmJFLS02VkVEVlpvbE16dVQ1dFhubjhFOWJfR0szZENPTy12MWc0M0ZCdmFyQjhsaGpnZjBraGNEeVdMUHlEVTBuREc1NzVHU0g5NmdoVHhKS0xHVjZLMjBFTXR3MnlONEduSlQtaTFPNDJsTlM0ZFJEQW5tS0NQTkM4MzdFbGJvNmQwLUZXV21CNDRHb18tWXdPb1BtMWhzVQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-10-14",
-      "title": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood - myRepublica",
-      "summary": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHRyLUpaYVRhVEJyVk14S1YyUTIzQjB3QjBjejVXTlVjQUcxWTc1TlJDdl91SXpEc1JaM2lKdHpsSUtVOGd6QnZ6WlpjVGZzbzk5VXc4RU5TSUE4blF4S2FvbGtiMUpYUjhuVWllWDk0SUU0NFFmM2FXVEdJM0tYRjY3R1dpajczV2lLbmNaMFloZUl3MzlaODNQX3BuNHM5WVI5T1Y1UTg1Tlp1ZzJkU2NGcXNTQlBtSkY3ZkFGbGJ5bVlTWVMw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "8f922cb86b90e6a9",
-      "first_seen_at": "2026-10-15T16:58:03Z",
-      "retained_excerpt": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixwFBVV95cUxQeHRyLUpaYVRhVEJyVk14S1YyUTIzQjB3QjBjejVXTlVjQUcxWTc1TlJDdl91SXpEc1JaM2lKdHpsSUtVOGd6QnZ6WlpjVGZzbzk5VXc4RU5TSUE4blF4S2FvbGtiMUpYUjhuVWllWDk0SUU0NFFmM2FXVEdJM0tYRjY3R1dpajczV2lLbmNaMFloZUl3MzlaODNQX3BuNHM5WVI5T1Y1UTg1Tlp1ZzJkU2NGcXNTQlBtSkY3ZkFGbGJ5bVlTWVMw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -244,6 +230,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-10-08",
+      "title": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood - Ratopati",
+      "summary": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6678d694516006e2",
+      "first_seen_at": "2026-10-14T11:48:24Z",
+      "retained_excerpt": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "The Kathmandu Post",
       "date": "2026-10-08",
       "title": "Bagmati province seeks Rs1 billion for Bhotekoshi flood reconstruction - The Kathmandu Post",
@@ -314,15 +314,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepalnews.com",
+      "source": "Nepal News | Nepal's First Online News Portal",
       "date": "2026-10-07",
-      "title": "Relief materials provided to Bhotekoshi flood hit families - Nepalnews.com",
-      "summary": "Relief materials provided to Bhotekoshi flood hit families Nepalnews.com",
+      "title": "Relief materials provided to Bhotekoshi flood hit families - Nepal News | Nepal's First Online News Portal",
+      "summary": "Relief materials provided to Bhotekoshi flood hit families Nepal News | Nepal's First Online News Portal",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFRRTVOblhfaVNwWlRkNE1ERFBkWUloX1NyV0twWk4ySGY1eUhzSUQ4STdxN1A2OWo0R2phc3B4MnFmVDYtU0l5cnRQQVRkMzMtOVBsUHNFMTZhM3RtMzFjSkdIVGtaQlhtazZEUGxKZzdsSFV6SDdWZ19saTFPOEhaMVFCMWhjR0dUZkVYY0M3NWJKRDBlWjhNaGFUWW8?oc=5",
       "kind": "News and reporting",
       "record_id": "ea259befa0d7ccfd",
       "first_seen_at": "2026-10-18T11:00:46Z",
-      "retained_excerpt": "Relief materials provided to Bhotekoshi flood hit families Nepalnews.com",
+      "retained_excerpt": "Relief materials provided to Bhotekoshi flood hit families Nepal News | Nepal's First Online News Portal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkFRRTVOblhfaVNwWlRkNE1ERFBkWUloX1NyV0twWk4ySGY1eUhzSUQ4STdxN1A2OWo0R2phc3B4MnFmVDYtU0l5cnRQQVRkMzMtOVBsUHNFMTZhM3RtMzFjSkdIVGtaQlhtazZEUGxKZzdsSFV6SDdWZ19saTFPOEhaMVFCMWhjR0dUZkVYY0M3NWJKRDBlWjhNaGFUWW8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
