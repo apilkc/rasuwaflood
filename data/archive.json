@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T19:13:40Z",
+  "generated_at": "2026-10-20T23:51:02Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 900,
+  "count": 901,
   "items": [
     {
       "source": "PreventionWeb.net",
@@ -33,30 +33,16 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ekantipur",
-      "date": "2026-10-16",
-      "title": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood - Ekantipur",
-      "summary": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
-      "kind": "News and reporting",
-      "record_id": "047fab5224a9c21f",
-      "first_seen_at": "2026-10-16T21:04:35Z",
-      "retained_excerpt": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "myRepublica",
       "date": "2026-10-15",
       "title": "Bhotekoshi flood survivors to be shifted to temporary residence within six months - myRepublica",
       "summary": "Bhotekoshi flood survivors to be shifted to temporary residence within six months myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTNwcFk3VWhWWUhEUXNaM0tFVXhOemFrZWk2dC1JVkFUMmltUEZGWFNQeUFIc1pZc1ZwNEpCbzlaak1oRW82bm14dWNhQUd6am5iTl9kLXJiRXlhSlRJa2xfTU9IZzZKeXZkNjVwRVR3R0JVYWxvN1o3eXc3djRJUzctX0NlZ3ZoQkd6VTJVeHdaZHV3WWxZZnRHTWdoQXRtbmlSSGM5djJ5VkwyeVFXdUFPbUUydXJlMzR4eFFEek5QTlJHZHdHOTd3?oc=5",
       "kind": "News and reporting",
-      "record_id": "59261f55d7969298",
-      "first_seen_at": "2026-10-18T04:28:19Z",
+      "record_id": "ed014034fbad8e7f",
+      "first_seen_at": "2026-10-15T11:25:00Z",
       "retained_excerpt": "Bhotekoshi flood survivors to be shifted to temporary residence within six months myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTNwcFk3VWhWWUhEUXNaM0tFVXhOemFrZWk2dC1JVkFUMmltUEZGWFNQeUFIc1pZc1ZwNEpCbzlaak1oRW82bm14dWNhQUd6am5iTl9kLXJiRXlhSlRJa2xfTU9IZzZKeXZkNjVwRVR3R0JVYWxvN1o3eXc3djRJUzctX0NlZ3ZoQkd6VTJVeHdaZHV3WWxZZnRHTWdoQXRtbmlSSGM5djJ5VkwyeVFXdUFPbUUydXJlMzR4eFFEek5QTlJHZHdHOTd3?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -113,20 +99,6 @@
       "first_seen_at": "2026-10-13T19:14:49Z",
       "retained_excerpt": "1,050 Bhotekoshi flood victims remain in holding centers, says ministry Deshsanchar",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0JOQzNacnctR0lDel9RUFpGZmhCcWRYU1FYcnE0ZDEzMWVoV01ISHluNWtyNk1MNWNqUGg2UEI1cWplMnUyV2xUUWFKeXpsNHFkWDRqci1OMGZTQzQ3djlSWk5mU2dySUlKaVgwdURYbk9wMzh2MWJIRWxhWXo3WS1EX0MzS2J6bHd1eUFBdmZMUmV5b2FNTWdrVHd1M0hCVUJSNw?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Annapurna Express",
-      "date": "2026-10-13",
-      "title": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster - The Annapurna Express",
-      "summary": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fa1Y0WWZ2cGJhQzF4NmF1aWdlUG1iX1d2bXlzcGNBQWRRTlJyZWtSOTJMeXU0eVk5ZkRxaWZhQzkyXzEwZ2haX0dJaE5ScXMydzR6UFpXcw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "aa62bda811b43345",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster The Annapurna Express",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fa1Y0WWZ2cGJhQzF4NmF1aWdlUG1iX1d2bXlzcGNBQWRRTlJyZWtSOTJMeXU0eVk5ZkRxaWZhQzkyXzEwZ2haX0dJaE5ScXMydzR6UFpXcw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -253,6 +225,20 @@
       "first_seen_at": "2026-10-08T18:49:52Z",
       "retained_excerpt": "Bagmati province seeks Rs1 billion for Bhotekoshi flood reconstruction The Kathmandu Post",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnlxeXRPRFJ3Wm53ZTlveERuZlUtdHYzMGJrZG84cE1YSGpEYkRBMjhZVGxsWU5JWGoyMHpRNjhNdXpUZDBuVUJhclNvcHB0eGcyRWVPdG9lQmI1bFBVZ3pJd0hrdnN2aUJsQ0drMzB6a1dVYllaZ2piTFJrdTlxQ2FJZVRVQ2hMalRlR2l5ZW54SDh4T19ybmwtR2JIdHZXT1o1akxTVVFnZ2c2SElsbXpRaURTVWs?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-08",
+      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
+      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
+      "kind": "News and reporting",
+      "record_id": "70d0ca9c487a12e0",
+      "first_seen_at": "2026-10-08T10:31:40Z",
+      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -719,6 +705,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "The Rising Nepal",
+      "date": "2026-09-30",
+      "title": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure - The Rising Nepal",
+      "summary": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkamFwUXVFMUxYamtKN0pZY2w3OEgycGpjZ3NIZ3JjRExneXpwdjhCZnNQTTRoVUVVSWJMS21ESnAzbXBqcjdEM0FwT3RpazA2?oc=5",
+      "kind": "News and reporting",
+      "record_id": "69263ab58c4ac40a",
+      "first_seen_at": "2026-10-15T21:20:12Z",
+      "retained_excerpt": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure The Rising Nepal",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkamFwUXVFMUxYamtKN0pZY2w3OEgycGpjZ3NIZ3JjRExneXpwdjhCZnNQTTRoVUVVSWJMS21ESnAzbXBqcjdEM0FwT3RpazA2?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ministry Of Foreign Affairs",
       "date": "2026-09-29",
       "title": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood - Ministry Of Foreign Affairs",
@@ -873,15 +873,29 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepal News | Nepal's First Online News Portal",
+      "source": "radionepalonline.com",
       "date": "2026-09-25",
-      "title": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact - Nepal News | Nepal's First Online News Portal",
-      "summary": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact Nepal News | Nepal's First Online News Portal",
+      "title": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for - radionepalonline.com",
+      "summary": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for radionepalonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UU2JQVWFTeFZTWmFnRmotaVRBWE13QktUWHk1V1UyQUFjWGswblZQbmpsR0xOLXlGem9Td3YtLWd5S256S3pacVBVdVZNRjJ1aWpmbXg3a0lJd1pEMFBHdklzTjY?oc=5",
+      "kind": "News and reporting",
+      "record_id": "f1e11b960864e93a",
+      "first_seen_at": "2026-09-26T11:21:48Z",
+      "retained_excerpt": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for radionepalonline.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UU2JQVWFTeFZTWmFnRmotaVRBWE13QktUWHk1V1UyQUFjWGswblZQbmpsR0xOLXlGem9Td3YtLWd5S256S3pacVBVdVZNRjJ1aWpmbXg3a0lJd1pEMFBHdklzTjY?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
+      "date": "2026-09-25",
+      "title": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact - Nepalnews.com",
+      "summary": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact Nepalnews.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0J0SnBjZUJZa2RNTGxmZHM5TjZfdjF3WjZYRS1XZnBlTWotN1VsN0NJN2pGUGhBWF9aRkt2eHVSZmtjOGNWTkw2d000Mk1EREtMb2hpUVlSaFNOYnlkeEhpNnB4NlB1NDdtNjZQVjBmVHQ4VVJremFtSmJzekwwX3VQMEFod2NwR3pZeUxMQlFuRTBqOERMUUluRGRjbnk4OXhrbWhoQ2U1WWgtUHhPdzB3aDNjdm4wMUZfVHFB?oc=5",
       "kind": "News and reporting",
       "record_id": "6e0819f293fe319a",
       "first_seen_at": "2026-09-27T11:59:03Z",
-      "retained_excerpt": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact Nepal News | Nepal's First Online News Portal",
+      "retained_excerpt": "Bhote Koshi flood leaves 38 students missing in Rasuwa, 201 parents out of contact Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0J0SnBjZUJZa2RNTGxmZHM5TjZfdjF3WjZYRS1XZnBlTWotN1VsN0NJN2pGUGhBWF9aRkt2eHVSZmtjOGNWTkw2d000Mk1EREtMb2hpUVlSaFNOYnlkeEhpNnB4NlB1NDdtNjZQVjBmVHQ4VVJremFtSmJzekwwX3VQMEFod2NwR3pZeUxMQlFuRTBqOERMUUluRGRjbnk4OXhrbWhoQ2U1WWgtUHhPdzB3aDNjdm4wMUZfVHFB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -897,6 +911,20 @@
       "first_seen_at": "2026-09-25T21:32:55Z",
       "retained_excerpt": "201 parents, 38 students missing in Rasuwa flood myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMipAFBVV95cUxQNThRUExNd3V6QUx4aElCVVRrWHlyYXRrbEx4Z2J5c2NPSVdhNGdLR0RPbkpDVG1oWnVEcnhtSzBMWm5kZVJTN0xkb2dZQXJoM2p2cU9odktELVdlSmNUVmp2Smh1YkU2eVRYano1RkszbHZqcTMxQUJKX0ZaUGNlMk9yNy1QMVVoTm84V1FyQmNrRV9aRHFweFQ2NHhFclFmN2daaA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-09-25",
+      "title": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ - Khabarhub",
+      "summary": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeF9hWUVWWEpxTDNzRmdxbS13WEdkUjVzeS1VUG83UDFFZGZqMmFXeklmbjhGTXNSWFhMREUxSndHWk52STJJTFlSQUlibWNSdnNCT0xKRE8?oc=5",
+      "kind": "News and reporting",
+      "record_id": "659e477407972cf2",
+      "first_seen_at": "2026-09-25T04:54:40Z",
+      "retained_excerpt": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeF9hWUVWWEpxTDNzRmdxbS13WEdkUjVzeS1VUG83UDFFZGZqMmFXeklmbjhGTXNSWFhMREUxSndHWk52STJJTFlSQUlibWNSdnNCT0xKRE8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -971,20 +999,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-09-23",
-      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
-      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
-      "kind": "News and reporting",
-      "record_id": "70d0ca9c487a12e0",
-      "first_seen_at": "2026-10-08T10:31:40Z",
-      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "OnlineKhabar English News",
       "date": "2026-09-23",
       "title": "After Nepal’s Bhotekoshi flood, who pays for the damage? - OnlineKhabar English News",
@@ -1041,20 +1055,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "myRepublica",
-      "date": "2026-09-23",
-      "title": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas - myRepublica",
-      "summary": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2tQSFhkeWN0MHQyMVk1OF9FV1ZFTnRDVloyTmdIbjMxd3RlUExKYWtPRkt1bnRXSmltU3dEanRRZlZnQUFhUTBzb2tXU252ZVVWLWhhc05zUGVQYk14VGFDNFhNd29QUzhwd0JZbUlZNnlBVk5YUnZQRERKN1FoOURXdlBPdXBLVlBXMWFSM0RzTTlsSkc1eXVnd0VyTHhlZGE1cGpqek52QmVhZTdjMC1HMjBvdzJ2WUpBMGk5ZndvUlBFdjBvR1AtbV8yTmc?oc=5",
-      "kind": "News and reporting",
-      "record_id": "2855e2b2deb2042f",
-      "first_seen_at": "2026-10-11T19:32:35Z",
-      "retained_excerpt": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2tQSFhkeWN0MHQyMVk1OF9FV1ZFTnRDVloyTmdIbjMxd3RlUExKYWtPRkt1bnRXSmltU3dEanRRZlZnQUFhUTBzb2tXU252ZVVWLWhhc05zUGVQYk14VGFDNFhNd29QUzhwd0JZbUlZNnlBVk5YUnZQRERKN1FoOURXdlBPdXBLVlBXMWFSM0RzTTlsSkc1eXVnd0VyTHhlZGE1cGpqek52QmVhZTdjMC1HMjBvdzJ2WUpBMGk5ZndvUlBFdjBvR1AtbV8yTmc?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ratopati",
       "date": "2026-09-23",
       "title": "15 Missing in Rasuwa Flood Given Mass Funeral in Jumla - Ratopati",
@@ -1083,16 +1083,16 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
+      "source": "myRepublica",
       "date": "2026-09-23",
-      "title": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage - Ratopati",
-      "summary": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
+      "title": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas - myRepublica",
+      "summary": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTlKYk9uNWxzNkNJeXFZOG1kSGhwbGVYM2RFOGo2UERwS0RDZXc3OGFVRy1QWkhrWE1fcF9fVkUyMlZVcW9pZ3VTZzJhNGhleGpqVTFqekFkMllIc1h0YW1TRGh3Rm9UWnRJZkZLNndPbGx6MklBazZEcGZzSnl6NUFxcWV1X0pFbWdWajdzaW1UNS1CWjd4cDQ1ek1vM0JTS3hXdTBfanlDcnI1TFQySGd1VDdyUDR4YXZMUUJJdENBYjZ3OXBJVFhB?oc=5",
       "kind": "News and reporting",
-      "record_id": "584b018168d27057",
-      "first_seen_at": "2026-10-15T11:25:00Z",
-      "retained_excerpt": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
+      "record_id": "810edf6c60dad96c",
+      "first_seen_at": "2026-10-20T23:51:02Z",
+      "retained_excerpt": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxQTTlKYk9uNWxzNkNJeXFZOG1kSGhwbGVYM2RFOGo2UERwS0RDZXc3OGFVRy1QWkhrWE1fcF9fVkUyMlZVcW9pZ3VTZzJhNGhleGpqVTFqekFkMllIc1h0YW1TRGh3Rm9UWnRJZkZLNndPbGx6MklBazZEcGZzSnl6NUFxcWV1X0pFbWdWajdzaW1UNS1CWjd4cDQ1ek1vM0JTS3hXdTBfanlDcnI1TFQySGd1VDdyUDR4YXZMUUJJdENBYjZ3OXBJVFhB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1167,15 +1167,15 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepal News | Nepal's First Online News Portal",
+      "source": "Nepalnews.com",
       "date": "2026-09-22",
-      "title": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion - Nepal News | Nepal's First Online News Portal",
-      "summary": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion Nepal News | Nepal's First Online News Portal",
+      "title": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion - Nepalnews.com",
+      "summary": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion Nepalnews.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2xtRlZjenQ1b1puQ2VIeEt6VnNTazc4RWFjbXpZNDhRbGRxNEM2T0JrMDAwMnRfbFFSVnhlT1lxX1F1NE5EN2dZdWlmVzJnRngwY19ocnp3MXBOUlFvZFpnME1FYkZJVXVMb3Q5Z1k0NDV1dklhZGcxeU5qaF83cHBSNUh4WHBadk5iR20zU1duRVRuUmcxZXB6Y255LVhZNzI0alVzeE1XX1pMcjJHQmwtZzNrS0JfZG9WQWNpRW50UFM5UkdHak81UzdHdWU2cU1HOUl2RVZxZw?oc=5",
       "kind": "News and reporting",
       "record_id": "eee0dd2411bff598",
       "first_seen_at": "2026-09-22T16:55:33Z",
-      "retained_excerpt": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion Nepal News | Nepal's First Online News Portal",
+      "retained_excerpt": "Financial assistance continues for Bhote Koshi flood victims as PM Relief Fund surpasses Rs 15 billion Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2xtRlZjenQ1b1puQ2VIeEt6VnNTazc4RWFjbXpZNDhRbGRxNEM2T0JrMDAwMnRfbFFSVnhlT1lxX1F1NE5EN2dZdWlmVzJnRngwY19ocnp3MXBOUlFvZFpnME1FYkZJVXVMb3Q5Z1k0NDV1dklhZGcxeU5qaF83cHBSNUh4WHBadk5iR20zU1duRVRuUmcxZXB6Y255LVhZNzI0alVzeE1XX1pMcjJHQmwtZzNrS0JfZG9WQWNpRW50UFM5UkdHak81UzdHdWU2cU1HOUl2RVZxZw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
@@ -1391,6 +1391,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ekantipur",
+      "date": "2026-10-16",
+      "title": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood - Ekantipur",
+      "summary": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
+      "kind": "News and reporting",
+      "record_id": "047fab5224a9c21f",
+      "first_seen_at": "2026-10-16T21:04:35Z",
+      "retained_excerpt": "Damage worth Rs 79.17 billion caused by the Bhotekoshi flood Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR1cFprNzNGY20yRXhZV2pHTko1ZC0xWGFlc2ZZSEhGbERuUUZlNHd1V1J1UEF0VzVaR0NCazFlclctUlUyamdmSENsc0VCdVR4eU9HbXdHTkU1dEZVRFFZOHhhb1BKNEU0cmVHWjJrLTM4YndYWG5oZGJRMHo2anhkUm9EQzZ1M2FpVjlsQW1hbnh6WFJ0Yi1QMlZWWHRYeFVr?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ratopati",
       "date": "2026-10-16",
       "title": "DNA Testing Nears Completion for Bhote Koshi Flood Victims - Ratopati",
@@ -1423,12 +1437,12 @@
       "date": "2026-10-15",
       "title": "Bhotekoshi flood survivors to be shifted to temporary residence within six months - myRepublica",
       "summary": "Bhotekoshi flood survivors to be shifted to temporary residence within six months myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTNwcFk3VWhWWUhEUXNaM0tFVXhOemFrZWk2dC1JVkFUMmltUEZGWFNQeUFIc1pZc1ZwNEpCbzlaak1oRW82bm14dWNhQUd6am5iTl9kLXJiRXlhSlRJa2xfTU9IZzZKeXZkNjVwRVR3R0JVYWxvN1o3eXc3djRJUzctX0NlZ3ZoQkd6VTJVeHdaZHV3WWxZZnRHTWdoQXRtbmlSSGM5djJ5VkwyeVFXdUFPbUUydXJlMzR4eFFEek5QTlJHZHdHOTd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5",
       "kind": "News and reporting",
-      "record_id": "ed014034fbad8e7f",
-      "first_seen_at": "2026-10-15T11:25:00Z",
+      "record_id": "59261f55d7969298",
+      "first_seen_at": "2026-10-18T04:28:19Z",
       "retained_excerpt": "Bhotekoshi flood survivors to be shifted to temporary residence within six months myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTNwcFk3VWhWWUhEUXNaM0tFVXhOemFrZWk2dC1JVkFUMmltUEZGWFNQeUFIc1pZc1ZwNEpCbzlaak1oRW82bm14dWNhQUd6am5iTl9kLXJiRXlhSlRJa2xfTU9IZzZKeXZkNjVwRVR3R0JVYWxvN1o3eXc3djRJUzctX0NlZ3ZoQkd6VTJVeHdaZHV3WWxZZnRHTWdoQXRtbmlSSGM5djJ5VkwyeVFXdUFPbUUydXJlMzR4eFFEek5QTlJHZHdHOTd3?oc=5",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXVGMmhrbWprSDN4Qk1KbmJsRG1WdWxpNUoxNE1tc1M2MGFObFcyZmJyd0cwc0FXRTJyUnlEYmNjTGZvQ2FaYm1wTWNjdkxrV3h0TFRVcnl0WHNiWE1IR0VFYnpWZExSVS1FOVducDVhZFJPX0RNREYzOVNyQVJtdTVrVXhDZmVqZTZJTUc3U3AyTXdDNnRSbkZlUk1ydHVkTEp2TkFSYndieVVwNGFKYTVOOWxLa2VSakV0dlQ5dmZWc0dRdlo4ck5MV2tyajA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1457,6 +1471,20 @@
       "first_seen_at": "2026-10-14T21:38:54Z",
       "retained_excerpt": "Bhotekoshi flood survivors to be shifted to temporary residence within six months radionepalonline.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSUTZHQlJjM3k3dzcxMk5CdUhfbldMTzBlQUNPRVh1QlZBak9VNnhUakdpZnNvT2lfSmNsMXJOWWZvYy1MZFVqZGo1LVhBSWZyMUdOU2Zsa1JQb0xuUUVrVEZIS0M?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Annapurna Express",
+      "date": "2026-10-13",
+      "title": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster - The Annapurna Express",
+      "summary": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fa1Y0WWZ2cGJhQzF4NmF1aWdlUG1iX1d2bXlzcGNBQWRRTlJyZWtSOTJMeXU0eVk5ZkRxaWZhQzkyXzEwZ2haX0dJaE5ScXMydzR6UFpXcw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "aa62bda811b43345",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "Bhotekoshi flood: Reconstruction remains in limbo six weeks after disaster The Annapurna Express",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fa1Y0WWZ2cGJhQzF4NmF1aWdlUG1iX1d2bXlzcGNBQWRRTlJyZWtSOTJMeXU0eVk5ZkRxaWZhQzkyXzEwZ2haX0dJaE5ScXMydzR6UFpXcw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1755,20 +1783,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "The Rising Nepal",
-      "date": "2026-09-30",
-      "title": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure - The Rising Nepal",
-      "summary": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure The Rising Nepal",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkamFwUXVFMUxYamtKN0pZY2w3OEgycGpjZ3NIZ3JjRExneXpwdjhCZnNQTTRoVUVVSWJMS21ESnAzbXBqcjdEM0FwT3RpazA2?oc=5",
-      "kind": "News and reporting",
-      "record_id": "69263ab58c4ac40a",
-      "first_seen_at": "2026-10-15T21:20:12Z",
-      "retained_excerpt": "Nepal Insurance Authority issues Rasuwa flood claim settlement procedure The Rising Nepal",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkamFwUXVFMUxYamtKN0pZY2w3OEgycGpjZ3NIZ3JjRExneXpwdjhCZnNQTTRoVUVVSWJMS21ESnAzbXBqcjdEM0FwT3RpazA2?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Khabarhub",
       "date": "2026-09-30",
       "title": "Int’l community keen to help with post-Bhotekoshi flood reconstruction: Foreign Minister Khanal - Khabarhub",
@@ -1993,20 +2007,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
-      "date": "2026-09-25",
-      "title": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ - Khabarhub",
-      "summary": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeF9hWUVWWEpxTDNzRmdxbS13WEdkUjVzeS1VUG83UDFFZGZqMmFXeklmbjhGTXNSWFhMREUxSndHWk52STJJTFlSQUlibWNSdnNCT0xKRE8?oc=5",
-      "kind": "News and reporting",
-      "record_id": "659e477407972cf2",
-      "first_seen_at": "2026-09-25T04:54:40Z",
-      "retained_excerpt": "PM Balen asks at UNGA: ‘The Bhotekoshi flood was a warning to the world—did you hear it?’ Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeF9hWUVWWEpxTDNzRmdxbS13WEdkUjVzeS1VUG83UDFFZGZqMmFXeklmbjhGTXNSWFhMREUxSndHWk52STJJTFlSQUlibWNSdnNCT0xKRE8?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-09-25",
       "title": "We did not cause the Bhotekoshi flood: Prime Minister - Ekantipur",
@@ -2063,16 +2063,30 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "radionepalonline.com",
-      "date": "2026-09-25",
-      "title": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for - radionepalonline.com",
-      "summary": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for radionepalonline.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UU2JQVWFTeFZTWmFnRmotaVRBWE13QktUWHk1V1UyQUFjWGswblZQbmpsR0xOLXlGem9Td3YtLWd5S256S3pacVBVdVZNRjJ1aWpmbXg3a0lJd1pEMFBHdklzTjY?oc=5",
+      "source": "myRepublica",
+      "date": "2026-09-23",
+      "title": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas - myRepublica",
+      "summary": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2tQSFhkeWN0MHQyMVk1OF9FV1ZFTnRDVloyTmdIbjMxd3RlUExKYWtPRkt1bnRXSmltU3dEanRRZlZnQUFhUTBzb2tXU252ZVVWLWhhc05zUGVQYk14VGFDNFhNd29QUzhwd0JZbUlZNnlBVk5YUnZQRERKN1FoOURXdlBPdXBLVlBXMWFSM0RzTTlsSkc1eXVnd0VyTHhlZGE1cGpqek52QmVhZTdjMC1HMjBvdzJ2WUpBMGk5ZndvUlBFdjBvR1AtbV8yTmc?oc=5",
       "kind": "News and reporting",
-      "record_id": "f1e11b960864e93a",
-      "first_seen_at": "2026-09-26T11:21:48Z",
-      "retained_excerpt": "Bhotekoshi flood: Three representatives from Rasuwa still unaccounted for radionepalonline.com",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UU2JQVWFTeFZTWmFnRmotaVRBWE13QktUWHk1V1UyQUFjWGswblZQbmpsR0xOLXlGem9Td3YtLWd5S256S3pacVBVdVZNRjJ1aWpmbXg3a0lJd1pEMFBHdklzTjY?oc=5",
+      "record_id": "2855e2b2deb2042f",
+      "first_seen_at": "2026-10-11T19:32:35Z",
+      "retained_excerpt": "Bhotekoshi flood: Govt to restrict building permanent homes in flood-hit areas myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizwFBVV95cUxPS2tQSFhkeWN0MHQyMVk1OF9FV1ZFTnRDVloyTmdIbjMxd3RlUExKYWtPRkt1bnRXSmltU3dEanRRZlZnQUFhUTBzb2tXU252ZVVWLWhhc05zUGVQYk14VGFDNFhNd29QUzhwd0JZbUlZNnlBVk5YUnZQRERKN1FoOURXdlBPdXBLVlBXMWFSM0RzTTlsSkc1eXVnd0VyTHhlZGE1cGpqek52QmVhZTdjMC1HMjBvdzJ2WUpBMGk5ZndvUlBFdjBvR1AtbV8yTmc?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-09-23",
+      "title": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage - Ratopati",
+      "summary": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
+      "kind": "News and reporting",
+      "record_id": "584b018168d27057",
+      "first_seen_at": "2026-10-15T11:25:00Z",
+      "retained_excerpt": "MP Ramesh Malla Demands Independent Assessment of BhoteKoshi Flood Damage Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0NvaFFiX0lqeDlJM1h1VlVielAwWVpQVnJTSU56cmVubVdhaUVjSjJHcUNpRGdBQVltSEFod2tKWG1sXzd1OEUwbERSdkpPeDlQTEpyUTAxSEtmRU9Ncy1wUU1sR2EwWW5CbWk2N2ZodmdBMXBqb0dzTU1oZG9UOWtldzZfYkFiRTI2NG95LUhXb3BuclRwR0tSQTJxREMyQWlIUnR6RGlhZXZBdzlKd3J2TjMtY2pEdF9lVFZ6WGR2eHRTNUlXQ0kyWmF4Q2VQbDh5M3dB?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
