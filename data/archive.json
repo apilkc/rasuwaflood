@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-25T23:14:40Z",
+  "generated_at": "2026-10-26T04:42:43Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 951,
+  "count": 952,
   "items": [
+    {
+      "source": "Ratopati",
+      "date": "2026-10-26",
+      "title": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood - Ratopati",
+      "summary": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNExNbmtBZlFHbks1R0c0OEllV3AxdWkxU2dPTXdta0U2X2N1MEJELVJidUl3YXhaOGU1M1ZPSnRWQy1wTU1qMklqMEt4SXFJQ2VCNW9mMEhVc0F1azh6dHpPd25jSHlCVUEyYmlTSmxyQUZaSjJKaVdDbUo4X2dYd0JqUndfSXNzbFl2Z1FwaHN3NHc0NmtUZk1tU3V6QkE2Y0pVbU4zYWZRVzB2eThiVF96a096UQ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "fb59f2a476197a82",
+      "first_seen_at": "2026-10-26T04:42:43Z",
+      "retained_excerpt": "Initial Assessment: 79.17 Billion NPR Damage from Rasuwa-BhoteKoshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMitgFBVV95cUxPNExNbmtBZlFHbks1R0c0OEllV3AxdWkxU2dPTXdta0U2X2N1MEJELVJidUl3YXhaOGU1M1ZPSnRWQy1wTU1qMklqMEt4SXFJQ2VCNW9mMEhVc0F1azh6dHpPd25jSHlCVUEyYmlTSmxyQUZaSjJKaVdDbUo4X2dYd0JqUndfSXNzbFl2Z1FwaHN3NHc0NmtUZk1tU3V6QkE2Y0pVbU4zYWZRVzB2eThiVF96a096UQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
     {
       "source": "Ratopati",
       "date": "2026-10-23",
@@ -117,20 +131,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-10-15",
-      "title": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting - Ratopati",
-      "summary": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVVxeGRRUWxOYmFrZGFuOEl1Y296SGJ0c0dwTUdyTVBBODNwdTNRSUZNNWYxRjJiWVFHR1RERDBJZzJvT3JZQ1pOdnBsQ0xhTVo4Tk40VGtJZ0QwRWtEaEtnaXJPYUc3Tk1vUHVwQVlhRHJXY2FqckpnZ1hmNjZXTWx4OEg4cHNiTVlKa1MxTGl2bUVId1RXakNRLVFQUEVxTkFFN3VuWGx4U1BxeEVTWGJCdjIzRkRWSGt3eVZYYXBndFFIX3l2d1lrTEF2RHN6ejBFRUhVWVVOZ2NMZGZ1LQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "733a331b926f9e5a",
-      "first_seen_at": "2026-10-25T23:14:40Z",
-      "retained_excerpt": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVVxeGRRUWxOYmFrZGFuOEl1Y296SGJ0c0dwTUdyTVBBODNwdTNRSUZNNWYxRjJiWVFHR1RERDBJZzJvT3JZQ1pOdnBsQ0xhTVo4Tk40VGtJZ0QwRWtEaEtnaXJPYUc3Tk1vUHVwQVlhRHJXY2FqckpnZ1hmNjZXTWx4OEg4cHNiTVlKa1MxTGl2bUVId1RXakNRLVFQUEVxTkFFN3VuWGx4U1BxeEVTWGJCdjIzRkRWSGt3eVZYYXBndFFIX3l2d1lrTEF2RHN6ejBFRUhVWVVOZ2NMZGZ1LQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "myRepublica",
       "date": "2026-10-15",
       "title": "Bhotekoshi flood survivors face lasting psychological trauma - myRepublica",
@@ -155,6 +155,20 @@
       "first_seen_at": "2026-10-23T04:45:22Z",
       "retained_excerpt": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXljYUZMcjRpLVQxZ0FNOXhpZHVwd2pMTmdyem1XSExWbDlhZGlmaXZsTVQtUzNxaklIWGFjeVJsVVFqMXQ1NXdkWVdVYWNDeFhYbzlsMjZkeEN4bTFuVWlWRDJJa2lVS2doRDlPU2ItdzBfYWt2cDJuWFo4aURLQWdlWWxxM2hhOHFzQVVoYUZQaF90aGg5My1vc0RmZkJWcl9FNW1XTWtha3JWN0J3VFZqSnYxS0pOSzV3?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-14",
+      "title": "Five Missing in Bhote Koshi Flood in Nepalgunj - Ratopati",
+      "summary": "Five Missing in Bhote Koshi Flood in Nepalgunj Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFdGWExrWW54cC1QRzQ4dm83Z0JjVjFTV2ZOZFlpblZFWUtQaXcyeXlyaTVfcGw3TXhGbjZBZTFWTks4OXBhdnM3bmFaOUtlTUt2NXZBdjJ4YUxjOTF6TkdlLUQ5LWllcEtLOFNsMDdVQVJPU2FnRXhtdG9Ib3lKNmdaQVBaYVE0TUpranA5Mkk4NWozNWpyZnJ6eGFWeWs?oc=5",
+      "kind": "News and reporting",
+      "record_id": "c5b0dc476f5fed08",
+      "first_seen_at": "2026-10-25T20:48:04Z",
+      "retained_excerpt": "Five Missing in Bhote Koshi Flood in Nepalgunj Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFdGWExrWW54cC1QRzQ4dm83Z0JjVjFTV2ZOZFlpblZFWUtQaXcyeXlyaTVfcGw3TXhGbjZBZTFWTks4OXBhdnM3bmFaOUtlTUt2NXZBdjJ4YUxjOTF6TkdlLUQ5LWllcEtLOFNsMDdVQVJPU2FnRXhtdG9Ib3lKNmdaQVBaYVE0TUpranA5Mkk4NWozNWpyZnJ6eGFWeWs?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -425,20 +439,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Deshsanchar",
-      "date": "2026-10-11",
-      "title": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood - Deshsanchar",
-      "summary": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood Deshsanchar",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUhRLXhqTFF2OElSM21XT2o0aG1DWk91M016WTJIOS1HVmp4UUZ2ZG1WMm5WT2ZUN1l0ZXpZVnRobG9iZmozSXF3TEpBQjNjSEtLU25NZnVpQzJRdlBZOHpHWlRvZ0xsWk11UDQtUXdTT2pDbGgtNFhrWnJMUVBZMllpX1RNUEVlTkpIZHhLZVUydVpuU3EyWTRUd2U3T09qRVFYcF9NTHc?oc=5",
-      "kind": "News and reporting",
-      "record_id": "36e7e6027db2386d",
-      "first_seen_at": "2026-10-25T23:14:40Z",
-      "retained_excerpt": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood Deshsanchar",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUhRLXhqTFF2OElSM21XT2o0aG1DWk91M016WTJIOS1HVmp4UUZ2ZG1WMm5WT2ZUN1l0ZXpZVnRobG9iZmozSXF3TEpBQjNjSEtLU25NZnVpQzJRdlBZOHpHWlRvZ0xsWk11UDQtUXdTT2pDbGgtNFhrWnJMUVBZMllpX1RNUEVlTkpIZHhLZVUydVpuU3EyWTRUd2U3T09qRVFYcF9NTHc?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Nepalnews.com",
       "date": "2026-10-10",
       "title": "Bhote Koshi flood: official death toll put at 1,457 - Nepalnews.com",
@@ -483,14 +483,14 @@
     {
       "source": "Ratopati",
       "date": "2026-10-09",
-      "title": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood - Ratopati",
-      "summary": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWlBSEIza1JpbnJlbldjMmQ1TE9TalZhV09PX1hEdS1yeGNIXzZURXYxWUZhREg1eE5jckxTU0ZnTENWLTdyMkpNa2s1WEJ0S1JwSi1UMUVmSjJIeEMtUEpBRjBNcU5MZW9wdU82SEJDQVZvR2tlSGtFdWJTOG54RzBVcTl5WW8?oc=5",
+      "title": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels - Ratopati",
+      "summary": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBSRzFMOFBaM2FBTWEyN1h3MGNldWs2UFhXVzZxaWt0M1JxYVg2NW01NUZueHZ4VERYU3VpRENRdTlsd2FKWmcwY2Q1a21rWXZEZWR0eG43eV90UU1Ob3FUWE56NXNGUGVTcFhmTlp4MmJRM19fa2pCajZJNWZZMFk5UUJaWTRzQTdFQnNhNG5jUnRIdGhfelVsT25uRWZtdUZ2dkE2czdyN0hUb244?oc=5",
       "kind": "News and reporting",
-      "record_id": "5af6a1e2ef4f5c6e",
-      "first_seen_at": "2026-10-23T11:34:34Z",
-      "retained_excerpt": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWlBSEIza1JpbnJlbldjMmQ1TE9TalZhV09PX1hEdS1yeGNIXzZURXYxWUZhREg1eE5jckxTU0ZnTENWLTdyMkpNa2s1WEJ0S1JwSi1UMUVmSjJIeEMtUEpBRjBNcU5MZW9wdU82SEJDQVZvR2tlSGtFdWJTOG54RzBVcTl5WW8?oc=5",
+      "record_id": "822a6883597594c3",
+      "first_seen_at": "2026-10-25T16:13:38Z",
+      "retained_excerpt": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBSRzFMOFBaM2FBTWEyN1h3MGNldWs2UFhXVzZxaWt0M1JxYVg2NW01NUZueHZ4VERYU3VpRENRdTlsd2FKWmcwY2Q1a21rWXZEZWR0eG43eV90UU1Ob3FUWE56NXNGUGVTcFhmTlp4MmJRM19fa2pCajZJNWZZMFk5UUJaWTRzQTdFQnNhNG5jUnRIdGhfelVsT25uRWZtdUZ2dkE2czdyN0hUb244?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1185,12 +1185,12 @@
       "date": "2026-09-29",
       "title": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage - myRepublica",
       "summary": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUNIOWVDc3JtVkhzeXZwT25kZDQ0OHBmMkJSZFF2UmpjSEZmOUhJenN0NUV5UVFlVmhWbnpVNjNET3Z0TVo5d3RuZmNpTkxHbk1adVc2Q1daWERpYVhMVFlPOWx6dWJ5dEYycnQ0SnFtdmxxT3BLd0pEQUEtRUVpRVViVi1xRWlfdlh0ejdPX0hCaTdFNzFiWThUQmV4OTlHU3pXYmI5VmFlM2Vhbkx2dTR3aFNzNHRteE10Qm9jRTlDSGND?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm4tRWliQUMxX3NHX083RWRYQVFwejNwXzBtWTU4ZHdnNFViNl81dXNIVEFVT2Y4Y2ZzQWtnR2dnNFRtN0RTUVJVcGZyUU1RUDdzbmhvUmJSWGxsRVBKRnpjd0J0ZGZlZS1POVRib0dSQzhkSFJTVkNOMDRFNDVPQmwybjZSMURkbGEyMDduMW1sM0lnbndZWHFpZHJ2WVJUMFk1ZzdKNExUZlM5dzNUdkhfcWFVbzBXN0R5WHg4Zw?oc=5",
       "kind": "News and reporting",
-      "record_id": "3831ee332a0c8b91",
-      "first_seen_at": "2026-10-17T10:39:53Z",
+      "record_id": "b8c1b60d217c7720",
+      "first_seen_at": "2026-10-25T04:37:11Z",
       "retained_excerpt": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUNIOWVDc3JtVkhzeXZwT25kZDQ0OHBmMkJSZFF2UmpjSEZmOUhJenN0NUV5UVFlVmhWbnpVNjNET3Z0TVo5d3RuZmNpTkxHbk1adVc2Q1daWERpYVhMVFlPOWx6dWJ5dEYycnQ0SnFtdmxxT3BLd0pEQUEtRUVpRVViVi1xRWlfdlh0ejdPX0hCaTdFNzFiWThUQmV4OTlHU3pXYmI5VmFlM2Vhbkx2dTR3aFNzNHRteE10Qm9jRTlDSGND?oc=5",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm4tRWliQUMxX3NHX083RWRYQVFwejNwXzBtWTU4ZHdnNFViNl81dXNIVEFVT2Y4Y2ZzQWtnR2dnNFRtN0RTUVJVcGZyUU1RUDdzbmhvUmJSWGxsRVBKRnpjd0J0ZGZlZS1POVRib0dSQzhkSFJTVkNOMDRFNDVPQmwybjZSMURkbGEyMDduMW1sM0lnbndZWHFpZHJ2WVJUMFk1ZzdKNExUZlM5dzNUdkhfcWFVbzBXN0R5WHg4Zw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1363,6 +1363,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Ratopati",
+      "date": "2026-10-15",
+      "title": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting - Ratopati",
+      "summary": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVVxeGRRUWxOYmFrZGFuOEl1Y296SGJ0c0dwTUdyTVBBODNwdTNRSUZNNWYxRjJiWVFHR1RERDBJZzJvT3JZQ1pOdnBsQ0xhTVo4Tk40VGtJZ0QwRWtEaEtnaXJPYUc3Tk1vUHVwQVlhRHJXY2FqckpnZ1hmNjZXTWx4OEg4cHNiTVlKa1MxTGl2bUVId1RXakNRLVFQUEVxTkFFN3VuWGx4U1BxeEVTWGJCdjIzRkRWSGt3eVZYYXBndFFIX3l2d1lrTEF2RHN6ejBFRUhVWVVOZ2NMZGZ1LQ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "733a331b926f9e5a",
+      "first_seen_at": "2026-10-25T23:14:40Z",
+      "retained_excerpt": "Nepal's Minister Chaudary Highlights BhoteKoshi Flood Impact at East Timor LDC Meeting Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcVVxeGRRUWxOYmFrZGFuOEl1Y296SGJ0c0dwTUdyTVBBODNwdTNRSUZNNWYxRjJiWVFHR1RERDBJZzJvT3JZQ1pOdnBsQ0xhTVo4Tk40VGtJZ0QwRWtEaEtnaXJPYUc3Tk1vUHVwQVlhRHJXY2FqckpnZ1hmNjZXTWx4OEg4cHNiTVlKa1MxTGl2bUVId1RXakNRLVFQUEVxTkFFN3VuWGx4U1BxeEVTWGJCdjIzRkRWSGt3eVZYYXBndFFIX3l2d1lrTEF2RHN6ejBFRUhVWVVOZ2NMZGZ1LQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "myRepublica",
       "date": "2026-10-15",
       "title": "Bhotekoshi flood survivors to be shifted to temporary residence within six months - myRepublica",
@@ -1373,20 +1387,6 @@
       "first_seen_at": "2026-10-15T11:25:00Z",
       "retained_excerpt": "Bhotekoshi flood survivors to be shifted to temporary residence within six months myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTNwcFk3VWhWWUhEUXNaM0tFVXhOemFrZWk2dC1JVkFUMmltUEZGWFNQeUFIc1pZc1ZwNEpCbzlaak1oRW82bm14dWNhQUd6am5iTl9kLXJiRXlhSlRJa2xfTU9IZzZKeXZkNjVwRVR3R0JVYWxvN1o3eXc3djRJUzctX0NlZ3ZoQkd6VTJVeHdaZHV3WWxZZnRHTWdoQXRtbmlSSGM5djJ5VkwyeVFXdUFPbUUydXJlMzR4eFFEek5QTlJHZHdHOTd3?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ratopati",
-      "date": "2026-10-14",
-      "title": "Five Missing in Bhote Koshi Flood in Nepalgunj - Ratopati",
-      "summary": "Five Missing in Bhote Koshi Flood in Nepalgunj Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFdGWExrWW54cC1QRzQ4dm83Z0JjVjFTV2ZOZFlpblZFWUtQaXcyeXlyaTVfcGw3TXhGbjZBZTFWTks4OXBhdnM3bmFaOUtlTUt2NXZBdjJ4YUxjOTF6TkdlLUQ5LWllcEtLOFNsMDdVQVJPU2FnRXhtdG9Ib3lKNmdaQVBaYVE0TUpranA5Mkk4NWozNWpyZnJ6eGFWeWs?oc=5",
-      "kind": "News and reporting",
-      "record_id": "c5b0dc476f5fed08",
-      "first_seen_at": "2026-10-25T20:48:04Z",
-      "retained_excerpt": "Five Missing in Bhote Koshi Flood in Nepalgunj Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFdGWExrWW54cC1QRzQ4dm83Z0JjVjFTV2ZOZFlpblZFWUtQaXcyeXlyaTVfcGw3TXhGbjZBZTFWTks4OXBhdnM3bmFaOUtlTUt2NXZBdjJ4YUxjOTF6TkdlLUQ5LWllcEtLOFNsMDdVQVJPU2FnRXhtdG9Ib3lKNmdaQVBaYVE0TUpranA5Mkk4NWozNWpyZnJ6eGFWeWs?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1419,6 +1419,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Deshsanchar",
+      "date": "2026-10-11",
+      "title": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood - Deshsanchar",
+      "summary": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood Deshsanchar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUhRLXhqTFF2OElSM21XT2o0aG1DWk91M016WTJIOS1HVmp4UUZ2ZG1WMm5WT2ZUN1l0ZXpZVnRobG9iZmozSXF3TEpBQjNjSEtLU25NZnVpQzJRdlBZOHpHWlRvZ0xsWk11UDQtUXdTT2pDbGgtNFhrWnJMUVBZMllpX1RNUEVlTkpIZHhLZVUydVpuU3EyWTRUd2U3T09qRVFYcF9NTHc?oc=5",
+      "kind": "News and reporting",
+      "record_id": "36e7e6027db2386d",
+      "first_seen_at": "2026-10-25T23:14:40Z",
+      "retained_excerpt": "Prime Minister’s relief fund reaches NPR 17.54 billion after Rasuwa flood Deshsanchar",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUUhRLXhqTFF2OElSM21XT2o0aG1DWk91M016WTJIOS1HVmp4UUZ2ZG1WMm5WT2ZUN1l0ZXpZVnRobG9iZmozSXF3TEpBQjNjSEtLU25NZnVpQzJRdlBZOHpHWlRvZ0xsWk11UDQtUXdTT2pDbGgtNFhrWnJMUVBZMllpX1RNUEVlTkpIZHhLZVUydVpuU3EyWTRUd2U3T09qRVFYcF9NTHc?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ekantipur",
       "date": "2026-10-10",
       "title": "269 children lost their parents in the Bhotekoshi flood - Ekantipur",
@@ -1435,14 +1449,14 @@
     {
       "source": "Ratopati",
       "date": "2026-10-09",
-      "title": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels - Ratopati",
-      "summary": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBSRzFMOFBaM2FBTWEyN1h3MGNldWs2UFhXVzZxaWt0M1JxYVg2NW01NUZueHZ4VERYU3VpRENRdTlsd2FKWmcwY2Q1a21rWXZEZWR0eG43eV90UU1Ob3FUWE56NXNGUGVTcFhmTlp4MmJRM19fa2pCajZJNWZZMFk5UUJaWTRzQTdFQnNhNG5jUnRIdGhfelVsT25uRWZtdUZ2dkE2czdyN0hUb244?oc=5",
+      "title": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood - Ratopati",
+      "summary": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWlBSEIza1JpbnJlbldjMmQ1TE9TalZhV09PX1hEdS1yeGNIXzZURXYxWUZhREg1eE5jckxTU0ZnTENWLTdyMkpNa2s1WEJ0S1JwSi1UMUVmSjJIeEMtUEpBRjBNcU5MZW9wdU82SEJDQVZvR2tlSGtFdWJTOG54RzBVcTl5WW8?oc=5",
       "kind": "News and reporting",
-      "record_id": "822a6883597594c3",
-      "first_seen_at": "2026-10-25T16:13:38Z",
-      "retained_excerpt": "11 Hydropower Projects Damaged by BhoteKoshi Flood, 121 Trapped in Tunnels Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirwFBVV95cUxOejBSRzFMOFBaM2FBTWEyN1h3MGNldWs2UFhXVzZxaWt0M1JxYVg2NW01NUZueHZ4VERYU3VpRENRdTlsd2FKWmcwY2Q1a21rWXZEZWR0eG43eV90UU1Ob3FUWE56NXNGUGVTcFhmTlp4MmJRM19fa2pCajZJNWZZMFk5UUJaWTRzQTdFQnNhNG5jUnRIdGhfelVsT25uRWZtdUZ2dkE2czdyN0hUb244?oc=5",
+      "record_id": "5af6a1e2ef4f5c6e",
+      "first_seen_at": "2026-10-23T11:34:34Z",
+      "retained_excerpt": "DNA Samples Collected for Missing Persons in BhoteKoshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWlBSEIza1JpbnJlbldjMmQ1TE9TalZhV09PX1hEdS1yeGNIXzZURXYxWUZhREg1eE5jckxTU0ZnTENWLTdyMkpNa2s1WEJ0S1JwSi1UMUVmSjJIeEMtUEpBRjBNcU5MZW9wdU82SEJDQVZvR2tlSGtFdWJTOG54RzBVcTl5WW8?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1951,6 +1965,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "myRepublica",
+      "date": "2026-09-29",
+      "title": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage - myRepublica",
+      "summary": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUNIOWVDc3JtVkhzeXZwT25kZDQ0OHBmMkJSZFF2UmpjSEZmOUhJenN0NUV5UVFlVmhWbnpVNjNET3Z0TVo5d3RuZmNpTkxHbk1adVc2Q1daWERpYVhMVFlPOWx6dWJ5dEYycnQ0SnFtdmxxT3BLd0pEQUEtRUVpRVViVi1xRWlfdlh0ejdPX0hCaTdFNzFiWThUQmV4OTlHU3pXYmI5VmFlM2Vhbkx2dTR3aFNzNHRteE10Qm9jRTlDSGND?oc=5",
+      "kind": "News and reporting",
+      "record_id": "3831ee332a0c8b91",
+      "first_seen_at": "2026-10-17T10:39:53Z",
+      "retained_excerpt": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxQSUNIOWVDc3JtVkhzeXZwT25kZDQ0OHBmMkJSZFF2UmpjSEZmOUhJenN0NUV5UVFlVmhWbnpVNjNET3Z0TVo5d3RuZmNpTkxHbk1adVc2Q1daWERpYVhMVFlPOWx6dWJ5dEYycnQ0SnFtdmxxT3BLd0pEQUEtRUVpRVViVi1xRWlfdlh0ejdPX0hCaTdFNzFiWThUQmV4OTlHU3pXYmI5VmFlM2Vhbkx2dTR3aFNzNHRteE10Qm9jRTlDSGND?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ministry Of Foreign Affairs",
       "date": "2026-09-29",
       "title": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood - Ministry Of Foreign Affairs",
@@ -1961,20 +1989,6 @@
       "first_seen_at": "2026-10-19T13:08:28Z",
       "retained_excerpt": "Press Briefing Note by Hon. Minister for Foreign Affairs on Bhote Koshi Flood Ministry Of Foreign Affairs",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUndHOXlPX2F6SjhwNV9mSGpMLWxuMy1OT2NSMXZ0ZU1qRlE3dGpNZmlIRWJqYXdHUTRnTndIal9LalEyVmhTc2JjNW5WcDdNNlc3ZWQtOXlCSVNZd08zWkNybEtPbjE4V3BScFBuTFVWR1lBaUFycUlFWXQ0NUdMR0ZrX0ZodEI1?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "myRepublica",
-      "date": "2026-09-29",
-      "title": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage - myRepublica",
-      "summary": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm4tRWliQUMxX3NHX083RWRYQVFwejNwXzBtWTU4ZHdnNFViNl81dXNIVEFVT2Y4Y2ZzQWtnR2dnNFRtN0RTUVJVcGZyUU1RUDdzbmhvUmJSWGxsRVBKRnpjd0J0ZGZlZS1POVRib0dSQzhkSFJTVkNOMDRFNDVPQmwybjZSMURkbGEyMDduMW1sM0lnbndZWHFpZHJ2WVJUMFk1ZzdKNExUZlM5dzNUdkhfcWFVbzBXN0R5WHg4Zw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "b8c1b60d217c7720",
-      "first_seen_at": "2026-10-25T04:37:11Z",
-      "retained_excerpt": "Insurers receive claims worth Rs 21 billion for Rasuwa flood damage myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMivwFBVV95cUxOQm4tRWliQUMxX3NHX083RWRYQVFwejNwXzBtWTU4ZHdnNFViNl81dXNIVEFVT2Y4Y2ZzQWtnR2dnNFRtN0RTUVJVcGZyUU1RUDdzbmhvUmJSWGxsRVBKRnpjd0J0ZGZlZS1POVRib0dSQzhkSFJTVkNOMDRFNDVPQmwybjZSMURkbGEyMDduMW1sM0lnbndZWHFpZHJ2WVJUMFk1ZzdKNExUZlM5dzNUdkhfcWFVbzBXN0R5WHg4Zw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
