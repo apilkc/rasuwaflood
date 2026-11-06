@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-05T23:36:53Z",
+  "generated_at": "2026-11-06T06:38:12Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 1020,
+  "total_archived": 1021,
   "items": [
     {
       "source": "Khabarhub",
@@ -16,20 +16,6 @@
       "first_seen_at": "2026-11-04T14:30:05Z",
       "retained_excerpt": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri Khabarhub",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1alF6c2hfM0JlMzdZTVFNOHl1RHgxUWJEV3VFVEZDYTNCSFE1MkdhcGFwR01nRDN3TzdnRDZJYko4R2VqNExwa3RlVDNScjJTWE53V0NwMjQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Annapurna Express",
-      "date": "2026-11-02",
-      "title": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood - The Annapurna Express",
-      "summary": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTaEVoWlJJSEs0OTRJSzBYOUxfV2tvZUdKdlBuWFdWUHpidklRQjBjZDloQUVwSmtLWDY5ejdPalFPcmFoTVpNeDlSOFJMZjZsQm4tTzNpdw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "46bc28226665b055",
-      "first_seen_at": "2026-11-02T21:41:09Z",
-      "retained_excerpt": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood The Annapurna Express",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTaEVoWlJJSEs0OTRJSzBYOUxfV2tvZUdKdlBuWFdWUHpidklRQjBjZDloQUVwSmtLWDY5ejdPalFPcmFoTVpNeDlSOFJMZjZsQm4tTzNpdw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -174,20 +160,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ekantipur",
-      "date": "2026-10-28",
-      "title": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out - Ekantipur",
-      "summary": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2F6SWxxNThJWkJMSmZOdkI5YlpIQjlLZlB0T2wxTC0yNDM5bTBMeUIxR3NTWndrem1lOU1BeU9fZy1fZWI0ZkcwcHRxTmMzeXVFLUd0U19feDdReTU4S2FmYUN5cDVLdVFCT3Bua2xNaThzWDVDWDd3enA5dFAyNFhZbDBUVVBiM3pjenFyMm8tV3daWjhpTWlJTHJ2RnZ3NHN3cmVMcHlEd1o2ZTdWQVJFUGFWNVdzYURlbEZ0MjFwQnM?oc=5",
-      "kind": "News and reporting",
-      "record_id": "59f7d588f6c0d94a",
-      "first_seen_at": "2026-10-28T20:14:41Z",
-      "retained_excerpt": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2F6SWxxNThJWkJMSmZOdkI5YlpIQjlLZlB0T2wxTC0yNDM5bTBMeUIxR3NTWndrem1lOU1BeU9fZy1fZWI0ZkcwcHRxTmMzeXVFLUd0U19feDdReTU4S2FmYUN5cDVLdVFCT3Bua2xNaThzWDVDWDd3enA5dFAyNFhZbDBUVVBiM3pjenFyMm8tV3daWjhpTWlJTHJ2RnZ3NHN3cmVMcHlEd1o2ZTdWQVJFUGFWNVdzYURlbEZ0MjFwQnM?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "The Kathmandu Post",
       "date": "2026-10-28",
       "title": "Insurers have paid just 4 percent of Bhotekoshi flood claims - The Kathmandu Post",
@@ -296,6 +268,20 @@
       "first_seen_at": "2026-10-29T09:54:30Z",
       "retained_excerpt": "1,204 Bodies Found After Bhote Koshi Flood in Rasuwa; 4,216 Missing Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMigAFBVV95cUxOaFY5akczaFp3Q2JrNUNMb2UyYXlBZ1hJaGJFUkNHX1BRZmhXX0hHTmpDM2pkUTRLdHhIX1RyOXhfRU85ZE1EM1pueVBDd21iRUVXSmdqcTQ5YmxGN2dWZ2huSVZIMVpZdVc1MzhRNk0wMk9qcloyTkYwNUZmY2NHeQ?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-24",
+      "title": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation - Ratopati",
+      "summary": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWNuU1BzeElHOVQybXgxX2VRUXdyV0pKUGU2OFB0U2ZDZ050RWZVQlB5RElNel94QUZtbDJ1OWhuMWMxcjFYNEprU1VxY2ZuR0huVW1rbE5kaEZKdVR2VFd4bm1sZDU1Uzl2dk5HYWxCcDBHZjVvdUZSZ0V6bGNvUS15cUoyVXhjWmdHZXRmQmJSaXFXd2U3c0lrLS14dw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "9ec19baa794e79a5",
+      "first_seen_at": "2026-11-06T06:38:12Z",
+      "retained_excerpt": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMingFBVV95cUxPMWNuU1BzeElHOVQybXgxX2VRUXdyV0pKUGU2OFB0U2ZDZ050RWZVQlB5RElNel94QUZtbDJ1OWhuMWMxcjFYNEprU1VxY2ZuR0huVW1rbE5kaEZKdVR2VFd4bm1sZDU1Uzl2dk5HYWxCcDBHZjVvdUZSZ0V6bGNvUS15cUoyVXhjWmdHZXRmQmJSaXFXd2U3c0lrLS14dw?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -608,6 +594,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "The Annapurna Express",
+      "date": "2026-11-02",
+      "title": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood - The Annapurna Express",
+      "summary": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTaEVoWlJJSEs0OTRJSzBYOUxfV2tvZUdKdlBuWFdWUHpidklRQjBjZDloQUVwSmtLWDY5ejdPalFPcmFoTVpNeDlSOFJMZjZsQm4tTzNpdw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "46bc28226665b055",
+      "first_seen_at": "2026-11-02T21:41:09Z",
+      "retained_excerpt": "Foreign Secretary Rai: China failed to provide timely warning on Bhotekoshi flood The Annapurna Express",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTaEVoWlJJSEs0OTRJSzBYOUxfV2tvZUdKdlBuWFdWUHpidklRQjBjZDloQUVwSmtLWDY5ejdPalFPcmFoTVpNeDlSOFJMZjZsQm4tTzNpdw?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ekantipur",
       "date": "2026-10-31",
       "title": "Bhotekoshi flood victims have still not received the 15,000 rupees in house rent assistance. - Ekantipur",
@@ -702,6 +702,20 @@
       "first_seen_at": "2026-10-29T09:54:30Z",
       "retained_excerpt": "US provides additional DNA-testing supplies to help identify Bhote Koshi flood victims Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxNazBmTjYtU2FkQ2pqek5UQzFySmJXTkFxNW1jR2lPZ0p5SWtZdkFjengyM0dxMFJ1WDlBbllRN0wwMlBMd0ttS1VGTnk1cVYzbFlEN3pPc05FdU5TRGhyOTJwdzM2Vi05aHVfSWxSZmxsMHBTS2ZCZHEtNXFjZm83aHA4NF95c1NmQnNfMjE0T2lkeEhsNnVPZjhUcnZ3ZlhCUVBTdjBGYUwya1NXdnZUaUFjWThLbFM0enk1N1A0N3pUUEFk?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ekantipur",
+      "date": "2026-10-28",
+      "title": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out - Ekantipur",
+      "summary": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out Ekantipur",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2F6SWxxNThJWkJMSmZOdkI5YlpIQjlLZlB0T2wxTC0yNDM5bTBMeUIxR3NTWndrem1lOU1BeU9fZy1fZWI0ZkcwcHRxTmMzeXVFLUd0U19feDdReTU4S2FmYUN5cDVLdVFCT3Bua2xNaThzWDVDWDd3enA5dFAyNFhZbDBUVVBiM3pjenFyMm8tV3daWjhpTWlJTHJ2RnZ3NHN3cmVMcHlEd1o2ZTdWQVJFUGFWNVdzYURlbEZ0MjFwQnM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "59f7d588f6c0d94a",
+      "first_seen_at": "2026-10-28T20:14:41Z",
+      "retained_excerpt": "Claim of Rs 21 billion for damage caused by the Bhotekoshi flood, with barely 4 percent paid out Ekantipur",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2F6SWxxNThJWkJMSmZOdkI5YlpIQjlLZlB0T2wxTC0yNDM5bTBMeUIxR3NTWndrem1lOU1BeU9fZy1fZWI0ZkcwcHRxTmMzeXVFLUd0U19feDdReTU4S2FmYUN5cDVLdVFCT3Bua2xNaThzWDVDWDd3enA5dFAyNFhZbDBUVVBiM3pjenFyMm8tV3daWjhpTWlJTHJ2RnZ3NHN3cmVMcHlEd1o2ZTdWQVJFUGFWNVdzYURlbEZ0MjFwQnM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -828,20 +842,6 @@
       "first_seen_at": "2026-10-28T12:49:52Z",
       "retained_excerpt": "Two months since Bhotekoshi flood: Relatives continue waiting for DNA report of missing ones Hamro Patro",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGdsTXRyeEI5eUxwSjcyYTFqTjVzR2lQaXFsLXN2aVpTanJ4QlhfbTZjZmdQNWRNa3NYYVdNVFp6SVcwN3U2RkExWWVxRThTdjVXSmJVNmVXek5yZVBNYmN3N25yNERpOUNUZWlCWm1TMEdFTU5BbUw4clhSYnpIYk41N0U1VEw1SFh2Qm92b0UxMnVJYlpkRjlXTnpoU0dGWHVjUFM0ZmhTQXptT0dBM1hQV01HUFd6a2llWWdGa0pGTng2Q0E?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Hamro Patro",
-      "date": "2026-10-27",
-      "title": "Two months since Bhote Koshi flood: Relatives continue waiting for DNA report of missing ones - Hamro Patro",
-      "summary": "Two months since Bhote Koshi flood: Relatives continue waiting for DNA report of missing ones Hamro Patro",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW9yLWh5QVIwVjdkQnVKREdJSHJjSmd1ZE5VTE11Z2o5d3dnc0FUT3pEZVFqVFFKTDhMNU5rRGozdDhCRWRtQURqRFQ1dXlOV1RCMkxic25GQ3ZleVFiTGZMWTBjZW81NUZIOG9lcUFwWGZpSmxzc0JHOFFQTWZkS1lFWmhIcTA3a2o3aF96WkZ4VzdJNURmeUprRl9xNk9mcmxTRFNQYjBpa0RCek9GaHAxWDJMcGpsOWxOT0JraHBMQQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "1d26c9c9268c4f3d",
-      "first_seen_at": "2026-10-28T05:38:02Z",
-      "retained_excerpt": "Two months since Bhote Koshi flood: Relatives continue waiting for DNA report of missing ones Hamro Patro",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW9yLWh5QVIwVjdkQnVKREdJSHJjSmd1ZE5VTE11Z2o5d3dnc0FUT3pEZVFqVFFKTDhMNU5rRGozdDhCRWRtQURqRFQ1dXlOV1RCMkxic25GQ3ZleVFiTGZMWTBjZW81NUZIOG9lcUFwWGZpSmxzc0JHOFFQTWZkS1lFWmhIcTA3a2o3aF96WkZ4VzdJNURmeUprRl9xNk9mcmxTRFNQYjBpa0RCek9GaHAxWDJMcGpsOWxOT0JraHBMQQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
