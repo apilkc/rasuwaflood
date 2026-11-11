@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:17:11Z",
+  "generated_at": "2026-11-11T06:10:10Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
@@ -328,6 +328,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "ReliefWeb",
+      "date": "2026-10-29",
+      "title": "Nepal: Rasuwa Flood - Dhading District: Operational Presence of Partners by Municipality (As of 29 October 2026) - ReliefWeb",
+      "summary": "Nepal: Rasuwa Flood - Dhading District: Operational Presence of Partners by Municipality (As of 29 October 2026) ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVNuQjZTci1JaWhjQUhwZHUyeHZGdmZzMy15QlJUYkNydnFDbHBQYXFwS01OcmJtdnZRcjVLWEdQblpTS2pLN0FKaE1wQXduUmpRMnE2bFZtd2FxREJ5YXFSRmN2VlJaLU5hZ0Z3ek5Ic1AycnAyWFhXdmU2UTE4MHNrbGZBNXVRSVdqMkJBbVVJRk5lTFNhV1NWXy1xWU1TZDRKRl9haVIxMDNyWGZrbExQTmg3TFJjelRlbXNNdXFKQmdMQ3RhUg?oc=5",
+      "kind": "News and reporting",
+      "record_id": "727f107b04d97caf",
+      "first_seen_at": "2026-11-05T23:36:53Z",
+      "retained_excerpt": "Nepal: Rasuwa Flood - Dhading District: Operational Presence of Partners by Municipality (As of 29 October 2026) ReliefWeb",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVNuQjZTci1JaWhjQUhwZHUyeHZGdmZzMy15QlJUYkNydnFDbHBQYXFwS01OcmJtdnZRcjVLWEdQblpTS2pLN0FKaE1wQXduUmpRMnE2bFZtd2FxREJ5YXFSRmN2VlJaLU5hZ0Z3ek5Ic1AycnAyWFhXdmU2UTE4MHNrbGZBNXVRSVdqMkJBbVVJRk5lTFNhV1NWXy1xWU1TZDRKRl9haVIxMDNyWGZrbExQTmg3TFJjelRlbXNNdXFKQmdMQ3RhUg?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Ratopati",
       "date": "2026-10-28",
       "title": "Rasuwa Flood Causes Major Damage, Thousands Missing - Ratopati",
@@ -482,20 +496,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-10-24",
-      "title": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation - Ratopati",
-      "summary": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWNuU1BzeElHOVQybXgxX2VRUXdyV0pKUGU2OFB0U2ZDZ050RWZVQlB5RElNel94QUZtbDJ1OWhuMWMxcjFYNEprU1VxY2ZuR0huVW1rbE5kaEZKdVR2VFd4bm1sZDU1Uzl2dk5HYWxCcDBHZjVvdUZSZ0V6bGNvUS15cUoyVXhjWmdHZXRmQmJSaXFXd2U3c0lrLS14dw?oc=5",
-      "kind": "News and reporting",
-      "record_id": "9ec19baa794e79a5",
-      "first_seen_at": "2026-11-06T06:38:12Z",
-      "retained_excerpt": "Fathers Search for Missing Sons Amidst Bhote Koshi Flood Devastation Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMingFBVV95cUxPMWNuU1BzeElHOVQybXgxX2VRUXdyV0pKUGU2OFB0U2ZDZ050RWZVQlB5RElNel94QUZtbDJ1OWhuMWMxcjFYNEprU1VxY2ZuR0huVW1rbE5kaEZKdVR2VFd4bm1sZDU1Uzl2dk5HYWxCcDBHZjVvdUZSZ0V6bGNvUS15cUoyVXhjWmdHZXRmQmJSaXFXd2U3c0lrLS14dw?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-10-19",
       "title": "Compassionate Dog: ‘Aloka’ Arrives With Relief for Bhotekoshi Flood Victims - Ekantipur",
@@ -612,12 +612,12 @@
       "date": "2026-10-14",
       "title": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood - myRepublica",
       "summary": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjFFX3otaC1KMzFhYUhUNm1EQTE2aEJFd2UzbUlCdFY3ek80SzVNWEE2TVBZa3VxWFNpakdZZU5PcTBaMTFBWHlqNmd3dkg3TDIyTllHNU5EaFUwU3diMXkyOE1Ba3BwNEVhR012eXZSZkdSVU5HTTcyRDhkNkM2UzBoNzlPZHo5ZU9uQTUyTGltU3FLTVVkd0NtV1BuUHFqMXdNT0drc043WUl4X3Z4STZOSWxSV1I2Ny0yZDdMV3RsQ0ZsY3ZscnU5Smw5MkRWbTJlYkxqNUpfVDVxaVVj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFBoVm1KOUhXc055ekUxdTRZeFRCM1FTMm1BRDBMRFdEU3A0NWt2dXJINUhwTUNJTXVpWDhvV3NrUlhPamx2YlRTb2VnSDRvTmZMSVZaWUdoNWNqMHBBazBaQmNRZTlEbE5jb1VUMVRiQVZSMEpnc2Nld2tJMVhQdWl5VFJRM3NMUlhjOV9CYkYtVUlNcDI1Z201TjRQeXJQR2VrUmRxTTNQMHY3U1g5YVBBT2JDQ2tjaXRBemE3V3BrWm5rTEdPR25LLVE?oc=5",
       "kind": "News and reporting",
-      "record_id": "9953a196869589e5",
-      "first_seen_at": "2026-11-08T10:15:38Z",
+      "record_id": "b80108cb5bfa614d",
+      "first_seen_at": "2026-11-06T16:44:11Z",
       "retained_excerpt": "Govt distributes Rs 45,000 each to 4,108 households hit by Bhotekoshi flood myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjFFX3otaC1KMzFhYUhUNm1EQTE2aEJFd2UzbUlCdFY3ek80SzVNWEE2TVBZa3VxWFNpakdZZU5PcTBaMTFBWHlqNmd3dkg3TDIyTllHNU5EaFUwU3diMXkyOE1Ba3BwNEVhR012eXZSZkdSVU5HTTcyRDhkNkM2UzBoNzlPZHo5ZU9uQTUyTGltU3FLTVVkd0NtV1BuUHFqMXdNT0drc043WUl4X3Z4STZOSWxSV1I2Ny0yZDdMV3RsQ0ZsY3ZscnU5Smw5MkRWbTJlYkxqNUpfVDVxaVVj?oc=5",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFBoVm1KOUhXc055ekUxdTRZeFRCM1FTMm1BRDBMRFdEU3A0NWt2dXJINUhwTUNJTXVpWDhvV3NrUlhPamx2YlRTb2VnSDRvTmZMSVZaWUdoNWNqMHBBazBaQmNRZTlEbE5jb1VUMVRiQVZSMEpnc2Nld2tJMVhQdWl5VFJRM3NMUlhjOV9CYkYtVUlNcDI1Z201TjRQeXJQR2VrUmRxTTNQMHY3U1g5YVBBT2JDQ2tjaXRBemE3V3BrWm5rTEdPR25LLVE?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
