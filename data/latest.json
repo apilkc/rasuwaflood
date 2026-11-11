@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-11T06:10:10Z",
+  "generated_at": "2026-11-11T14:15:57Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 60,
-  "total_archived": 1043,
+  "total_archived": 1045,
   "items": [
     {
       "source": "Ratopati",
@@ -16,6 +16,20 @@
       "first_seen_at": "2026-11-10T14:49:34Z",
       "retained_excerpt": "Bagmati Province Government Cuts 6 Billion Rupees Budget for Bhote Koshi Flood Reconstruction Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDFPSWRTcWtZRU1idU4xWEtVckQ3WUd5MlpYcjVCOTlvLTNhX2JFWXZ3enNTTkFGLVlERXhHbllHMzRaWG9aZGo4VDZ6NVROcmhaR2JNRE9BNjB0OGZ2c3F3YXdFNmNFdE93Z0habU9ZZjJlbTFFRFJQVmJTWnd0MnJjVW8zcDZQdUtFUFNTLUZ6b3JsN2E2YzJ4dVJHbXJycXNCTmR0dmFxUFRwb1hTajd5RnVmM2NpY2dpZkYyREFQVFhFVkplNktB?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "ReliefWeb",
+      "date": "2026-11-09",
+      "title": "Rasuwa Flood Response 2026, Situation Report 15 - ReliefWeb",
+      "summary": "Rasuwa Flood Response 2026, Situation Report 15 ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzJNTV9fVjZlazUwRkxnaHZqUklKQVFRTld1ZlprNFI3eDRWTUFXQmxQUi1ucThqNzRLbXZGM2NVYVNIWWVEZ2ItNm92cFBvRk1yakszb3BpNU1oaWRsLTZSX2F6QlY4c0JjblJHb0s3dkJTRW1pU1pWZXNyUGZmNHA3cUVGeWx4?oc=5",
+      "kind": "News and reporting",
+      "record_id": "ae32b03740bc0fe6",
+      "first_seen_at": "2026-11-11T14:15:57Z",
+      "retained_excerpt": "Rasuwa Flood Response 2026, Situation Report 15 ReliefWeb",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzJNTV9fVjZlazUwRkxnaHZqUklKQVFRTld1ZlprNFI3eDRWTUFXQmxQUi1ucThqNzRLbXZGM2NVYVNIWWVEZ2ItNm92cFBvRk1yakszb3BpNU1oaWRsLTZSX2F6QlY4c0JjblJHb0s3dkJTRW1pU1pWZXNyUGZmNHA3cUVGeWx4?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -160,20 +174,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Khabarhub",
-      "date": "2026-11-04",
-      "title": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri - Khabarhub",
-      "summary": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1alF6c2hfM0JlMzdZTVFNOHl1RHgxUWJEV3VFVEZDYTNCSFE1MkdhcGFwR01nRDN3TzdnRDZJYko4R2VqNExwa3RlVDNScjJTWE53V0NwMjQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "f225febb850d939c",
-      "first_seen_at": "2026-11-04T14:30:05Z",
-      "retained_excerpt": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1alF6c2hfM0JlMzdZTVFNOHl1RHgxUWJEV3VFVEZDYTNCSFE1MkdhcGFwR01nRDN3TzdnRDZJYko4R2VqNExwa3RlVDNScjJTWE53V0NwMjQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ratopati",
       "date": "2026-11-02",
       "title": "National Authority Studies Geography for Permanent Housing for BhoteKoshi Flood Victims - Ratopati",
@@ -282,6 +282,34 @@
       "first_seen_at": "2026-10-30T09:57:32Z",
       "retained_excerpt": "Government to Publicize Detailed Report on Bhote Koshi Flood Damage Before Tihar Ratopati",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazJ4ZGpHNnI3cGlKWHdwb2lpMWpPd05mT0FwbU1fcS1LOUx6Q3JYNjUxZTVSMHcwLWRONm5Ga2pxWml5aFNVVTJ1TEF3RlBIT0VLWjRDaWhETWdYUUQyRFQ3RUVVSXh5OEpGTzlrWWhFMkdmZzlWYndiUDBtVzE5YVkzNTNoVllVWnZhY1cyUXVGTnBMRnd5UHpJSXF2YTZZOVVBc1ZFRHJ2bmEwSFQ0cnpCN2tJT1M3NDRaaG1QWjRpT1hKLWhBand6NEJkWFNQc3Buaw?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-30",
+      "title": "332 Dead in Bhote Koshi Flood in Rasuwa - Ratopati",
+      "summary": "332 Dead in Bhote Koshi Flood in Rasuwa Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGE0TWM1S3JnckhXMnRBbVNEdzl0YTVlV25iRmE3dGhhTnRzVUplazQ0MkozenZ4YWRtbU9xRXBndUtGTEI5TmtpR01NYnJGZWpwTWx5WUMzYjJVQlViRTk4VDFwNTNlWUR6WkJmNTNSeTJqUnY0MEd3c2o3eFRHaFJJZmpIUWR6WVdYNmM1TEw?oc=5",
+      "kind": "News and reporting",
+      "record_id": "41911ec664adc523",
+      "first_seen_at": "2026-11-11T14:15:57Z",
+      "retained_excerpt": "332 Dead in Bhote Koshi Flood in Rasuwa Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGE0TWM1S3JnckhXMnRBbVNEdzl0YTVlV25iRmE3dGhhTnRzVUplazQ0MkozenZ4YWRtbU9xRXBndUtGTEI5TmtpR01NYnJGZWpwTWx5WUMzYjJVQlViRTk4VDFwNTNlWUR6WkJmNTNSeTJqUnY0MEd3c2o3eFRHaFJJZmpIUWR6WVdYNmM1TEw?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-29",
+      "title": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood - Ratopati",
+      "summary": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6678d694516006e2",
+      "first_seen_at": "2026-10-14T11:48:24Z",
+      "retained_excerpt": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -524,20 +552,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Nepal Khabar",
-      "date": "2026-10-17",
-      "title": "Global IME bank pledges Rs 50 million for Bhotekoshi flood victims - Nepal Khabar",
-      "summary": "Global IME bank pledges Rs 50 million for Bhotekoshi flood victims Nepal Khabar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zVllQNHVLazhxMzh0NFIxemR0TVJqLWlkd2RCS2daT3FjZE96NkxUcVoxaHBKaHRnN0NxRldWOXN0azlMVnN1RlVKWk1TcXA0bnktaGtVYjA?oc=5",
-      "kind": "News and reporting",
-      "record_id": "57b4154f49b9375a",
-      "first_seen_at": "2026-10-22T11:47:54Z",
-      "retained_excerpt": "Global IME bank pledges Rs 50 million for Bhotekoshi flood victims Nepal Khabar",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zVllQNHVLazhxMzh0NFIxemR0TVJqLWlkd2RCS2daT3FjZE96NkxUcVoxaHBKaHRnN0NxRldWOXN0azlMVnN1RlVKWk1TcXA0bnktaGtVYjA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ratopati",
       "date": "2026-10-16",
       "title": "DNA Testing Nears Completion for Bhote Koshi Flood Victims - Ratopati",
@@ -664,48 +678,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "OnlineKhabar English News",
-      "date": "2026-10-12",
-      "title": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead - OnlineKhabar English News",
-      "summary": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead OnlineKhabar English News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMS03VWh3MkZZWDV1STBMNVMzQVlpbVVsTmZyWkN0QVB3QkRQTVJqZGNvWkZ0RVJody1HQ0s5ZkZHTkJFSWJSeGx2WG8wUjRhTUdSZVJPQXZKOW1rYmljZHVFVEduNnJoOVNmdWxWbm14elVwRjVpYTM1bUY0eW5QcQ?oc=5",
-      "kind": "News and reporting",
-      "record_id": "e439a7747e18165f",
-      "first_seen_at": "2026-10-13T19:14:49Z",
-      "retained_excerpt": "Govt introduces procedure to declare missing Bhotekoshi flood victims legally dead OnlineKhabar English News",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMigAFBVV95cUxQMS03VWh3MkZZWDV1STBMNVMzQVlpbVVsTmZyWkN0QVB3QkRQTVJqZGNvWkZ0RVJody1HQ0s5ZkZHTkJFSWJSeGx2WG8wUjRhTUdSZVJPQXZKOW1rYmljZHVFVEduNnJoOVNmdWxWbm14elVwRjVpYTM1bUY0eW5QcQ?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "ReliefWeb",
-      "date": "2026-10-12",
-      "title": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) - ReliefWeb",
-      "summary": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkdzR0gwSU5LZmlCTzN3dHY5Z0FrQ01ETktiVFIyMGZvUks5QXk4Smc3NF9LOEF1bjAxenRzTFBWQVNmUlFVVE93MWFXVmxCR2UzaXdOZGZXWTktc2lYeWpxQWstajVMQmx4MnptV2VWYklMNldWZ0tZT1ZyWEJXYjFMb3RzNkgxNy04SUJXNVhFNVBjanhN?oc=5",
-      "kind": "News and reporting",
-      "record_id": "4480725ede6e84e3",
-      "first_seen_at": "2026-10-14T11:48:24Z",
-      "retained_excerpt": "Nepal: Rasuwa Flood Situation Report No. 11 (As of 12 October 2026) ReliefWeb",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMilwFBVV95cUxPNkdzR0gwSU5LZmlCTzN3dHY5Z0FrQ01ETktiVFIyMGZvUks5QXk4Smc3NF9LOEF1bjAxenRzTFBWQVNmUlFVVE93MWFXVmxCR2UzaXdOZGZXWTktc2lYeWpxQWstajVMQmx4MnptV2VWYklMNldWZ0tZT1ZyWEJXYjFMb3RzNkgxNy04SUJXNVhFNVBjanhN?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ekantipur",
-      "date": "2026-10-12",
-      "title": "Nepali article: The song about the Bhotekoshi flood incident resonated in ‘Gandharva Gunjan’ - Ekantipur",
-      "summary": "Nepali article: The song about the Bhotekoshi flood incident resonated in ‘Gandharva Gunjan’ Ekantipur",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2w3NTVTUzJTRTdRY29iNmtsc1FNT3FGc29JMWRjQ3VJOVZpakRWMTR5UGk4OE9DbS04aHZBbm8yTFdINkUtSm9McWsyTF82TnVIU2FYcjFFUUhQX1htcGpJLVZicVd5bTkzVThwUXRIZWlTTEhQd2tzUHN6R3kzSWNFbVFTOGcxb1VpMkRFamtIRHNIa0kxZHloNWdzUkgwcEZxWHJjd1FzYVRhX2FsSTI2N1RhSWdxS2VBdG5ieTg?oc=5",
-      "kind": "News and reporting",
-      "record_id": "dc359e28d7588291",
-      "first_seen_at": "2026-11-09T06:20:35Z",
-      "retained_excerpt": "Nepali article: The song about the Bhotekoshi flood incident resonated in ‘Gandharva Gunjan’ Ekantipur",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2w3NTVTUzJTRTdRY29iNmtsc1FNT3FGc29JMWRjQ3VJOVZpakRWMTR5UGk4OE9DbS04aHZBbm8yTFdINkUtSm9McWsyTF82TnVIU2FYcjFFUUhQX1htcGpJLVZicVd5bTkzVThwUXRIZWlTTEhQd2tzUHN6R3kzSWNFbVFTOGcxb1VpMkRFamtIRHNIa0kxZHloNWdzUkgwcEZxWHJjd1FzYVRhX2FsSTI2N1RhSWdxS2VBdG5ieTg?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "The Annapurna Express",
       "date": "2026-11-08",
       "title": "List of 63 people from Jumla missing in Bhotekoshi flood made public - The Annapurna Express",
@@ -716,6 +688,20 @@
       "first_seen_at": "2026-11-09T06:20:35Z",
       "retained_excerpt": "List of 63 people from Jumla missing in Bhotekoshi flood made public The Annapurna Express",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SlFmU09JVEltS0F3NHBRRm5QNGZtUUh1bFhpeGhfUkdCY1lxckpIUjdzZTQteFgtcmdHckd6dWl3QzFMYWpTVG5RSDNMUzNRX2JUeXpqMA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-11-04",
+      "title": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri - Khabarhub",
+      "summary": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1alF6c2hfM0JlMzdZTVFNOHl1RHgxUWJEV3VFVEZDYTNCSFE1MkdhcGFwR01nRDN3TzdnRDZJYko4R2VqNExwa3RlVDNScjJTWE53V0NwMjQ?oc=5",
+      "kind": "News and reporting",
+      "record_id": "f225febb850d939c",
+      "first_seen_at": "2026-11-04T14:30:05Z",
+      "retained_excerpt": "India ready to assist Nepal in rebuilding Bhotekoshi flood-damaged infrastructure: Misri Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1alF6c2hfM0JlMzdZTVFNOHl1RHgxUWJEV3VFVEZDYTNCSFE1MkdhcGFwR01nRDN3TzdnRDZJYko4R2VqNExwa3RlVDNScjJTWE53V0NwMjQ?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -842,6 +828,20 @@
       "first_seen_at": "2026-11-07T12:56:22Z",
       "retained_excerpt": "Nepal: Rasuwa Flood - Rasuwa District: Operational Presence of Partners by Municipality (As of 29 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixwFBVV95cUxNYnZaQnlXdlhJaFNzR0RpN1BxSTF0ZDkxQ3FpQmNmSlNrZm8tMUhINzlmbW5XTVNVcHNOUWtvdndHOGFacndMNEhnUmpGQWc5NlRNT293aXdPWHRZUjZKTU5SN3BFWU54Q3l0UWo4WkQ3MWF1OHc1WGRwMEpaY0I1TE5VeWRvLTB4TUdINEhxMDZESGFtSm9SMUJsUEtIUEFQNmJkUjNSYldxM25TYWxLUVYzX1d2cEVpX3Bfc3pBODZtQnd0OFU0?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Nepalnews.com",
+      "date": "2026-10-29",
+      "title": "US provides additional DNA-testing supplies to help identify Bhote Koshi flood victims - Nepalnews.com",
+      "summary": "US provides additional DNA-testing supplies to help identify Bhote Koshi flood victims Nepalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNazBmTjYtU2FkQ2pqek5UQzFySmJXTkFxNW1jR2lPZ0p5SWtZdkFjengyM0dxMFJ1WDlBbllRN0wwMlBMd0ttS1VGTnk1cVYzbFlEN3pPc05FdU5TRGhyOTJwdzM2Vi05aHVfSWxSZmxsMHBTS2ZCZHEtNXFjZm83aHA4NF95c1NmQnNfMjE0T2lkeEhsNnVPZjhUcnZ3ZlhCUVBTdjBGYUwya1NXdnZUaUFjWThLbFM0enk1N1A0N3pUUEFk?oc=5",
+      "kind": "News and reporting",
+      "record_id": "7a345ffbb26f5fc0",
+      "first_seen_at": "2026-10-29T09:54:30Z",
+      "retained_excerpt": "US provides additional DNA-testing supplies to help identify Bhote Koshi flood victims Nepalnews.com",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxNazBmTjYtU2FkQ2pqek5UQzFySmJXTkFxNW1jR2lPZ0p5SWtZdkFjengyM0dxMFJ1WDlBbllRN0wwMlBMd0ttS1VGTnk1cVYzbFlEN3pPc05FdU5TRGhyOTJwdzM2Vi05aHVfSWxSZmxsMHBTS2ZCZHEtNXFjZm83aHA4NF95c1NmQnNfMjE0T2lkeEhsNnVPZjhUcnZ3ZlhCUVBTdjBGYUwya1NXdnZUaUFjWThLbFM0enk1N1A0N3pUUEFk?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     }
