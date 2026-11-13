@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T17:10:57Z",
+  "generated_at": "2026-11-13T23:30:15Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 1048,
+  "count": 1049,
   "items": [
     {
       "source": "Ratopati",
@@ -169,6 +169,20 @@
       "first_seen_at": "2026-11-02T10:58:25Z",
       "retained_excerpt": "Rapid Gender Analysis: Bhotekoshi Flood 2026, Nepal ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMijAFBVV95cUxQcW9ucmMydDN4TzdUTWhicmJTMUVMU2tXeEVOeXlqVEVDamx2aFFHaVNIc1BfMzFSZTRHZGZTVGdlY2RFWUs5bF95SW9KaE1IMWFSZ3ZkeVg2TGVMczdteFZtUVNPQkI5TnZnQURmcDJVSVltWllNeUhBU2NiTDduOEl2eHpVY3YtcFpVNA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-11-01",
+      "title": "Woman Awaits News of Husband Missing in Rasuwa Flood - Ratopati",
+      "summary": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
+      "kind": "News and reporting",
+      "record_id": "457e28b3eda7993a",
+      "first_seen_at": "2026-11-13T23:30:15Z",
+      "retained_excerpt": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -351,20 +365,6 @@
       "first_seen_at": "2026-11-05T23:36:53Z",
       "retained_excerpt": "Nepal: Rasuwa Flood - Dhading District: Operational Presence of Partners by Municipality (As of 29 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVNuQjZTci1JaWhjQUhwZHUyeHZGdmZzMy15QlJUYkNydnFDbHBQYXFwS01OcmJtdnZRcjVLWEdQblpTS2pLN0FKaE1wQXduUmpRMnE2bFZtd2FxREJ5YXFSRmN2VlJaLU5hZ0Z3ek5Ic1AycnAyWFhXdmU2UTE4MHNrbGZBNXVRSVdqMkJBbVVJRk5lTFNhV1NWXy1xWU1TZDRKRl9haVIxMDNyWGZrbExQTmg3TFJjelRlbXNNdXFKQmdMQ3RhUg?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ratopati",
-      "date": "2026-10-29",
-      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
-      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
-      "kind": "News and reporting",
-      "record_id": "70d0ca9c487a12e0",
-      "first_seen_at": "2026-10-08T10:31:40Z",
-      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -771,6 +771,20 @@
       "first_seen_at": "2026-10-30T22:15:47Z",
       "retained_excerpt": "Bhotekoshi flood: Kavre local governments seek details of missing residents myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXRlbmZ3ek8zei1IVTVBZnRTZ3NMQ29EM3hVa1BtdHJNdFEzYVJySFZueVE3VFlHTkd6eU1qTXlmQ0ppaXNvNjMwUHk5RVpNS24yaE9nM3FKaXZ0VmlwOUYtYWZTWUlTQmZWRkl4cDg5Zi1aWFZWMEJ2bXJvV0Nic19uWUhmdFgwUkNRbmI3NThKRnBHOGV4cGtRYy1kcVlrbGdoVFNsSF83NVhFck4zVmFwcDg5ZlI3VFgtOXJsMEo2UXlmVm81eA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-29",
+      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
+      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
+      "kind": "News and reporting",
+      "record_id": "70d0ca9c487a12e0",
+      "first_seen_at": "2026-10-08T10:31:40Z",
+      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
