@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-11-14T06:16:17Z",
+  "generated_at": "2026-11-14T13:35:40Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
-  "count": 1050,
+  "count": 1051,
   "items": [
+    {
+      "source": "The Rising Nepal",
+      "date": "2026-11-14",
+      "title": "NCRC appeals for support Bhotekoshi flood-affected children - The Rising Nepal",
+      "summary": "NCRC appeals for support Bhotekoshi flood-affected children The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NUFh2LXlXUkpwc05SV2J5OGI5b1FkV01fVjBMTzhpdmNZbUJMMVVnaHZEd0FVdEIteGdsNTBpTkZfOGpzaEphdk1VV2VyTUNO?oc=5",
+      "kind": "News and reporting",
+      "record_id": "3add4c424ab107ca",
+      "first_seen_at": "2026-11-14T13:35:40Z",
+      "retained_excerpt": "NCRC appeals for support Bhotekoshi flood-affected children The Rising Nepal",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NUFh2LXlXUkpwc05SV2J5OGI5b1FkV01fVjBMTzhpdmNZbUJMMVVnaHZEd0FVdEIteGdsNTBpTkZfOGpzaEphdk1VV2VyTUNO?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
     {
       "source": "Ratopati",
       "date": "2026-11-10",
@@ -89,20 +103,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "myRepublica",
-      "date": "2026-11-08",
-      "title": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released - myRepublica",
-      "summary": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released myRepublica",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjZRci1TTnJId2pfUFVScUtoR3kyWC15OXpvazBYWWVlYXo5cGRzeGZpLTdlajRPak8zdjdxTDFZeHJNbWctWnozUEM3bDkzRnZaeFJ0RS1LdDV5N2NlVmgzRDdOU0FPaEhsVzJjMWNLanF0aFR6TFFCTExWZHg4OWJONTItZlV3MjZtbzVBWGptMUQ5YS1XU1l1YXZtS0UwMXc2VWxwUmVWbG15RmEzWEZ2WGRyOEtfV1RlUEswMThnd2I4?oc=5",
-      "kind": "News and reporting",
-      "record_id": "aed4858c9663782c",
-      "first_seen_at": "2026-11-08T10:15:38Z",
-      "retained_excerpt": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released myRepublica",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjZRci1TTnJId2pfUFVScUtoR3kyWC15OXpvazBYWWVlYXo5cGRzeGZpLTdlajRPak8zdjdxTDFZeHJNbWctWnozUEM3bDkzRnZaeFJ0RS1LdDV5N2NlVmgzRDdOU0FPaEhsVzJjMWNLanF0aFR6TFFCTExWZHg4OWJONTItZlV3MjZtbzVBWGptMUQ5YS1XU1l1YXZtS0UwMXc2VWxwUmVWbG15RmEzWEZ2WGRyOEtfV1RlUEswMThnd2I4?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Deshsanchar",
       "date": "2026-11-02",
       "title": "Nepal’s foreign secretary says China delayed Bhotekoshi flood information - Deshsanchar",
@@ -155,6 +155,20 @@
       "first_seen_at": "2026-11-02T10:58:25Z",
       "retained_excerpt": "Rapid Gender Analysis: Bhotekoshi Flood 2026, Nepal ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMijAFBVV95cUxQcW9ucmMydDN4TzdUTWhicmJTMUVMU2tXeEVOeXlqVEVDamx2aFFHaVNIc1BfMzFSZTRHZGZTVGdlY2RFWUs5bF95SW9KaE1IMWFSZ3ZkeVg2TGVMczdteFZtUVNPQkI5TnZnQURmcDJVSVltWllNeUhBU2NiTDduOEl2eHpVY3YtcFpVNA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-11-01",
+      "title": "Woman Awaits News of Husband Missing in Rasuwa Flood - Ratopati",
+      "summary": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
+      "kind": "News and reporting",
+      "record_id": "457e28b3eda7993a",
+      "first_seen_at": "2026-11-13T23:30:15Z",
+      "retained_excerpt": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -273,6 +287,20 @@
     {
       "source": "Ratopati",
       "date": "2026-10-29",
+      "title": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood - Ratopati",
+      "summary": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
+      "kind": "News and reporting",
+      "record_id": "6678d694516006e2",
+      "first_seen_at": "2026-10-14T11:48:24Z",
+      "retained_excerpt": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-29",
       "title": "Kavrepalanchok Local Units Seek Details of Missing Persons in Bhote Koshi Flood - Ratopati",
       "summary": "Kavrepalanchok Local Units Seek Details of Missing Persons in Bhote Koshi Flood Ratopati",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdUZXbGxSZm8weFN2UGRXR2pMdE5nT3lJcmNWUTNVT1Z6c1hzdW5Oa2ZOenNMYVRNbEVISmIzanM5QU4xRmVjckJqcGlRZVVHYjJydWFNUnB6ejBJUGNhaUQwQVVlTXFEejgySTFMMHk4U3VVRDZuYzJhNUJjb3g3dElTRWRLeU56b0FxZUVNYlEyeXJlM21WenF6X0hYUUV2Vm1SS0l5VkVYQmVZeE4zdA?oc=5",
@@ -323,6 +351,20 @@
       "first_seen_at": "2026-11-05T23:36:53Z",
       "retained_excerpt": "Nepal: Rasuwa Flood - Dhading District: Operational Presence of Partners by Municipality (As of 29 October 2026) ReliefWeb",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQVNuQjZTci1JaWhjQUhwZHUyeHZGdmZzMy15QlJUYkNydnFDbHBQYXFwS01OcmJtdnZRcjVLWEdQblpTS2pLN0FKaE1wQXduUmpRMnE2bFZtd2FxREJ5YXFSRmN2VlJaLU5hZ0Z3ek5Ic1AycnAyWFhXdmU2UTE4MHNrbGZBNXVRSVdqMkJBbVVJRk5lTFNhV1NWXy1xWU1TZDRKRl9haVIxMDNyWGZrbExQTmg3TFJjelRlbXNNdXFKQmdMQ3RhUg?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Ratopati",
+      "date": "2026-10-29",
+      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
+      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
+      "kind": "News and reporting",
+      "record_id": "70d0ca9c487a12e0",
+      "first_seen_at": "2026-10-08T10:31:40Z",
+      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -523,16 +565,16 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "OnlineKhabar English News",
-      "date": "2026-10-15",
-      "title": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future - OnlineKhabar English News",
-      "summary": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future OnlineKhabar English News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXljYUZMcjRpLVQxZ0FNOXhpZHVwd2pMTmdyem1XSExWbDlhZGlmaXZsTVQtUzNxaklIWGFjeVJsVVFqMXQ1NXdkWVdVYWNDeFhYbzlsMjZkeEN4bTFuVWlWRDJJa2lVS2doRDlPU2ItdzBfYWt2cDJuWFo4aURLQWdlWWxxM2hhOHFzQVVoYUZQaF90aGg5My1vc0RmZkJWcl9FNW1XTWtha3JWN0J3VFZqSnYxS0pOSzV3?oc=5",
+      "source": "myRepublica",
+      "date": "2026-11-08",
+      "title": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released - myRepublica",
+      "summary": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released myRepublica",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjZRci1TTnJId2pfUFVScUtoR3kyWC15OXpvazBYWWVlYXo5cGRzeGZpLTdlajRPak8zdjdxTDFZeHJNbWctWnozUEM3bDkzRnZaeFJ0RS1LdDV5N2NlVmgzRDdOU0FPaEhsVzJjMWNLanF0aFR6TFFCTExWZHg4OWJONTItZlV3MjZtbzVBWGptMUQ5YS1XU1l1YXZtS0UwMXc2VWxwUmVWbG15RmEzWEZ2WGRyOEtfV1RlUEswMThnd2I4?oc=5",
       "kind": "News and reporting",
-      "record_id": "20e36fbe6e04aa47",
-      "first_seen_at": "2026-10-23T04:45:22Z",
-      "retained_excerpt": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future OnlineKhabar English News",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXljYUZMcjRpLVQxZ0FNOXhpZHVwd2pMTmdyem1XSExWbDlhZGlmaXZsTVQtUzNxaklIWGFjeVJsVVFqMXQ1NXdkWVdVYWNDeFhYbzlsMjZkeEN4bTFuVWlWRDJJa2lVS2doRDlPU2ItdzBfYWt2cDJuWFo4aURLQWdlWWxxM2hhOHFzQVVoYUZQaF90aGg5My1vc0RmZkJWcl9FNW1XTWtha3JWN0J3VFZqSnYxS0pOSzV3?oc=5",
+      "record_id": "aed4858c9663782c",
+      "first_seen_at": "2026-11-08T10:15:38Z",
+      "retained_excerpt": "Bhotekoshi Flood: Official list of 63 missing people from Jumla released myRepublica",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjZRci1TTnJId2pfUFVScUtoR3kyWC15OXpvazBYWWVlYXo5cGRzeGZpLTdlajRPak8zdjdxTDFZeHJNbWctWnozUEM3bDkzRnZaeFJ0RS1LdDV5N2NlVmgzRDdOU0FPaEhsVzJjMWNLanF0aFR6TFFCTExWZHg4OWJONTItZlV3MjZtbzVBWGptMUQ5YS1XU1l1YXZtS0UwMXc2VWxwUmVWbG15RmEzWEZ2WGRyOEtfV1RlUEswMThnd2I4?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -677,20 +719,6 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
-      "source": "Ratopati",
-      "date": "2026-11-01",
-      "title": "Woman Awaits News of Husband Missing in Rasuwa Flood - Ratopati",
-      "summary": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
-      "kind": "News and reporting",
-      "record_id": "457e28b3eda7993a",
-      "first_seen_at": "2026-11-13T23:30:15Z",
-      "retained_excerpt": "Woman Awaits News of Husband Missing in Rasuwa Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWF6TmR4UVlMWkRjMkczZGRsbVB6SlR5N2tzamYwdGFWeW9pU0VxVXZ4djdidl9UWGd4emI1T3RzZFRodVZQOWdtUXNmVkRfdDBCOU9VMVlKWnlJZ3lxSVUzcm11VDZYcmtNUVBVWmtKYVprQ3l1MEFyakJoMGlEWmF4clJpMXVuME51UjdWY3lLbXRMMzFkdlNHV0xJVWo5RkIzdFZCVkhGRENnQ1laaHNQd3FLWHMxTFNzZGZGZVRfZ0w4ZjQ0UE5BMElQMUU0RDNxN0pocFhUV2ZkSWJjVm1JMVpSQ3dieFJybDdjQkQxcmpXanhZYWVUOA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
       "source": "Ekantipur",
       "date": "2026-10-31",
       "title": "Bhotekoshi flood victims have still not received the 15,000 rupees in house rent assistance. - Ekantipur",
@@ -771,34 +799,6 @@
       "first_seen_at": "2026-10-30T22:15:47Z",
       "retained_excerpt": "Bhotekoshi flood: Kavre local governments seek details of missing residents myRepublica",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdXRlbmZ3ek8zei1IVTVBZnRTZ3NMQ29EM3hVa1BtdHJNdFEzYVJySFZueVE3VFlHTkd6eU1qTXlmQ0ppaXNvNjMwUHk5RVpNS24yaE9nM3FKaXZ0VmlwOUYtYWZTWUlTQmZWRkl4cDg5Zi1aWFZWMEJ2bXJvV0Nic19uWUhmdFgwUkNRbmI3NThKRnBHOGV4cGtRYy1kcVlrbGdoVFNsSF83NVhFck4zVmFwcDg5ZlI3VFgtOXJsMEo2UXlmVm81eA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ratopati",
-      "date": "2026-10-29",
-      "title": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood - Ratopati",
-      "summary": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
-      "kind": "News and reporting",
-      "record_id": "6678d694516006e2",
-      "first_seen_at": "2026-10-14T11:48:24Z",
-      "retained_excerpt": "National Assembly Member Somnath Poudel Criticizes Government's Response to Rasuwa Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNqZTc3RTZZYlFiYi1xZ1NhdFNUdURBMGt3aDd0LXN4U1hHX3diSFNHTnlWRU40LWFLU0h3cTdLdnpfaVZ4alRhZ21TYUFMSDk4eUZBMVJFdUtreFlUX3UzSEZZSE5SWmotMzlMNGR6SUk0aGlUaEtSUGMtdHpBNjVFci1hOHNzdFdRVmluS24wNkpSNU16TExOTGVBRnI5RWNETXZOYUFjTHJLR2dmTVFVUEJWcldOeHVsWnZtY2xfRnM?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Ratopati",
-      "date": "2026-10-29",
-      "title": "Families Await News of Relatives Lost in Bhote Koshi Flood - Ratopati",
-      "summary": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
-      "kind": "News and reporting",
-      "record_id": "70d0ca9c487a12e0",
-      "first_seen_at": "2026-10-08T10:31:40Z",
-      "retained_excerpt": "Families Await News of Relatives Lost in Bhote Koshi Flood Ratopati",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYko4UFRnSk4xZHg1REFsR3RETEQxUnpkUzJBSlp6bHNBUTU3cDRiSnFZM1l5cURSY0pWMTA1ODRKWjNfSUNWVXl3UEJFRzBTRG14QTBtX25IdVlSNnBYdjFEX29fbFhPVHFNOWh3Q1RLcU41WElWMFljSy02cWtYU2U0VkUxcUhibkJhdkxvNkpFaUpkZWJTM2piZ1JXeGhwVHFLY01tRm1OclUxOEpZeGZ1cWJkLVJOOXBqRHRFN29WV0NjMThNMUJNSlRtdXlMZXVmT1pWUDhUbkJx?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -1261,6 +1261,20 @@
       "first_seen_at": "2026-10-29T09:54:30Z",
       "retained_excerpt": "Bhotekoshi flood survivors face lasting psychological trauma Hamro Patro",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTMybzd0NkRSNmp2MDRIT25JbXYyd2NKaUJlM1o0MGpWMGd6aHdUVE5COGJwOUYxMUJtWmlvaDk1TGlJNzJ0bWg4SHcwQ2ZLR1dIdXhBZUdDTG9IV3cxcDNYcU9LdEJyODRxbl9HM3VsX3FsT0M4QW9ONVZkQ3JJcmhiZWstM0MyV3p2Ry1PZGhKX1Bka1UyQmRXODdVdVl2dWtweXNSd2lIcWtkeDE4akUwOHRJQk1tV0JN?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "OnlineKhabar English News",
+      "date": "2026-10-15",
+      "title": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future - OnlineKhabar English News",
+      "summary": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future OnlineKhabar English News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXljYUZMcjRpLVQxZ0FNOXhpZHVwd2pMTmdyem1XSExWbDlhZGlmaXZsTVQtUzNxaklIWGFjeVJsVVFqMXQ1NXdkWVdVYWNDeFhYbzlsMjZkeEN4bTFuVWlWRDJJa2lVS2doRDlPU2ItdzBfYWt2cDJuWFo4aURLQWdlWWxxM2hhOHFzQVVoYUZQaF90aGg5My1vc0RmZkJWcl9FNW1XTWtha3JWN0J3VFZqSnYxS0pOSzV3?oc=5",
+      "kind": "News and reporting",
+      "record_id": "20e36fbe6e04aa47",
+      "first_seen_at": "2026-10-23T04:45:22Z",
+      "retained_excerpt": "Rasuwa flood victims at temporary shelter struggle with loss and uncertain future OnlineKhabar English News",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXljYUZMcjRpLVQxZ0FNOXhpZHVwd2pMTmdyem1XSExWbDlhZGlmaXZsTVQtUzNxaklIWGFjeVJsVVFqMXQ1NXdkWVdVYWNDeFhYbzlsMjZkeEN4bTFuVWlWRDJJa2lVS2doRDlPU2ItdzBfYWt2cDJuWFo4aURLQWdlWWxxM2hhOHFzQVVoYUZQaF90aGg5My1vc0RmZkJWcl9FNW1XTWtha3JWN0J3VFZqSnYxS0pOSzV3?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
