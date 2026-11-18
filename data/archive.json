@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:31:28Z",
+  "generated_at": "2026-11-18T02:53:04Z",
   "collection_method": "Automated metadata and source-provided excerpt discovery; inclusion is not verification. Full copyrighted article text is not republished.",
   "errors": [],
   "count": 1062,
@@ -15,20 +15,6 @@
       "first_seen_at": "2026-11-16T00:59:55Z",
       "retained_excerpt": "Process moves ahead to declare 2,465 missing Bhotekoshi flood victims dead The Rising Nepal",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RY0daeng1QWZEMlZubTh4bXFWMnB3RGx2ZVREaFpmaG9nWDlqZmw1X0tyVjB0QzhmTUxfVVR6cHZ4NlR4R1ozcEF1T0QtUllY?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Nepal Khabar",
-      "date": "2026-11-16",
-      "title": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa - Nepal Khabar",
-      "summary": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa Nepal Khabar",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EazItdUxsU0hOT21NRl8tUGlrTnIzXzhZMk9HeDhoR0ZzVjVmLWdIckNyWVdXWnlMZDNMUm1fbV9IYU9Cd1JYVFg2MjlOUUoycFFoU1hVRkU?oc=5",
-      "kind": "News and reporting",
-      "record_id": "3b2b583e442ec116",
-      "first_seen_at": "2026-11-14T19:55:20Z",
-      "retained_excerpt": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa Nepal Khabar",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EazItdUxsU0hOT21NRl8tUGlrTnIzXzhZMk9HeDhoR0ZzVjVmLWdIckNyWVdXWnlMZDNMUm1fbV9IYU9Cd1JYVFg2MjlOUUoycFFoU1hVRkU?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -169,6 +155,34 @@
       "first_seen_at": "2026-11-08T10:15:38Z",
       "retained_excerpt": "List of 63 people from Jumla missing in Bhote Koshi flood made public Nepalnews.com",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1p1dGFFYXlFRk5sazdCS0ZhT3AyUWdNU29kQUU2aEl6ZnhkMTRVSVZPN3VPNl9EU3AzcjZkZEcxLU1pVVMzZ1gwaXc2MkpOUFBCc1JmeVFkR3hKV01WRDVBYi14ejBPM3pGd3FBNmZoUlV3andwd0ZDUEcyUzhZYklESk1HdnNobUQ5Snp2WC1uUVlPODN6YVVSNWRsaXo4WTVONjRXS0V6UjdNeVE?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "The Annapurna Express",
+      "date": "2026-11-08",
+      "title": "List of 63 people from Jumla missing in Bhotekoshi flood made public - The Annapurna Express",
+      "summary": "List of 63 people from Jumla missing in Bhotekoshi flood made public The Annapurna Express",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SlFmU09JVEltS0F3NHBRRm5QNGZtUUh1bFhpeGhfUkdCY1lxckpIUjdzZTQteFgtcmdHckd6dWl3QzFMYWpTVG5RSDNMUzNRX2JUeXpqMA?oc=5",
+      "kind": "News and reporting",
+      "record_id": "cdf125e2d66a8df6",
+      "first_seen_at": "2026-11-09T06:20:35Z",
+      "retained_excerpt": "List of 63 people from Jumla missing in Bhotekoshi flood made public The Annapurna Express",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SlFmU09JVEltS0F3NHBRRm5QNGZtUUh1bFhpeGhfUkdCY1lxckpIUjdzZTQteFgtcmdHckd6dWl3QzFMYWpTVG5RSDNMUzNRX2JUeXpqMA?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
+      "source": "Khabarhub",
+      "date": "2026-11-08",
+      "title": "List of 63 people from Jumla missing in Bhotekoshi flood made public - Khabarhub",
+      "summary": "List of 63 people from Jumla missing in Bhotekoshi flood made public Khabarhub",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ejNGUHBpWU16S2Zzb2lHZDVPbG05Y2poUzl0RkszbktaSWxsM2k3VGVMZFh0ZGRXR2Z2cFBIY0RHOHo2WkU5d2VDb0dERlVtVmQtb2Jsd3U?oc=5",
+      "kind": "News and reporting",
+      "record_id": "f6e7c8b9c6d40962",
+      "first_seen_at": "2026-11-09T06:20:35Z",
+      "retained_excerpt": "List of 63 people from Jumla missing in Bhotekoshi flood made public Khabarhub",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ejNGUHBpWU16S2Zzb2lHZDVPbG05Y2poUzl0RkszbktaSWxsM2k3VGVMZFh0ZGRXR2Z2cFBIY0RHOHo2WkU5d2VDb0dERlVtVmQtb2Jsd3U?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
@@ -705,6 +719,20 @@
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
     {
+      "source": "Nepal Khabar",
+      "date": "2026-11-16",
+      "title": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa - Nepal Khabar",
+      "summary": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa Nepal Khabar",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EazItdUxsU0hOT21NRl8tUGlrTnIzXzhZMk9HeDhoR0ZzVjVmLWdIckNyWVdXWnlMZDNMUm1fbV9IYU9Cd1JYVFg2MjlOUUoycFFoU1hVRkU?oc=5",
+      "kind": "News and reporting",
+      "record_id": "3b2b583e442ec116",
+      "first_seen_at": "2026-11-14T19:55:20Z",
+      "retained_excerpt": "Bhotekoshi flood: 3,071 people remain unaccounted for in Rasuwa Nepal Khabar",
+      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EazItdUxsU0hOT21NRl8tUGlrTnIzXzhZMk9HeDhoR0ZzVjVmLWdIckNyWVdXWnlMZDNMUm1fbV9IYU9Cd1JYVFg2MjlOUUoycFFoU1hVRkU?oc=5",
+      "content_retention": "Metadata and source-provided excerpt retained",
+      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
+    },
+    {
       "source": "Hamro Patro",
       "date": "2026-11-16",
       "title": "Process moves ahead to declare 2,465 missing Bhotekoshi flood victims dead - Hamro Patro",
@@ -757,34 +785,6 @@
       "first_seen_at": "2026-11-08T10:15:38Z",
       "retained_excerpt": "Leo, deployed in Bhotekoshi flood rescue, named best police canine OnlineKhabar English News",
       "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMidEFVX3lxTFBWUG9GLXdDVVdKTzgzd2RpQ0hpV1JGY3hWdGF6RjBiNEwzT3Qxb0dRMFZLY2E5RjlfM29SV0h6R1VQV0FKYzQzSG5TaHFtcVhwcEJ1Z0Q0c0VwOU1tMGlrQW5DQjUxQm5td0dIR20weEZYUWV6?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "The Annapurna Express",
-      "date": "2026-11-08",
-      "title": "List of 63 people from Jumla missing in Bhotekoshi flood made public - The Annapurna Express",
-      "summary": "List of 63 people from Jumla missing in Bhotekoshi flood made public The Annapurna Express",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SlFmU09JVEltS0F3NHBRRm5QNGZtUUh1bFhpeGhfUkdCY1lxckpIUjdzZTQteFgtcmdHckd6dWl3QzFMYWpTVG5RSDNMUzNRX2JUeXpqMA?oc=5",
-      "kind": "News and reporting",
-      "record_id": "cdf125e2d66a8df6",
-      "first_seen_at": "2026-11-09T06:20:35Z",
-      "retained_excerpt": "List of 63 people from Jumla missing in Bhotekoshi flood made public The Annapurna Express",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1SlFmU09JVEltS0F3NHBRRm5QNGZtUUh1bFhpeGhfUkdCY1lxckpIUjdzZTQteFgtcmdHckd6dWl3QzFMYWpTVG5RSDNMUzNRX2JUeXpqMA?oc=5",
-      "content_retention": "Metadata and source-provided excerpt retained",
-      "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
-    },
-    {
-      "source": "Khabarhub",
-      "date": "2026-11-08",
-      "title": "List of 63 people from Jumla missing in Bhotekoshi flood made public - Khabarhub",
-      "summary": "List of 63 people from Jumla missing in Bhotekoshi flood made public Khabarhub",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ejNGUHBpWU16S2Zzb2lHZDVPbG05Y2poUzl0RkszbktaSWxsM2k3VGVMZFh0ZGRXR2Z2cFBIY0RHOHo2WkU5d2VDb0dERlVtVmQtb2Jsd3U?oc=5",
-      "kind": "News and reporting",
-      "record_id": "f6e7c8b9c6d40962",
-      "first_seen_at": "2026-11-09T06:20:35Z",
-      "retained_excerpt": "List of 63 people from Jumla missing in Bhotekoshi flood made public Khabarhub",
-      "archive_lookup_url": "https://web.archive.org/web/*/https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ejNGUHBpWU16S2Zzb2lHZDVPbG05Y2poUzl0RkszbktaSWxsM2k3VGVMZFh0ZGRXR2Z2cFBIY0RHOHo2WkU5d2VDb0dERlVtVmQtb2Jsd3U?oc=5",
       "content_retention": "Metadata and source-provided excerpt retained",
       "rights_note": "Full text is not republished unless reuse permission or an open licence is documented."
     },
